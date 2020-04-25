@@ -5,8 +5,7 @@ BALABIT MOUSE CHALLENGE DATA SET
 
 ## Added on FORK
 
-- External Imposters
-External imposter sessions added by gathering data from individuals that are not in the training or testing files. Thus, we increase the validation strentgth for proposed algorithms.
+- External Imposters: Sessions added by gathering data from 10 individuals that are not in the training or testing files. Thus, we increase the validation strentgth for proposed algorithms.
 - Update on PublicLabels.csv file.
 
 ## From this line ORIGINAL CHALLANGE readme.md

@@ -8,7 +8,7 @@ BALABIT MOUSE CHALLENGE DATA SET
 - External Imposters: Sessions added by gathering data from 10 individuals that are not in the training or testing files. Thus, we increase the validation strentgth for proposed algorithms.
 - Update on PublicLabels.csv file.
 
-## From this line ORIGINAL CHALLANGE readme.md
+## From this line ORIGINAL CHALLENGE readme.md
 
 This repository contains the **[Balabit Mouse Dynamics Challenge][balabit]** data set which includes timing and positioning information of mouse pointers. It can be used for evaluating the performance of behavioral biometric algorithms based on mouse dynamics for user authentication/identification purposes.  
 We make the data set accessible to researchers and experts in the fields of IT security and data science with the hope of contributing to research and providing a benchmark data set.  

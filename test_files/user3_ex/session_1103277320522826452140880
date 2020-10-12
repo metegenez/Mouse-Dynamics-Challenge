@@ -1,0 +1,3630 @@
+action,client_timestamp,x,y,button,state,window
+Movement,1571651507.6586,48,576,None,Move,file system
+Movement,1571651507.6743,51,580,None,Move,file system
+Movement,1571651507.6898,53,590,None,Move,file system
+Movement,1571651507.7055,53,605,None,Move,file system
+Movement,1571655687.5342,53,604,None,Move,file system
+Movement,1571655687.7185,53,604,None,Move,file system
+Movement,1571655687.734,51,604,None,Move,file system
+Movement,1571655687.7496,41,604,None,Move,file system
+Movement,1571655687.7561,34,604,None,Move,file system
+Movement,1571655687.7718,27,605,None,Move,file system
+Movement,1571655687.7874,17,605,None,Move,file system
+Movement,1571655687.803,10,605,None,Move,file system
+Movement,1571655687.8186,6,605,None,Move,file system
+Movement,1571655687.8342,-2,605,None,Move,file system
+Movement,1571655687.8499,-6,605,None,Move,file system
+Movement,1571655687.8564,-5,605,None,Move,file system
+Movement,1571655687.872,-6,605,None,Move,file system
+Movement,1571655687.8876,-4,606,None,Move,file system
+Movement,1571655687.9033,-6,607,None,Move,file system
+Movement,1571655687.9189,-12,608,None,Move,file system
+Movement,1571655687.9345,-7,609,None,Move,file system
+Movement,1571655687.9567,-12,609,None,Move,file system
+Movement,1571655687.9723,-13,609,None,Move,file system
+Movement,1571655687.9879,-5,610,None,Move,file system
+Movement,1571655688.0036,-16,610,None,Move,file system
+Movement,1571655688.0505,-27,610,None,Move,file system
+Movement,1571655688.0727,-22,616,None,Move,file system
+Movement,1571655688.0883,-7,617,None,Move,file system
+Movement,1571655688.1039,-11,618,None,Move,file system
+Movement,1571655688.1195,-5,614,None,Move,file system
+Movement,1571655688.9609,0,612,None,Move,file system
+Movement,1571655688.9765,2,609,None,Move,file system
+Movement,1571655688.9921,8,604,None,Move,file system
+Movement,1571655689.0078,20,601,None,Move,file system
+Movement,1571655689.0234,24,601,None,Move,file system
+Movement,1571655689.039,25,601,None,Move,file system
+Movement,1571655689.0546,27,603,None,Move,file system
+Movement,1571655689.0611,29,605,None,Move,file system
+Movement,1571655689.0768,32,609,None,Move,file system
+Movement,1571655689.0924,37,612,None,Move,file system
+Movement,1571655689.108,40,623,None,Move,file system
+Movement,1571655689.1236,39,639,None,Move,file system
+Movement,1571655689.1393,27,677,None,Move,file system
+Movement,1571655689.1549,3,739,None,Move,file system
+Movement,1571655689.1614,-3,758,None,Move,file system
+Movement,1571655689.177,0,774,None,Move,file system
+Movement,1571655689.1926,3,776,None,Move,file system
+Movement,1571655689.2083,8,782,None,Move,file system
+Movement,1571655689.2239,18,781,None,Move,file system
+Movement,1571655689.2395,35,782,None,Move,file system
+Movement,1571655689.2616,50,776,None,Move,file system
+Movement,1571655689.2773,82,775,None,Move,file system
+Movement,1571655689.2929,109,784,None,Move,file system
+Movement,1571655689.3085,156,783,None,Move,file system
+Movement,1571655689.3241,214,783,None,Move,file system
+Movement,1571655689.3398,258,774,None,Move,file system
+Movement,1571655689.3554,311,779,None,Move,file system
+Movement,1571655689.3619,323,771,None,Move,file system
+Movement,1571655689.3775,372,771,None,Move,file system
+Movement,1571655689.3931,416,767,None,Move,file system
+Movement,1571655689.4088,473,763,None,Move,file system
+Movement,1571655689.4244,551,745,None,Move,file system
+Movement,1571655689.44,625,722,None,Move,file system
+Movement,1571655689.4556,695,689,None,Move,file system
+Movement,1571655689.4621,730,669,None,Move,file system
+Movement,1571655689.4778,815,621,None,Move,file system
+Movement,1571655689.4934,895,579,None,Move,file system
+Movement,1571655689.509,976,540,None,Move,file system
+Movement,1571655689.5246,1030,519,None,Move,file system
+Movement,1571655689.5403,1071,504,None,Move,file system
+Movement,1571655689.5559,1114,490,None,Move,file system
+Movement,1571655689.5624,1122,486,None,Move,file system
+Movement,1571655689.578,1143,479,None,Move,file system
+Movement,1571655689.5936,1162,473,None,Move,file system
+Movement,1571655689.6093,1169,473,None,Move,file system
+Movement,1571655689.6249,1172,473,None,Move,file system
+Movement,1571655689.6405,1174,475,None,Move,file system
+Movement,1571655689.6561,1179,482,None,Move,file system
+Movement,1571655689.6627,1182,485,None,Move,file system
+Movement,1571655689.6783,1187,497,None,Move,file system
+Movement,1571655689.6939,1191,515,None,Move,file system
+Movement,1571655689.7095,1192,535,None,Move,file system
+Movement,1571655689.7252,1192,569,None,Move,file system
+Movement,1571655689.7408,1188,595,None,Move,file system
+Movement,1571655689.7564,1182,621,None,Move,file system
+Movement,1571655689.7629,1181,627,None,Move,file system
+Movement,1571655689.7786,1176,648,None,Move,file system
+Movement,1571655689.7942,1176,675,None,Move,file system
+Movement,1571655689.8098,1176,692,None,Move,file system
+Movement,1571655689.8254,1178,703,None,Move,file system
+Movement,1571655689.841,1181,709,None,Move,file system
+Movement,1571655689.8567,1183,715,None,Move,file system
+Movement,1571655689.8632,1184,718,None,Move,file system
+Movement,1571655689.8788,1188,723,None,Move,file system
+Movement,1571655689.8946,1190,725,None,Move,file system
+Movement,1571655689.91,1193,729,None,Move,file system
+Movement,1571655689.9257,1195,730,None,Move,file system
+Movement,1571655689.9413,1196,731,None,Move,file system
+Movement,1571655689.9569,1196,732,None,Move,file system
+Movement,1571655689.9635,1197,733,None,Move,file system
+Movement,1571655689.9791,1197,733,None,Move,file system
+Movement,1571655689.9947,1197,734,None,Move,file system
+Movement,1571655690.0103,1198,735,None,Move,file system
+Movement,1571655690.026,1199,735,None,Move,file system
+Movement,1571655690.0416,1199,737,None,Move,file system
+Movement,1571655690.0572,1199,740,None,Move,file system
+Movement,1571655690.0638,1199,740,None,Move,file system
+Movement,1571655690.0794,1199,741,None,Move,file system
+Movement,1571655690.0952,1199,742,None,Move,file system
+Movement,1571655690.1106,1199,743,None,Move,file system
+Movement,1571655690.1263,1199,743,None,Move,file system
+Click,1571655690.184,1199,744,Left,Pressed,file system
+Click,1571655690.2839,1199,744,Left,Released,file system
+Movement,1571655690.3996,1199,744,None,Move,file system
+Movement,1571655690.4152,1199,742,None,Move,file system
+Movement,1571655690.4309,1199,737,None,Move,file system
+Movement,1571655690.4465,1200,727,None,Move,file system
+Movement,1571655690.4621,1203,710,None,Move,file system
+Movement,1571655690.4686,1205,701,None,Move,file system
+Movement,1571655690.4843,1209,682,None,Move,file system
+Movement,1571655690.4999,1214,651,None,Move,file system
+Movement,1571655690.5155,1221,604,None,Move,file system
+Movement,1571655690.5311,1227,573,None,Move,file system
+Movement,1571655690.5467,1237,512,None,Move,file system
+Movement,1571655690.5624,1244,471,None,Move,file system
+Movement,1571655690.5689,1247,440,None,Move,file system
+Movement,1571655690.5845,1251,411,None,Move,file system
+Movement,1571655690.6001,1256,374,None,Move,file system
+Movement,1571655690.6157,1257,359,None,Move,file system
+Movement,1571655690.6314,1257,328,None,Move,file system
+Movement,1571655690.647,1257,320,None,Move,file system
+Movement,1571655690.6626,1257,308,None,Move,file system
+Movement,1571655690.6691,1257,301,None,Move,file system
+Movement,1571655690.6847,1255,285,None,Move,file system
+Movement,1571655690.7004,1254,277,None,Move,file system
+Movement,1571655690.716,1252,266,None,Move,file system
+Movement,1571655690.7316,1251,263,None,Move,file system
+Movement,1571655690.7472,1249,259,None,Move,file system
+Movement,1571655690.7628,1249,258,None,Move,file system
+Movement,1571655690.7693,1249,257,None,Move,file system
+Movement,1571655690.785,1249,255,None,Move,file system
+Movement,1571655690.8006,1248,254,None,Move,file system
+Movement,1571655690.8162,1248,253,None,Move,file system
+Movement,1571655690.8318,1247,253,None,Move,file system
+Movement,1571655690.8475,1245,252,None,Move,file system
+Movement,1571655690.8631,1243,252,None,Move,file system
+Movement,1571655690.8696,1242,252,None,Move,file system
+Movement,1571655690.8852,1241,252,None,Move,file system
+Movement,1571655690.9008,1240,252,None,Move,file system
+Movement,1571655690.9165,1239,252,None,Move,file system
+Movement,1571655690.9695,1238,252,None,Move,file system
+Movement,1571655690.9852,1237,252,None,Move,file system
+Movement,1571655691.0008,1235,253,None,Move,file system
+Movement,1571655691.0164,1233,253,None,Move,file system
+Movement,1571655691.032,1231,255,None,Move,file system
+Movement,1571655691.0477,1227,257,None,Move,file system
+Movement,1571655691.0666,1224,258,None,Move,file system
+Movement,1571655691.0696,1223,259,None,Move,file system
+Movement,1571655691.0853,1222,259,None,Move,file system
+Movement,1571655691.1009,1221,261,None,Move,file system
+Movement,1571655691.1165,1220,262,None,Move,file system
+Movement,1571655691.1321,1220,264,None,Move,file system
+Movement,1571655691.1478,1218,268,None,Move,file system
+Movement,1571655691.1699,1217,270,None,Move,file system
+Movement,1571655691.1855,1217,276,None,Move,file system
+Movement,1571655691.2012,1217,279,None,Move,file system
+Movement,1571655691.2168,1217,280,None,Move,file system
+Movement,1571655691.2481,1217,282,None,Move,file system
+Movement,1571655691.286,1217,283,None,Move,file system
+Movement,1571655691.3016,1217,286,None,Move,file system
+Movement,1571655691.3172,1217,290,None,Move,file system
+Movement,1571655691.3328,1217,295,None,Move,file system
+Movement,1571655691.3486,1217,298,None,Move,file system
+Movement,1571655691.3641,1217,303,None,Move,file system
+Movement,1571655691.3706,1217,305,None,Move,file system
+Movement,1571655691.3863,1217,311,None,Move,file system
+Movement,1571655691.4019,1217,317,None,Move,file system
+Movement,1571655691.4175,1217,325,None,Move,file system
+Movement,1571655691.4331,1217,335,None,Move,file system
+Movement,1571655691.4487,1217,342,None,Move,file system
+Movement,1571655691.4644,1217,346,None,Move,file system
+Movement,1571655691.4709,1217,347,None,Move,file system
+Movement,1571655691.4866,1217,349,None,Move,file system
+Movement,1571655691.5334,1217,349,None,Move,file system
+Movement,1571655691.549,1217,347,None,Move,file system
+Movement,1571655691.5646,1217,339,None,Move,file system
+Movement,1571655691.5712,1217,333,None,Move,file system
+Movement,1571655691.5868,1216,321,None,Move,file system
+Movement,1571655691.6024,1216,306,None,Move,file system
+Movement,1571655691.6181,1216,288,None,Move,file system
+Movement,1571655691.6336,1216,274,None,Move,file system
+Movement,1571655691.6493,1220,268,None,Move,file system
+Movement,1571655691.6685,1221,267,None,Move,file system
+Movement,1571655691.6711,1221,266,None,Move,file system
+Movement,1571655691.6867,1222,265,None,Move,file system
+Movement,1571655691.7023,1222,265,None,Move,file system
+Movement,1571655691.7493,1222,264,None,Move,file system
+Click,1571655691.7711,1222,264,Left,Pressed,file system
+Click,1571655691.8714,1222,264,Left,Released,file system
+Movement,1571655691.9717,1223,264,None,Move,file system
+Movement,1571655691.9873,1224,266,None,Move,file system
+Movement,1571655692.0029,1227,271,None,Move,file system
+Movement,1571655692.0186,1229,278,None,Move,file system
+Movement,1571655692.0342,1232,285,None,Move,file system
+Movement,1571655692.0498,1234,293,None,Move,file system
+Movement,1571655692.0654,1238,307,None,Move,file system
+Movement,1571655692.072,1239,313,None,Move,file system
+Movement,1571655692.0876,1240,321,None,Move,file system
+Movement,1571655692.1032,1241,331,None,Move,file system
+Movement,1571655692.1188,1242,342,None,Move,file system
+Movement,1571655692.1345,1242,346,None,Move,file system
+Movement,1571655692.1501,1242,360,None,Move,file system
+Movement,1571655692.1657,1242,365,None,Move,file system
+Movement,1571655692.1722,1242,369,None,Move,file system
+Movement,1571655692.1878,1244,376,None,Move,file system
+Movement,1571655692.2035,1246,382,None,Move,file system
+Movement,1571655692.2191,1250,385,None,Move,file system
+Movement,1571655692.2347,1254,387,None,Move,file system
+Movement,1571655692.2503,1259,387,None,Move,file system
+Movement,1571655692.2659,1266,387,None,Move,file system
+Movement,1571655692.2725,1272,387,None,Move,file system
+Movement,1571655692.2881,1282,387,None,Move,file system
+Movement,1571655692.3037,1291,387,None,Move,file system
+Movement,1571655692.3193,1296,387,None,Move,file system
+Movement,1571655692.335,1298,387,None,Move,file system
+Movement,1571655692.3884,1298,387,None,Move,file system
+Movement,1571655692.404,1298,387,None,Move,file system
+Movement,1571655692.4196,1297,383,None,Move,file system
+Movement,1571655692.4352,1296,380,None,Move,file system
+Movement,1571655692.4509,1294,374,None,Move,file system
+Movement,1571655692.4665,1294,369,None,Move,file system
+Movement,1571655692.473,1293,367,None,Move,file system
+Movement,1571655692.4886,1293,364,None,Move,file system
+Movement,1571655692.5043,1292,361,None,Move,file system
+Movement,1571655692.5199,1292,360,None,Move,file system
+Movement,1571655692.5512,1292,358,None,Move,file system
+Movement,1571655692.5733,1292,358,None,Move,file system
+Click,1571655692.5889,1292,358,Left,Pressed,file system
+Click,1571655692.6822,1292,358,Left,Released,file system
+Movement,1571655692.7979,1291,358,None,Move,file system
+Movement,1571655692.8135,1290,358,None,Move,file system
+Movement,1571655692.8291,1289,358,None,Move,file system
+Movement,1571655692.8447,1287,357,None,Move,file system
+Movement,1571655692.8604,1283,357,None,Move,file system
+Movement,1571655692.876,1280,357,None,Move,file system
+Movement,1571655692.8825,1271,357,None,Move,file system
+Movement,1571655692.8981,1267,357,None,Move,file system
+Movement,1571655692.9137,1255,357,None,Move,file system
+Movement,1571655692.9294,1224,357,None,Move,file system
+Movement,1571655692.945,1213,358,None,Move,file system
+Movement,1571655692.9606,1184,358,None,Move,file system
+Movement,1571655692.9827,1137,358,None,Move,file system
+Movement,1571655692.9984,1090,358,None,Move,file system
+Movement,1571655693.014,1079,358,None,Move,file system
+Movement,1571655693.0296,1062,359,None,Move,file system
+Movement,1571655693.0452,1032,364,None,Move,file system
+Movement,1571655693.0608,1020,367,None,Move,file system
+Movement,1571655693.0765,997,377,None,Move,file system
+Movement,1571655693.085,989,381,None,Move,file system
+Movement,1571655693.1031,967,397,None,Move,file system
+Movement,1571655693.1152,933,425,None,Move,file system
+Movement,1571655693.1253,916,438,None,Move,file system
+Movement,1571655693.1438,869,485,None,Move,file system
+Movement,1571655693.1559,820,539,None,Move,file system
+Movement,1571655693.166,777,595,None,Move,file system
+Movement,1571655693.1861,747,641,None,Move,file system
+Movement,1571655693.1961,717,694,None,Move,file system
+Movement,1571655693.2062,708,710,None,Move,file system
+Movement,1571655693.2273,684,747,None,Move,file system
+Movement,1571655693.2374,660,783,None,Move,file system
+Movement,1571655693.2487,642,788,None,Move,file system
+Movement,1571655693.259,635,777,None,Move,file system
+Movement,1571655693.2791,621,782,None,Move,file system
+Movement,1571655693.2892,613,777,None,Move,file system
+Movement,1571655693.2993,601,779,None,Move,file system
+Movement,1571655693.3093,596,771,None,Move,file system
+Movement,1571655693.3294,582,776,None,Move,file system
+Movement,1571655693.3395,572,772,None,Move,file system
+Movement,1571655693.3496,568,769,None,Move,file system
+Movement,1571655693.3599,560,770,None,Move,file system
+Movement,1571655693.3801,549,770,None,Move,file system
+Movement,1571655693.3901,539,769,None,Move,file system
+Movement,1571655693.4002,531,768,None,Move,file system
+Movement,1571655693.4103,508,767,None,Move,file system
+Movement,1571655693.4203,501,767,None,Move,file system
+Movement,1571655693.4304,477,759,None,Move,file system
+Movement,1571655693.4505,463,753,None,Move,file system
+Movement,1571655693.4606,460,751,None,Move,file system
+Movement,1571655693.4807,457,747,None,Move,file system
+Movement,1571655693.5008,457,745,None,Move,file system
+Movement,1571655693.5108,457,745,None,Move,file system
+Movement,1571655693.531,458,744,None,Move,file system
+Movement,1571655693.541,460,743,None,Move,file system
+Movement,1571655693.5511,462,742,None,Move,file system
+Movement,1571655693.5612,465,742,None,Move,file system
+Movement,1571655693.5712,473,740,None,Move,file system
+Movement,1571655693.5893,474,740,None,Move,file system
+Movement,1571655693.603,486,739,None,Move,file system
+Movement,1571655693.6125,494,739,None,Move,file system
+Movement,1571655693.6236,498,739,None,Move,file system
+Movement,1571655693.6336,502,738,None,Move,file system
+Movement,1571655693.6437,505,738,None,Move,file system
+Movement,1571655693.6537,506,737,None,Move,file system
+Movement,1571655693.6718,511,736,None,Move,file system
+Movement,1571655693.6819,511,736,None,Move,file system
+Movement,1571655693.692,515,736,None,Move,file system
+Movement,1571655693.7021,517,736,None,Move,file system
+Movement,1571655693.7041,518,736,None,Move,file system
+Movement,1571655693.7121,519,736,None,Move,file system
+Movement,1571655693.7221,520,736,None,Move,file system
+Movement,1571655693.7378,522,736,None,Move,file system
+Movement,1571655693.7534,525,737,None,Move,file system
+Movement,1571655693.769,529,737,None,Move,file system
+Movement,1571655693.7846,534,738,None,Move,file system
+Movement,1571655693.8002,538,738,None,Move,file system
+Movement,1571655693.8159,557,741,None,Move,file system
+Movement,1571655693.8224,562,742,None,Move,file system
+Movement,1571655693.838,586,744,None,Move,file system
+Movement,1571655693.8536,597,744,None,Move,file system
+Movement,1571655693.8692,602,744,None,Move,file system
+Movement,1571655693.8849,609,746,None,Move,file system
+Movement,1571655693.9005,609,746,None,Move,file system
+Movement,1571655693.9226,610,746,None,Move,file system
+Movement,1571655694.0007,610,747,None,Move,file system
+Movement,1571655694.0229,611,747,None,Move,file system
+Movement,1571655694.0385,611,747,None,Move,file system
+Movement,1571655694.0541,611,748,None,Move,file system
+Movement,1571655694.0697,612,748,None,Move,file system
+Movement,1571655694.0853,612,748,None,Move,file system
+Movement,1571655694.1166,613,748,None,Move,file system
+Movement,1571655694.2234,613,749,None,Move,file system
+Movement,1571655694.3548,613,750,None,Move,file system
+Movement,1571655694.3669,612,750,None,Move,file system
+Movement,1571655694.375,610,750,None,Move,file system
+Movement,1571655694.385,609,750,None,Move,file system
+Movement,1571655694.3951,608,751,None,Move,file system
+Movement,1571655694.4052,604,751,None,Move,file system
+Movement,1571655694.4153,601,752,None,Move,file system
+Movement,1571655694.4173,599,752,None,Move,file system
+Movement,1571655694.4273,596,752,None,Move,file system
+Movement,1571655694.4374,592,752,None,Move,file system
+Movement,1571655694.4475,591,752,None,Move,file system
+Movement,1571655694.4676,590,752,None,Move,file system
+Movement,1571655694.4777,590,752,None,Move,file system
+Movement,1571655694.5068,589,752,None,Move,file system
+Movement,1571655694.5187,588,752,None,Move,file system
+Movement,1571655694.5287,588,752,None,Move,file system
+Movement,1571655694.5388,587,752,None,Move,file system
+Movement,1571655694.559,586,752,None,Move,file system
+Click,1571655694.5995,586,752,Left,Pressed,file system
+Click,1571655694.7306,586,752,Left,Released,file system
+Movement,1571655694.8796,586,752,None,Move,office
+Movement,1571655694.8896,586,752,None,Move,office
+Movement,1571655694.9017,586,752,None,Move,office
+Movement,1571655694.9117,586,750,None,Move,office
+Movement,1571655694.9219,586,749,None,Move,office
+Movement,1571655694.94,586,749,None,Move,office
+Movement,1571655694.9521,586,748,None,Move,office
+Movement,1571655694.9622,586,746,None,Move,office
+Movement,1571655694.9722,586,745,None,Move,office
+Movement,1571655694.9823,586,744,None,Move,office
+Movement,1571655694.9923,586,743,None,Move,office
+Movement,1571655695.0024,586,740,None,Move,office
+Movement,1571655695.0205,586,739,None,Move,office
+Movement,1571655695.0326,586,736,None,Move,office
+Movement,1571655695.0527,586,732,None,Move,office
+Movement,1571655695.0728,586,730,None,Move,office
+Movement,1571655695.0829,586,730,None,Move,office
+Movement,1571655695.0929,587,727,None,Move,office
+Movement,1571655695.1131,589,723,None,Move,office
+Movement,1571655695.1333,591,720,None,Move,office
+Movement,1571655695.1434,592,717,None,Move,office
+Movement,1571655695.1615,595,712,None,Move,office
+Movement,1571655695.1736,598,709,None,Move,office
+Movement,1571655695.184,600,708,None,Move,office
+Movement,1571655695.2041,601,708,None,Move,office
+Movement,1571655695.2249,602,708,None,Move,office
+Movement,1571655695.2349,603,707,None,Move,office
+Movement,1571655695.346,604,707,None,Move,browsing
+Movement,1571655695.4064,607,710,None,Move,browsing
+Movement,1571655695.4165,607,711,None,Move,browsing
+Movement,1571655695.4568,611,719,None,Move,browsing
+Movement,1571655695.4749,612,723,None,Move,browsing
+Movement,1571655695.487,612,723,None,Move,browsing
+Movement,1571655695.4971,612,724,None,Move,browsing
+Movement,1571655695.5072,612,725,None,Move,browsing
+Movement,1571655695.5978,612,725,None,Move,browsing
+Movement,1571655695.638,612,725,None,Move,browsing
+Movement,1571655695.6884,613,719,None,Move,browsing
+Movement,1571655695.6985,615,717,None,Move,browsing
+Movement,1571655695.7166,615,716,None,Move,browsing
+Movement,1571655695.7387,616,713,None,Move,browsing
+Movement,1571655695.7488,617,711,None,Move,browsing
+Movement,1571655695.7589,618,711,None,Move,browsing
+Movement,1571655695.769,618,711,None,Move,browsing
+Movement,1571655695.779,619,709,None,Move,browsing
+Movement,1571655695.7894,621,709,None,Move,browsing
+Movement,1571655695.7994,621,709,None,Move,browsing
+Movement,1571655695.888,621,709,None,Move,browsing
+Movement,1571655695.9001,621,710,None,Move,browsing
+Movement,1571655695.9202,620,716,None,Move,browsing
+Movement,1571655695.9303,619,719,None,Move,browsing
+Movement,1571655695.9403,615,725,None,Move,browsing
+Movement,1571655695.9505,614,728,None,Move,browsing
+Movement,1571655695.9686,610,734,None,Move,browsing
+Movement,1571655695.9807,609,737,None,Move,browsing
+Movement,1571655695.9908,604,745,None,Move,browsing
+Movement,1571655696.0189,599,753,None,Move,browsing
+Movement,1571655696.0311,599,755,None,Move,browsing
+Movement,1571655696.0512,598,756,None,Move,browsing
+Click,1571655696.2026,598,756,Right,Pressed,browsing
+Click,1571655696.3034,598,756,Right,Released,browsing
+Movement,1571655696.3236,598,756,None,Move,file system
+Movement,1571655696.3418,598,756,None,Move,file system
+Movement,1571655696.3539,599,756,None,Move,file system
+Movement,1571655696.3639,600,755,None,Move,file system
+Movement,1571655696.384,601,755,None,Move,file system
+Movement,1571655696.3944,602,755,None,Move,file system
+Movement,1571655696.4045,603,754,None,Move,file system
+Movement,1571655696.4226,604,754,None,Move,file system
+Movement,1571655696.4447,605,754,None,Move,file system
+Movement,1571655696.485,606,754,None,Move,file system
+Movement,1571655696.5133,606,754,None,Move,file system
+Movement,1571655696.5253,607,753,None,Move,file system
+Movement,1571655696.5354,609,751,None,Move,file system
+Movement,1571655696.5556,612,748,None,Move,file system
+Movement,1571655696.5656,612,747,None,Move,file system
+Movement,1571655696.5757,615,743,None,Move,file system
+Movement,1571655696.5857,616,743,None,Move,file system
+Movement,1571655696.6039,616,742,None,Move,file system
+Movement,1571655696.6139,617,741,None,Move,file system
+Movement,1571655696.624,618,740,None,Move,file system
+Movement,1571655696.6363,618,739,None,Move,file system
+Movement,1571655696.6463,619,738,None,Move,file system
+Movement,1571655696.6645,621,736,None,Move,file system
+Movement,1571655696.6765,621,736,None,Move,file system
+Movement,1571655696.6866,622,735,None,Move,file system
+Movement,1571655696.7067,622,734,None,Move,file system
+Movement,1571655696.7168,623,733,None,Move,file system
+Movement,1571655696.7369,623,732,None,Move,file system
+Movement,1571655696.7671,623,732,None,Move,file system
+Movement,1571655696.7852,623,732,None,Move,file system
+Movement,1571655696.7973,623,731,None,Move,file system
+Movement,1571655696.8878,623,731,None,Move,file system
+Movement,1571655696.9181,623,730,None,Move,file system
+Movement,1571655696.9281,623,730,None,Move,file system
+Movement,1571655696.9583,623,728,None,Move,file system
+Movement,1571655696.9785,623,727,None,Move,file system
+Movement,1571655697.0292,623,726,None,Move,file system
+Movement,1571655697.0394,623,725,None,Move,file system
+Movement,1571655697.0997,623,724,None,Move,file system
+Movement,1571655697.1199,623,724,None,Move,file system
+Movement,1571655697.1604,623,723,None,Move,file system
+Movement,1571655697.1805,624,723,None,Move,file system
+Movement,1571655697.1905,624,723,None,Move,file system
+Movement,1571655697.2086,624,722,None,Move,file system
+Movement,1571655697.2207,625,722,None,Move,file system
+Movement,1571655697.2408,625,721,None,Move,file system
+Movement,1571655697.2509,625,720,None,Move,file system
+Movement,1571655697.2711,625,720,None,Move,file system
+Movement,1571655697.543,625,720,None,Move,file system
+Movement,1571655697.553,625,721,None,Move,file system
+Movement,1571655697.5834,623,726,None,Move,file system
+Movement,1571655697.5935,620,732,None,Move,file system
+Movement,1571655697.6139,618,737,None,Move,file system
+Movement,1571655697.632,618,738,None,Move,file system
+Movement,1571655697.6441,618,740,None,Move,file system
+Movement,1571655697.6643,617,741,None,Move,file system
+Movement,1571655697.6743,617,741,None,Move,file system
+Movement,1571655697.6844,617,742,None,Move,file system
+Movement,1571655697.7025,617,742,None,Move,file system
+Click,1571655697.7852,617,742,Right,Pressed,file system
+Click,1571655697.8746,617,742,Right,Released,file system
+Movement,1571655698.0684,616,742,None,Move,file system
+Movement,1571655698.0785,615,742,None,Move,file system
+Movement,1571655698.1087,613,735,None,Move,file system
+Movement,1571655698.1369,611,731,None,Move,file system
+Movement,1571655698.149,611,728,None,Move,file system
+Movement,1571655698.1591,610,724,None,Move,file system
+Movement,1571655698.1772,610,723,None,Move,file system
+Movement,1571655698.1873,609,720,None,Move,file system
+Movement,1571655698.1993,608,719,None,Move,file system
+Movement,1571655698.2097,608,716,None,Move,file system
+Movement,1571655698.2499,607,713,None,Move,file system
+Movement,1571655698.2701,607,712,None,Move,file system
+Movement,1571655698.2802,606,710,None,Move,file system
+Movement,1571655698.2902,605,709,None,Move,file system
+Movement,1571655698.3104,603,703,None,Move,file system
+Movement,1571655698.3204,602,701,None,Move,file system
+Movement,1571655698.3507,602,698,None,Move,file system
+Movement,1571655698.3909,602,697,None,Move,file system
+Click,1571655698.6330001,602,697,Left,Pressed,file system
+Movement,1571655698.6331,602,697,None,Drag,file system
+Click,1571655698.6332,602,697,Left,Released,file system
+Movement,1571655698.9558,601,697,None,Move,browsing
+Movement,1571655699.0163,585,632,None,Move,browsing
+Movement,1571655699.1172,457,304,None,Move,browsing
+Movement,1571655699.1676,351,67,None,Move,browsing
+Movement,1571655699.1857,339,45,None,Move,browsing
+Movement,1571655699.2079,333,34,None,Move,browsing
+Movement,1571655699.218,330,27,None,Move,browsing
+Movement,1571655699.2482,327,20,None,Move,browsing
+Movement,1571655699.2683,322,12,None,Move,browsing
+Movement,1571655699.2864,319,7,None,Move,browsing
+Movement,1571655699.2985,316,1,None,Move,browsing
+Movement,1571655699.3085,313,-3,None,Move,browsing
+Movement,1571655699.3186,312,-3,None,Move,browsing
+Movement,1571655699.3287,306,-10,None,Move,browsing
+Movement,1571655699.3488,297,-16,None,Move,browsing
+Movement,1571655699.3589,297,-3,None,Move,browsing
+Movement,1571655699.379,294,-3,None,Move,browsing
+Movement,1571655699.387,294,-1,None,Move,browsing
+Movement,1571655699.3991,294,0,None,Move,browsing
+Movement,1571655699.4376,294,0,None,Move,browsing
+Movement,1571655699.4477,294,2,None,Move,browsing
+Movement,1571655699.4577,294,6,None,Move,browsing
+Movement,1571655699.4698,295,18,None,Move,browsing
+Movement,1571655699.4799,295,30,None,Move,browsing
+Movement,1571655699.4899,295,44,None,Move,browsing
+Movement,1571655699.5,296,47,None,Move,browsing
+Movement,1571655699.5201,300,65,None,Move,browsing
+Movement,1571655699.5403,305,77,None,Move,browsing
+Movement,1571655699.5705,307,83,None,Move,browsing
+Movement,1571655699.5805,307,84,None,Move,browsing
+Movement,1571655699.5906,307,84,None,Move,browsing
+Movement,1571655699.7819,307,84,None,Move,browsing
+Movement,1571655699.7899,307,83,None,Move,browsing
+Movement,1571655699.8122,307,77,None,Move,browsing
+Movement,1571655699.8223,308,75,None,Move,browsing
+Movement,1571655699.8806,312,61,None,Move,browsing
+Movement,1571655699.8927,313,60,None,Move,browsing
+Movement,1571655699.9028,314,59,None,Move,browsing
+Movement,1571655699.9213,314,58,None,Move,browsing
+Movement,1571655700.0949,314,58,None,Move,browsing
+Movement,1571655712.7781,314,58,None,Move,browsing
+Movement,1571655712.7891,314,58,None,Move,browsing
+Movement,1571655712.799,314,59,None,Move,browsing
+Movement,1571655712.808,314,60,None,Move,browsing
+Movement,1571655712.8389,316,65,None,Move,browsing
+Movement,1571655712.8609,316,72,None,Move,browsing
+Movement,1571655712.8798,316,75,None,Move,browsing
+Movement,1571655712.9197,316,76,None,Move,browsing
+Movement,1571655713.0045,293,128,None,Move,browsing
+Movement,1571655713.0554,252,169,None,Move,browsing
+Movement,1571655713.0723,242,181,None,Move,browsing
+Movement,1571655713.0923,237,186,None,Move,browsing
+Movement,1571655713.1172,230,198,None,Move,browsing
+Movement,1571655713.1381,224,207,None,Move,browsing
+Movement,1571655713.1521,219,218,None,Move,browsing
+Movement,1571655713.1611,217,222,None,Move,browsing
+Movement,1571655713.172,214,234,None,Move,browsing
+Movement,1571655713.182,212,236,None,Move,browsing
+Movement,1571655713.191,212,238,None,Move,browsing
+Movement,1571655713.202,210,242,None,Move,browsing
+Movement,1571655713.2109,210,244,None,Move,browsing
+Movement,1571655713.2219,210,245,None,Move,browsing
+Movement,1571655713.2329,210,248,None,Move,browsing
+Movement,1571655713.2429,210,250,None,Move,browsing
+Movement,1571655713.2528,210,252,None,Move,browsing
+Movement,1571655713.2618,212,255,None,Move,browsing
+Movement,1571655713.2718,226,268,None,Move,browsing
+Movement,1571655713.2818,245,282,None,Move,browsing
+Movement,1571655713.2907,262,293,None,Move,browsing
+Movement,1571655713.3007,275,301,None,Move,browsing
+Movement,1571655713.3097,294,313,None,Move,browsing
+Movement,1571655713.3256,352,345,None,Move,browsing
+Movement,1571655713.3486,423,382,None,Move,browsing
+Movement,1571655713.3595,473,401,None,Move,browsing
+Movement,1571655713.3695,487,405,None,Move,browsing
+Movement,1571655713.3805,523,413,None,Move,browsing
+Movement,1571655713.3925,550,417,None,Move,browsing
+Movement,1571655713.4024,562,418,None,Move,browsing
+Movement,1571655713.4114,575,419,None,Move,browsing
+Movement,1571655713.4234,598,419,None,Move,browsing
+Movement,1571655713.4324,606,419,None,Move,browsing
+Movement,1571655713.4423,613,418,None,Move,browsing
+Movement,1571655713.4533,619,417,None,Move,browsing
+Movement,1571655713.4643,622,415,None,Move,browsing
+Movement,1571655713.4722,626,412,None,Move,browsing
+Movement,1571655713.4862,629,409,None,Move,browsing
+Movement,1571655713.4992,633,405,None,Move,browsing
+Movement,1571655713.5082,635,403,None,Move,browsing
+Movement,1571655713.5191,636,401,None,Move,browsing
+Movement,1571655713.5281,637,400,None,Move,browsing
+Movement,1571655713.5381,639,398,None,Move,browsing
+Movement,1571655713.548,639,397,None,Move,browsing
+Movement,1571655713.556,639,397,None,Move,browsing
+Movement,1571655713.566,639,396,None,Move,browsing
+Movement,1571655713.575,639,395,None,Move,browsing
+Movement,1571655713.5839,640,394,None,Move,browsing
+Movement,1571655713.5999,640,394,None,Move,browsing
+Movement,1571655713.6179,640,393,None,Move,browsing
+Movement,1571655713.6298,640,392,None,Move,browsing
+Movement,1571655713.6398,640,392,None,Move,browsing
+Movement,1571655713.6518,640,391,None,Move,browsing
+Movement,1571655713.6607,640,390,None,Move,browsing
+Movement,1571655713.6727,640,389,None,Move,browsing
+Movement,1571655713.6837,640,389,None,Move,browsing
+Movement,1571655713.8582,640,389,None,Move,browsing
+Movement,1571655713.8732,641,390,None,Move,browsing
+Movement,1571655713.8851,641,392,None,Move,browsing
+Movement,1571655713.8961,643,392,None,Move,browsing
+Movement,1571655713.9081,644,395,None,Move,browsing
+Movement,1571655713.922,645,398,None,Move,browsing
+Movement,1571655713.935,645,400,None,Move,browsing
+Movement,1571655713.944,645,401,None,Move,browsing
+Movement,1571655713.9569,645,403,None,Move,browsing
+Movement,1571655713.9709,646,404,None,Move,browsing
+Movement,1571655713.9829,646,405,None,Move,browsing
+Movement,1571655714.0058,646,406,None,Move,browsing
+Movement,1571655714.0198,646,406,None,Move,browsing
+Movement,1571655714.0517,646,407,None,Move,browsing
+Movement,1571655715.3663,648,407,None,Move,browsing
+Movement,1571655715.3743,652,407,None,Move,browsing
+Movement,1571655715.3823,659,407,None,Move,browsing
+Movement,1571655715.3902,667,408,None,Move,browsing
+Movement,1571655715.4022,676,409,None,Move,browsing
+Movement,1571655715.4102,684,410,None,Move,browsing
+Movement,1571655715.4179,694,411,None,Move,browsing
+Movement,1571655715.4269,702,412,None,Move,browsing
+Movement,1571655715.4388,724,415,None,Move,browsing
+Movement,1571655715.4468,728,416,None,Move,browsing
+Movement,1571655715.4538,736,418,None,Move,browsing
+Movement,1571655715.4618,739,418,None,Move,browsing
+Movement,1571655715.4688,745,419,None,Move,browsing
+Movement,1571655715.4757,748,420,None,Move,browsing
+Movement,1571655715.4847,751,421,None,Move,browsing
+Movement,1571655715.4927,753,421,None,Move,browsing
+Movement,1571655715.5007,753,421,None,Move,browsing
+Movement,1571655715.5097,755,421,None,Move,browsing
+Movement,1571655715.5216,756,421,None,Move,browsing
+Movement,1571655715.5306,756,421,None,Move,browsing
+Movement,1571655715.5376,757,421,None,Move,browsing
+Movement,1571655715.5466,758,421,None,Move,browsing
+Movement,1571655715.5545,759,421,None,Move,browsing
+Movement,1571655715.5635,759,421,None,Move,browsing
+Movement,1571655715.5725,760,421,None,Move,browsing
+Movement,1571655715.5805,761,421,None,Move,browsing
+Movement,1571655715.7106,760,421,None,Move,browsing
+Movement,1571655715.7186,759,421,None,Move,browsing
+Movement,1571655715.7266,757,421,None,Move,browsing
+Movement,1571655715.7365,755,421,None,Move,browsing
+Movement,1571655715.7445,751,421,None,Move,browsing
+Movement,1571655715.7535,745,420,None,Move,browsing
+Movement,1571655715.7644,740,420,None,Move,browsing
+Movement,1571655715.7764,729,419,None,Move,browsing
+Movement,1571655715.7864,722,418,None,Move,browsing
+Movement,1571655715.7953,712,417,None,Move,browsing
+Movement,1571655715.8033,706,417,None,Move,browsing
+Movement,1571655715.8103,699,416,None,Move,browsing
+Movement,1571655715.8193,693,416,None,Move,browsing
+Movement,1571655715.8262,686,415,None,Move,browsing
+Movement,1571655715.8352,675,413,None,Move,browsing
+Movement,1571655715.8422,670,412,None,Move,browsing
+Movement,1571655715.8512,663,412,None,Move,browsing
+Movement,1571655715.8582,661,412,None,Move,browsing
+Movement,1571655715.8691,654,412,None,Move,browsing
+Movement,1571655715.8811,649,411,None,Move,browsing
+Movement,1571655715.8901,641,411,None,Move,browsing
+Movement,1571655715.9,639,411,None,Move,browsing
+Movement,1571655715.907,634,411,None,Move,browsing
+Movement,1571655715.917,631,411,None,Move,browsing
+Movement,1571655715.924,627,411,None,Move,browsing
+Movement,1571655715.935,624,411,None,Move,browsing
+Movement,1571655715.9429,620,411,None,Move,browsing
+Movement,1571655715.9529,614,411,None,Move,browsing
+Movement,1571655715.9612,610,411,None,Move,browsing
+Movement,1571655715.9692,607,411,None,Move,browsing
+Movement,1571655715.9762,604,411,None,Move,browsing
+Movement,1571655715.9851,602,410,None,Move,browsing
+Movement,1571655715.9921,601,410,None,Move,browsing
+Movement,1571655716.0001,599,409,None,Move,browsing
+Movement,1571655716.0071,597,408,None,Move,browsing
+Movement,1571655716.0171,596,408,None,Move,browsing
+Movement,1571655716.024,595,408,None,Move,browsing
+Movement,1571655716.036,594,408,None,Move,browsing
+Movement,1571655716.051,594,408,None,Move,browsing
+Movement,1571655716.0609,593,408,None,Move,browsing
+Movement,1571655716.0709,592,408,None,Move,browsing
+Movement,1571655716.0819,591,408,None,Move,browsing
+Movement,1571655716.0909,591,408,None,Move,browsing
+Movement,1571655716.1019,590,408,None,Move,browsing
+Movement,1571655716.1704,590,408,None,Move,browsing
+Movement,1571655716.3419,590,407,None,Move,browsing
+Movement,1571655716.3658,590,407,None,Move,browsing
+Movement,1571655716.4057,590,406,None,Move,browsing
+Movement,1571655716.4137,591,405,None,Move,browsing
+Movement,1571655716.4207,593,405,None,Move,browsing
+Movement,1571655716.4286,595,405,None,Move,browsing
+Movement,1571655716.4416,595,405,None,Move,browsing
+Movement,1571655716.4486,597,405,None,Move,browsing
+Movement,1571655716.4556,599,404,None,Move,browsing
+Movement,1571655716.4636,601,403,None,Move,browsing
+Movement,1571655716.4705,603,403,None,Move,browsing
+Movement,1571655716.4785,604,403,None,Move,browsing
+Movement,1571655716.4855,606,403,None,Move,browsing
+Movement,1571655716.4935,606,402,None,Move,browsing
+Movement,1571655716.5034,607,402,None,Move,browsing
+Movement,1571655716.5114,607,401,None,Move,browsing
+Movement,1571655716.6245,607,401,None,Move,browsing
+Movement,1571655716.6325,607,400,None,Move,browsing
+Movement,1571655716.6404,606,399,None,Move,browsing
+Movement,1571655716.6495,604,397,None,Move,browsing
+Movement,1571655716.6559,601,395,None,Move,browsing
+Movement,1571655716.6659,595,392,None,Move,browsing
+Movement,1571655716.6729,589,390,None,Move,browsing
+Movement,1571655716.6828,575,386,None,Move,browsing
+Movement,1571655716.6889,564,382,None,Move,browsing
+Movement,1571655716.6996,558,381,None,Move,browsing
+Movement,1571655716.7062,537,379,None,Move,browsing
+Movement,1571655716.7172,530,378,None,Move,browsing
+Movement,1571655716.7242,516,375,None,Move,browsing
+Movement,1571655716.7411,499,371,None,Move,browsing
+Movement,1571655716.7513,485,368,None,Move,browsing
+Movement,1571655716.7587,479,368,None,Move,browsing
+Movement,1571655716.7677,475,367,None,Move,browsing
+Movement,1571655716.7747,472,367,None,Move,browsing
+Movement,1571655716.7846,470,367,None,Move,browsing
+Movement,1571655716.7906,468,367,None,Move,browsing
+Movement,1571655716.8006,467,367,None,Move,browsing
+Movement,1571655716.9921,467,367,None,Move,browsing
+Movement,1571655717.0012,469,367,None,Move,browsing
+Movement,1571655717.008,474,367,None,Move,browsing
+Movement,1571655717.017,481,366,None,Move,browsing
+Movement,1571655717.025,492,366,None,Move,browsing
+Movement,1571655717.0329,502,365,None,Move,browsing
+Movement,1571655717.0399,507,365,None,Move,browsing
+Movement,1571655717.0499,515,365,None,Move,browsing
+Movement,1571655717.0577,527,365,None,Move,browsing
+Movement,1571655717.0647,535,365,None,Move,browsing
+Movement,1571655717.0716,537,365,None,Move,browsing
+Movement,1571655717.0796,544,365,None,Move,browsing
+Movement,1571655717.0861,548,365,None,Move,browsing
+Movement,1571655717.0941,551,365,None,Move,browsing
+Movement,1571655717.1031,553,365,None,Move,browsing
+Movement,1571655717.111,553,365,None,Move,browsing
+Movement,1571655717.2744,553,365,None,Move,browsing
+Movement,1571655717.2804,553,365,None,Move,browsing
+Movement,1571655717.2884,553,365,None,Move,browsing
+Movement,1571655717.2964,551,365,None,Move,browsing
+Movement,1571655717.3053,548,365,None,Move,browsing
+Movement,1571655717.3143,546,365,None,Move,browsing
+Movement,1571655717.3243,543,365,None,Move,browsing
+Movement,1571655717.3343,540,365,None,Move,browsing
+Movement,1571655717.3412,538,365,None,Move,browsing
+Movement,1571655717.3492,535,365,None,Move,browsing
+Movement,1571655717.3572,533,365,None,Move,browsing
+Movement,1571655717.3642,532,365,None,Move,browsing
+Movement,1571655717.3712,530,365,None,Move,browsing
+Movement,1571655717.3825,529,365,None,Move,browsing
+Movement,1571655718.2068,529,365,None,Move,browsing
+Movement,1571655718.2225,531,365,None,Move,browsing
+Movement,1571655718.2381,541,363,None,Move,browsing
+Movement,1571655718.2537,566,358,None,Move,browsing
+Movement,1571655718.2693,573,358,None,Move,browsing
+Movement,1571655718.2849,614,354,None,Move,browsing
+Movement,1571655718.3071,669,351,None,Move,browsing
+Movement,1571655718.3227,715,350,None,Move,browsing
+Movement,1571655718.3383,722,349,None,Move,browsing
+Movement,1571655718.3539,741,349,None,Move,browsing
+Movement,1571655718.3696,751,349,None,Move,browsing
+Movement,1571655718.3852,756,349,None,Move,browsing
+Movement,1571655718.4008,756,348,None,Move,browsing
+Movement,1571655718.4698,756,348,None,Move,browsing
+Movement,1571655718.4854,761,347,None,Move,browsing
+Movement,1571655718.501,766,346,None,Move,browsing
+Movement,1571655718.5076,770,346,None,Move,browsing
+Movement,1571655718.5232,788,344,None,Move,browsing
+Movement,1571655718.5388,804,344,None,Move,browsing
+Movement,1571655718.5544,835,343,None,Move,browsing
+Movement,1571655718.5701,843,343,None,Move,browsing
+Movement,1571655718.5857,851,343,None,Move,browsing
+Movement,1571655718.6013,857,343,None,Move,browsing
+Movement,1571655718.6078,857,343,None,Move,browsing
+Click,1571655718.7233,857,343,Left,Pressed,browsing
+Click,1571655718.8702,857,343,Left,Released,browsing
+Movement,1571655720.0875,857,343,None,Move,browsing
+Movement,1571655720.1095,855,343,None,Move,browsing
+Movement,1571655720.1251,851,342,None,Move,browsing
+Movement,1571655720.1408,847,340,None,Move,browsing
+Movement,1571655720.1564,844,338,None,Move,browsing
+Movement,1571655720.172,837,335,None,Move,browsing
+Movement,1571655720.1876,828,332,None,Move,browsing
+Movement,1571655720.2098,819,330,None,Move,browsing
+Movement,1571655720.2254,802,323,None,Move,browsing
+Movement,1571655720.2411,789,317,None,Move,browsing
+Movement,1571655720.2567,774,309,None,Move,browsing
+Movement,1571655720.2723,767,303,None,Move,browsing
+Movement,1571655720.2879,763,300,None,Move,browsing
+Movement,1571655720.31,763,300,None,Move,browsing
+Movement,1571655720.3257,763,299,None,Move,browsing
+Movement,1571655720.4415,763,299,None,Move,browsing
+Movement,1571655721.8139,763,299,None,Move,browsing
+Movement,1571655721.8452,763,299,None,Move,browsing
+Movement,1571655721.8608,763,299,None,Move,browsing
+Movement,1571655721.8764,764,301,None,Move,browsing
+Movement,1571655721.892,765,303,None,Move,browsing
+Movement,1571655721.9142,766,304,None,Move,browsing
+Movement,1571655721.9298,767,305,None,Move,browsing
+Movement,1571655721.9455,767,307,None,Move,browsing
+Movement,1571655721.9611,767,308,None,Move,browsing
+Movement,1571655721.9767,767,308,None,Move,browsing
+Movement,1571655722.008,767,310,None,Move,browsing
+Movement,1571655722.0297,767,310,None,Move,browsing
+Movement,1571655722.3776,767,310,None,Move,browsing
+Movement,1571655722.3931,765,307,None,Move,browsing
+Movement,1571655722.4152,759,299,None,Move,browsing
+Movement,1571655722.4308,755,293,None,Move,browsing
+Movement,1571655722.4465,745,285,None,Move,browsing
+Movement,1571655722.4621,738,280,None,Move,browsing
+Movement,1571655722.4777,733,277,None,Move,browsing
+Movement,1571655722.4933,731,276,None,Move,browsing
+Movement,1571655722.5089,731,275,None,Move,browsing
+Movement,1571655722.6623,730,275,None,Move,browsing
+Movement,1571655722.6778,730,274,None,Move,browsing
+Movement,1571655722.6934,729,273,None,Move,browsing
+Movement,1571655722.709,728,272,None,Move,browsing
+Movement,1571655722.7155,727,271,None,Move,browsing
+Movement,1571655722.7312,727,270,None,Move,browsing
+Movement,1571655722.7468,726,270,None,Move,browsing
+Movement,1571655722.7624,725,268,None,Move,browsing
+Movement,1571655722.7781,725,268,None,Move,browsing
+Movement,1571655722.7938,725,267,None,Move,browsing
+Movement,1571655722.8156,725,267,None,Move,browsing
+Movement,1571655722.8313,724,265,None,Move,browsing
+Movement,1571655722.8469,722,262,None,Move,browsing
+Movement,1571655722.8626,721,259,None,Move,browsing
+Movement,1571655722.8781,718,254,None,Move,browsing
+Movement,1571655722.8937,714,247,None,Move,browsing
+Movement,1571655722.9094,712,244,None,Move,browsing
+Movement,1571655722.9159,710,240,None,Move,browsing
+Movement,1571655722.9315,709,234,None,Move,browsing
+Movement,1571655722.9471,707,229,None,Move,browsing
+Movement,1571655722.9628,705,223,None,Move,browsing
+Movement,1571655722.9784,704,219,None,Move,browsing
+Movement,1571655722.994,704,216,None,Move,browsing
+Movement,1571655723.0096,703,215,None,Move,browsing
+Movement,1571655723.0161,703,214,None,Move,browsing
+Movement,1571655723.0318,702,212,None,Move,browsing
+Movement,1571655723.0474,702,210,None,Move,browsing
+Movement,1571655723.063,702,208,None,Move,browsing
+Movement,1571655723.0786,702,206,None,Move,browsing
+Movement,1571655723.0942,701,205,None,Move,browsing
+Movement,1571655723.1099,701,204,None,Move,browsing
+Movement,1571655723.1164,701,204,None,Move,browsing
+Movement,1571655723.132,701,203,None,Move,browsing
+Movement,1571655723.1632,701,203,None,Move,browsing
+Movement,1571655723.1789,701,202,None,Move,browsing
+Movement,1571655723.2101,701,202,None,Move,browsing
+Movement,1571655723.248,701,201,None,Move,browsing
+Movement,1571655723.2793,701,201,None,Move,browsing
+Movement,1571655723.2947,701,200,None,Move,browsing
+Movement,1571655723.3168,701,199,None,Move,browsing
+Movement,1571655723.3325,701,199,None,Move,browsing
+Movement,1571655723.3481,702,199,None,Move,browsing
+Movement,1571655723.3637,702,198,None,Move,browsing
+Movement,1571655723.3793,703,196,None,Move,browsing
+Movement,1571655723.395,704,195,None,Move,browsing
+Movement,1571655723.4171,704,195,None,Move,browsing
+Movement,1571655723.4327,705,194,None,Move,browsing
+Movement,1571655723.4483,705,193,None,Move,browsing
+Movement,1571655723.464,705,192,None,Move,browsing
+Movement,1571655723.4796,706,191,None,Move,browsing
+Movement,1571655723.4952,707,190,None,Move,browsing
+Movement,1571655723.5173,707,189,None,Move,browsing
+Movement,1571655723.533,708,188,None,Move,browsing
+Movement,1571655723.5486,708,187,None,Move,browsing
+Movement,1571655723.5642,708,187,None,Move,browsing
+Movement,1571655723.5798,709,186,None,Move,browsing
+Movement,1571655723.5954,709,186,None,Move,browsing
+Movement,1571655723.6111,709,185,None,Move,browsing
+Movement,1571655723.6176,709,184,None,Move,browsing
+Click,1571655723.6647,709,184,Left,Pressed,browsing
+Click,1571655723.7959,709,184,Left,Released,browsing
+Movement,1571655757.1717,702,175,None,Move,browsing
+Movement,1571655757.1936,690,160,None,Move,browsing
+Movement,1571655757.2093,639,109,None,Move,browsing
+Movement,1571655757.2249,604,78,None,Move,browsing
+Movement,1571655757.2405,596,70,None,Move,browsing
+Movement,1571655757.2561,576,51,None,Move,browsing
+Movement,1571655757.2717,566,31,None,Move,browsing
+Movement,1571655757.2873,563,19,None,Move,browsing
+Movement,1571655757.2938,562,13,None,Move,browsing
+Movement,1571655757.3095,562,5,None,Move,browsing
+Movement,1571655757.4101,561,5,None,Move,browsing
+Movement,1571655757.4256,555,5,None,Move,browsing
+Movement,1571655757.4412,544,9,None,Move,browsing
+Movement,1571655757.4568,536,13,None,Move,browsing
+Movement,1571655757.4724,525,21,None,Move,browsing
+Movement,1571655757.488,514,35,None,Move,browsing
+Movement,1571655757.4946,511,40,None,Move,browsing
+Movement,1571655757.5102,502,53,None,Move,browsing
+Movement,1571655757.5259,498,60,None,Move,browsing
+Movement,1571655757.5415,494,63,None,Move,browsing
+Movement,1571655757.5571,492,64,None,Move,browsing
+Movement,1571655757.5727,488,65,None,Move,browsing
+Movement,1571655757.5883,485,65,None,Move,browsing
+Movement,1571655757.5948,483,65,None,Move,browsing
+Movement,1571655757.6105,481,64,None,Move,browsing
+Movement,1571655757.6261,478,59,None,Move,browsing
+Movement,1571655757.6417,475,55,None,Move,browsing
+Movement,1571655757.6573,473,53,None,Move,browsing
+Movement,1571655757.673,469,50,None,Move,browsing
+Movement,1571655757.6886,462,49,None,Move,browsing
+Movement,1571655757.6951,460,48,None,Move,browsing
+Movement,1571655757.7107,458,48,None,Move,browsing
+Movement,1571655757.7733,456,48,None,Move,browsing
+Movement,1571655757.7953,456,51,None,Move,browsing
+Movement,1571655757.811,454,55,None,Move,browsing
+Movement,1571655757.8266,454,55,None,Move,browsing
+Movement,1571655757.8422,453,56,None,Move,browsing
+Movement,1571655757.8578,452,57,None,Move,browsing
+Click,1571655758.2117002,451,58,Left,Pressed,browsing
+Movement,1571655758.2118,451,58,None,Drag,browsing
+Movement,1571655758.2273,449,58,None,Drag,browsing
+Movement,1571655758.2429,443,58,None,Drag,browsing
+Movement,1571655758.2585,436,58,None,Drag,browsing
+Movement,1571655758.2741,425,58,None,Drag,browsing
+Movement,1571655758.2963,403,58,None,Drag,browsing
+Movement,1571655758.3119,370,58,None,Drag,browsing
+Movement,1571655758.3275,359,58,None,Drag,browsing
+Movement,1571655758.3432,332,59,None,Drag,browsing
+Movement,1571655758.3588,309,60,None,Drag,browsing
+Movement,1571655758.3744,297,61,None,Drag,browsing
+Movement,1571655758.39,284,62,None,Drag,browsing
+Movement,1571655758.3965,280,62,None,Drag,browsing
+Movement,1571655758.4121,276,63,None,Drag,browsing
+Movement,1571655758.4277,272,63,None,Drag,browsing
+Movement,1571655758.4434,271,63,None,Drag,browsing
+Movement,1571655758.459,269,63,None,Drag,browsing
+Movement,1571655758.4746,267,64,None,Drag,browsing
+Movement,1571655758.4902,266,64,None,Drag,browsing
+Movement,1571655758.4967,265,64,None,Drag,browsing
+Movement,1571655758.5438,265,64,None,Drag,browsing
+Movement,1571655758.6595,265,64,None,Drag,browsing
+Movement,1571655758.7443,266,64,None,Drag,browsing
+Movement,1571655758.7598,270,65,None,Drag,browsing
+Movement,1571655758.7754,273,65,None,Drag,browsing
+Movement,1571655758.791,277,65,None,Drag,browsing
+Movement,1571655758.7975,278,65,None,Drag,browsing
+Movement,1571655758.8132,281,66,None,Drag,browsing
+Movement,1571655758.8288,282,66,None,Drag,browsing
+Movement,1571655758.8444,282,66,None,Drag,browsing
+Movement,1571655758.8977,283,66,None,Drag,browsing
+Movement,1571655758.9134,284,66,None,Drag,browsing
+Movement,1571655758.929,284,66,None,Drag,browsing
+Movement,1571655758.9446,285,66,None,Drag,browsing
+Movement,1571655758.9759,286,66,None,Drag,browsing
+Movement,1571655759.2297,286,66,None,Drag,browsing
+Click,1571655759.2298,286,66,Left,Released,browsing
+Movement,1571655759.2608,283,62,None,Move,browsing
+Movement,1571655759.2764,281,61,None,Move,browsing
+Movement,1571655759.292,280,60,None,Move,browsing
+Movement,1571655759.2985,280,60,None,Move,browsing
+Movement,1571655759.3142,279,60,None,Move,browsing
+Movement,1571655759.4986,278,60,None,Move,browsing
+Movement,1571655759.5142,277,54,None,Move,browsing
+Movement,1571655759.5298,274,41,None,Move,browsing
+Movement,1571655759.5454,272,31,None,Move,browsing
+Movement,1571655759.5611,272,25,None,Move,browsing
+Movement,1571655759.5767,272,15,None,Move,browsing
+Movement,1571655759.5923,272,2,None,Move,browsing
+Movement,1571655759.5988,272,-3,None,Move,browsing
+Movement,1571655759.6145,269,-7,None,Move,browsing
+Movement,1571655759.6301,265,-12,None,Move,browsing
+Movement,1571655759.6457,261,-14,None,Move,browsing
+Movement,1571655759.6613,258,-11,None,Move,browsing
+Movement,1571655759.6769,257,-2,None,Move,browsing
+Movement,1571655759.6992,257,-1,None,Move,browsing
+Movement,1571655759.8151,255,0,None,Move,browsing
+Movement,1571655759.8776,255,0,None,Move,browsing
+Movement,1571655759.8997,254,0,None,Move,browsing
+Movement,1571655759.9153,254,0,None,Move,browsing
+Movement,1571655759.9309,253,0,None,Move,browsing
+Movement,1571655759.9466,252,1,None,Move,browsing
+Movement,1571655759.9622,248,2,None,Move,browsing
+Movement,1571655759.9778,246,4,None,Move,browsing
+Movement,1571655759.9999,242,6,None,Move,browsing
+Movement,1571655760.0156,239,8,None,Move,browsing
+Click,1571655760.0624,239,8,Left,Pressed,browsing
+Click,1571655760.1781,239,8,Left,Released,browsing
+Movement,1571655760.4633,239,8,None,Move,browsing
+Movement,1571655760.5324,239,8,None,Move,browsing
+Movement,1571655760.548,240,8,None,Move,browsing
+Movement,1571655760.5634,241,9,None,Move,browsing
+Movement,1571655760.579,242,10,None,Move,browsing
+Movement,1571655760.5946,245,12,None,Move,browsing
+Movement,1571655760.6012,246,13,None,Move,browsing
+Movement,1571655760.6168,249,16,None,Move,browsing
+Movement,1571655760.6324,254,19,None,Move,browsing
+Movement,1571655760.648,258,22,None,Move,browsing
+Movement,1571655760.6637,261,24,None,Move,browsing
+Movement,1571655760.6793,264,25,None,Move,browsing
+Movement,1571655760.6949,265,26,None,Move,browsing
+Movement,1571655760.7014,265,26,None,Move,browsing
+Movement,1571655760.717,267,27,None,Move,browsing
+Movement,1571655760.7327,268,27,None,Move,browsing
+Movement,1571655760.7483,270,28,None,Move,browsing
+Movement,1571655760.7639,272,29,None,Move,browsing
+Movement,1571655760.7795,274,30,None,Move,browsing
+Movement,1571655760.8017,275,30,None,Move,browsing
+Movement,1571655760.9331,275,31,None,Move,browsing
+Movement,1571655762.6777,276,31,None,Move,browsing
+Movement,1571655762.6933,277,32,None,Move,browsing
+Movement,1571655762.709,281,36,None,Move,browsing
+Movement,1571655762.7246,283,38,None,Move,browsing
+Movement,1571655762.7402,288,44,None,Move,browsing
+Movement,1571655762.7558,295,53,None,Move,browsing
+Movement,1571655762.7779,299,59,None,Move,browsing
+Movement,1571655762.7936,306,70,None,Move,browsing
+Movement,1571655762.8092,312,79,None,Move,browsing
+Movement,1571655762.8248,316,85,None,Move,browsing
+Movement,1571655762.8404,319,88,None,Move,browsing
+Movement,1571655762.8561,326,100,None,Move,browsing
+Movement,1571655762.8717,339,119,None,Move,browsing
+Movement,1571655762.8782,352,142,None,Move,browsing
+Movement,1571655762.8938,374,169,None,Move,browsing
+Movement,1571655762.9094,383,180,None,Move,browsing
+Movement,1571655762.9251,415,214,None,Move,browsing
+Movement,1571655762.9407,454,251,None,Move,browsing
+Movement,1571655762.9563,481,276,None,Move,browsing
+Movement,1571655762.9719,514,306,None,Move,browsing
+Movement,1571655762.9784,556,345,None,Move,browsing
+Movement,1571655762.9941,571,359,None,Move,browsing
+Movement,1571655763.0097,625,407,None,Move,browsing
+Movement,1571655763.0253,659,438,None,Move,browsing
+Movement,1571655763.0409,685,462,None,Move,browsing
+Movement,1571655763.0565,715,493,None,Move,browsing
+Movement,1571655763.0722,721,498,None,Move,browsing
+Movement,1571655763.0787,738,516,None,Move,browsing
+Movement,1571655763.0943,742,520,None,Move,browsing
+Movement,1571655763.1099,754,526,None,Move,browsing
+Movement,1571655763.1255,754,526,None,Move,browsing
+Movement,1571655763.1412,756,526,None,Move,browsing
+Movement,1571655763.1724,756,526,None,Move,browsing
+Movement,1571655763.1789,756,526,None,Move,browsing
+Movement,1571655763.1946,757,527,None,Move,browsing
+Movement,1571655763.2102,759,527,None,Move,browsing
+Movement,1571655763.2258,761,527,None,Move,browsing
+Movement,1571655763.2414,763,526,None,Move,browsing
+Movement,1571655763.2571,763,525,None,Move,browsing
+Movement,1571655763.3263,764,524,None,Move,browsing
+Movement,1571655763.68,764,524,None,Move,browsing
+Movement,1571655763.6957,765,523,None,Move,browsing
+Movement,1571655763.7113,769,522,None,Move,browsing
+Movement,1571655763.7269,776,519,None,Move,browsing
+Movement,1571655763.7425,788,515,None,Move,browsing
+Movement,1571655763.7581,798,513,None,Move,browsing
+Movement,1571655763.7738,813,509,None,Move,browsing
+Movement,1571655763.7803,823,507,None,Move,browsing
+Movement,1571655763.7959,839,503,None,Move,browsing
+Movement,1571655763.8115,864,496,None,Move,browsing
+Movement,1571655763.8271,882,491,None,Move,browsing
+Movement,1571655763.8428,908,485,None,Move,browsing
+Movement,1571655763.8584,926,482,None,Move,browsing
+Movement,1571655763.874,941,479,None,Move,browsing
+Movement,1571655763.8805,950,477,None,Move,browsing
+Movement,1571655763.8961,959,474,None,Move,browsing
+Movement,1571655763.9118,965,473,None,Move,browsing
+Movement,1571655763.9274,973,472,None,Move,browsing
+Movement,1571655763.943,984,468,None,Move,browsing
+Movement,1571655763.9586,989,467,None,Move,browsing
+Movement,1571655763.9742,991,467,None,Move,browsing
+Movement,1571655763.9808,992,467,None,Move,browsing
+Movement,1571655764.012,992,467,None,Move,browsing
+Movement,1571655764.0589,992,467,None,Move,browsing
+Movement,1571655764.081,992,468,None,Move,browsing
+Movement,1571655764.0967,993,468,None,Move,browsing
+Movement,1571655765.0148,993,468,None,Move,browsing
+Movement,1571655765.4316,993,468,None,Move,browsing
+Movement,1571655765.6009,993,467,None,Move,browsing
+Movement,1571655765.6165,990,460,None,Move,browsing
+Movement,1571655765.6321,984,450,None,Move,browsing
+Movement,1571655765.6477,969,437,None,Move,browsing
+Movement,1571655765.6634,931,411,None,Move,browsing
+Movement,1571655765.679,891,386,None,Move,browsing
+Movement,1571655765.6855,864,371,None,Move,browsing
+Movement,1571655765.7011,838,356,None,Move,browsing
+Movement,1571655765.7167,782,326,None,Move,browsing
+Movement,1571655765.7324,752,312,None,Move,browsing
+Movement,1571655765.748,715,294,None,Move,browsing
+Movement,1571655765.7636,696,286,None,Move,browsing
+Movement,1571655765.7792,681,277,None,Move,browsing
+Movement,1571655765.7857,679,276,None,Move,browsing
+Movement,1571655765.8013,670,269,None,Move,browsing
+Movement,1571655765.817,664,262,None,Move,browsing
+Movement,1571655765.8326,660,260,None,Move,browsing
+Movement,1571655765.8482,655,255,None,Move,browsing
+Movement,1571655765.8638,653,252,None,Move,browsing
+Movement,1571655765.8795,647,248,None,Move,browsing
+Movement,1571655765.886,645,246,None,Move,browsing
+Movement,1571655765.9016,642,243,None,Move,browsing
+Movement,1571655765.9172,641,241,None,Move,browsing
+Movement,1571655765.9328,640,240,None,Move,browsing
+Movement,1571655765.9485,639,239,None,Move,browsing
+Movement,1571655765.9641,638,236,None,Move,browsing
+Movement,1571655765.9797,634,229,None,Move,browsing
+Movement,1571655765.9862,633,226,None,Move,browsing
+Movement,1571655766.0018,628,217,None,Move,browsing
+Movement,1571655766.0175,624,210,None,Move,browsing
+Movement,1571655766.0331,619,203,None,Move,browsing
+Movement,1571655766.0487,615,199,None,Move,browsing
+Movement,1571655766.0686,601,186,None,Move,browsing
+Movement,1571655766.0766,597,182,None,Move,browsing
+Movement,1571655766.0864,585,174,None,Move,browsing
+Movement,1571655766.1021,576,168,None,Move,browsing
+Movement,1571655766.1177,565,163,None,Move,browsing
+Movement,1571655766.1333,558,159,None,Move,browsing
+Movement,1571655766.1489,556,158,None,Move,browsing
+Movement,1571655766.1646,550,156,None,Move,browsing
+Movement,1571655766.1867,549,156,None,Move,browsing
+Movement,1571655766.3182,548,156,None,Move,browsing
+Movement,1571655766.3338,548,157,None,Move,browsing
+Movement,1571655766.3494,547,162,None,Move,browsing
+Movement,1571655766.3651,546,165,None,Move,browsing
+Movement,1571655766.3807,546,168,None,Move,browsing
+Movement,1571655766.3872,546,169,None,Move,browsing
+Movement,1571655766.4028,546,170,None,Move,browsing
+Movement,1571655766.4185,546,171,None,Move,browsing
+Movement,1571655766.4341,546,172,None,Move,browsing
+Movement,1571655766.4497,546,174,None,Move,browsing
+Movement,1571655766.4653,546,175,None,Move,browsing
+Movement,1571655766.481,546,175,None,Move,browsing
+Movement,1571655766.4875,545,176,None,Move,browsing
+Movement,1571655766.5031,544,178,None,Move,browsing
+Movement,1571655766.5187,544,178,None,Move,browsing
+Movement,1571655766.5344,543,179,None,Move,browsing
+Movement,1571655766.55,541,182,None,Move,browsing
+Movement,1571655766.5656,538,184,None,Move,browsing
+Movement,1571655766.5812,536,186,None,Move,browsing
+Movement,1571655766.5878,534,187,None,Move,browsing
+Movement,1571655766.6034,528,191,None,Move,browsing
+Movement,1571655766.6191,525,194,None,Move,browsing
+Movement,1571655766.6346,520,197,None,Move,browsing
+Movement,1571655766.6503,518,199,None,Move,browsing
+Movement,1571655766.6659,516,201,None,Move,browsing
+Movement,1571655766.6815,514,203,None,Move,browsing
+Movement,1571655766.688,513,204,None,Move,browsing
+Movement,1571655766.7037,510,210,None,Move,browsing
+Movement,1571655766.7193,508,216,None,Move,browsing
+Movement,1571655766.735,507,221,None,Move,browsing
+Movement,1571655766.7506,506,225,None,Move,browsing
+Movement,1571655766.7662,505,230,None,Move,browsing
+Movement,1571655766.7818,504,232,None,Move,browsing
+Movement,1571655766.7883,504,233,None,Move,browsing
+Movement,1571655766.8039,504,234,None,Move,browsing
+Movement,1571655766.8195,504,235,None,Move,browsing
+Movement,1571655766.9511,504,235,None,Move,browsing
+Movement,1571655766.9667,507,230,None,Move,browsing
+Movement,1571655766.9823,512,219,None,Move,browsing
+Movement,1571655766.9889,514,217,None,Move,browsing
+Movement,1571655767.0045,517,210,None,Move,browsing
+Movement,1571655767.0201,522,197,None,Move,browsing
+Movement,1571655767.0357,525,189,None,Move,browsing
+Movement,1571655767.0513,529,184,None,Move,browsing
+Movement,1571655767.067,530,179,None,Move,browsing
+Movement,1571655767.0826,532,175,None,Move,browsing
+Movement,1571655767.0891,532,173,None,Move,browsing
+Movement,1571655767.1048,533,171,None,Move,browsing
+Movement,1571655767.1517,533,170,None,Move,browsing
+Movement,1571655767.2207,533,170,None,Move,browsing
+Movement,1571655767.4681,534,171,None,Move,browsing
+Movement,1571655767.4837,536,181,None,Move,browsing
+Movement,1571655767.4903,537,186,None,Move,browsing
+Movement,1571655767.5059,542,204,None,Move,browsing
+Movement,1571655767.5215,551,225,None,Move,browsing
+Movement,1571655767.5371,572,263,None,Move,browsing
+Movement,1571655767.5527,589,286,None,Move,browsing
+Movement,1571655767.5684,614,317,None,Move,browsing
+Movement,1571655767.584,642,350,None,Move,browsing
+Movement,1571655767.5905,652,360,None,Move,browsing
+Movement,1571655767.6062,677,383,None,Move,browsing
+Movement,1571655767.6218,681,386,None,Move,browsing
+Movement,1571655767.6374,688,390,None,Move,browsing
+Movement,1571655767.7239,689,390,None,Move,browsing
+Movement,1571655767.7395,689,390,None,Move,browsing
+Movement,1571655767.7924,689,390,None,Move,browsing
+Movement,1571655767.8081,688,390,None,Move,browsing
+Movement,1571655767.8237,688,390,None,Move,browsing
+Movement,1571655767.8393,686,389,None,Move,browsing
+Movement,1571655767.8549,682,387,None,Move,browsing
+Movement,1571655767.8705,679,384,None,Move,browsing
+Movement,1571655767.8862,675,381,None,Move,browsing
+Movement,1571655767.8927,673,379,None,Move,browsing
+Movement,1571655767.9083,671,378,None,Move,browsing
+Movement,1571655767.924,670,377,None,Move,browsing
+Movement,1571655767.9396,670,376,None,Move,browsing
+Movement,1571655767.9552,669,376,None,Move,browsing
+Movement,1571655768.1089,669,375,None,Move,browsing
+Click,1571655768.2939,669,375,Left,Pressed,browsing
+Click,1571655768.4411,669,375,Left,Released,browsing
+Movement,1571655768.7104,669,375,None,Move,browsing
+Movement,1571655768.7259,668,375,None,Move,browsing
+Movement,1571655768.7415,667,375,None,Move,browsing
+Movement,1571655768.7572,665,375,None,Move,browsing
+Movement,1571655768.7728,662,375,None,Move,browsing
+Movement,1571655768.7884,659,373,None,Move,browsing
+Movement,1571655768.7949,654,370,None,Move,browsing
+Movement,1571655768.8106,648,364,None,Move,browsing
+Movement,1571655768.8262,639,352,None,Move,browsing
+Movement,1571655768.8418,629,334,None,Move,browsing
+Movement,1571655768.8574,616,309,None,Move,browsing
+Movement,1571655768.8737,604,285,None,Move,browsing
+Movement,1571655768.8943,590,260,None,Move,browsing
+Movement,1571655768.8948,586,252,None,Move,browsing
+Movement,1571655768.9105,571,228,None,Move,browsing
+Movement,1571655768.9261,555,198,None,Move,browsing
+Movement,1571655768.9417,544,178,None,Move,browsing
+Movement,1571655768.9573,542,175,None,Move,browsing
+Movement,1571655769.1953,542,174,None,Move,browsing
+Click,1571655769.4427,542,174,Left,Pressed,browsing
+Click,1571655769.5429,542,174,Left,Released,browsing
+Movement,1571655769.6962,541,174,None,Move,browsing
+Movement,1571655769.712,541,174,None,Move,browsing
+Movement,1571655769.7433,540,174,None,Move,browsing
+Movement,1571655769.7744,539,174,None,Move,browsing
+Movement,1571655769.7962,539,173,None,Move,browsing
+Movement,1571655770.0123,539,173,None,Move,browsing
+Movement,1571655770.0591,538,173,None,Move,browsing
+Movement,1571655770.0748,538,173,None,Move,browsing
+Movement,1571655770.1125,538,172,None,Move,browsing
+Movement,1571655770.1438,538,172,None,Move,browsing
+Movement,1571655770.1594,537,172,None,Move,browsing
+Movement,1571655770.1971,537,171,None,Move,browsing
+Movement,1571655770.2128,537,171,None,Move,browsing
+Movement,1571655770.2284,537,170,None,Move,browsing
+Movement,1571655770.244,536,170,None,Move,browsing
+Movement,1571655770.2596,536,169,None,Move,browsing
+Movement,1571655770.2752,535,169,None,Move,browsing
+Movement,1571655770.2909,535,169,None,Move,browsing
+Movement,1571655770.313,535,168,None,Move,browsing
+Movement,1571655770.3443,535,168,None,Move,browsing
+Movement,1571655770.3599,535,168,None,Move,browsing
+Movement,1571655770.3976,535,167,None,Move,browsing
+Movement,1571655770.4289,534,167,None,Move,browsing
+Movement,1571655770.4445,534,167,None,Move,browsing
+Movement,1571655770.4757,534,166,None,Move,browsing
+Movement,1571655770.4979,534,165,None,Move,browsing
+Movement,1571655770.5604,534,165,None,Move,browsing
+Movement,1571655770.6138,533,165,None,Move,browsing
+Movement,1571655770.6451,533,164,None,Move,browsing
+Movement,1571655770.9774,533,164,None,Move,browsing
+Movement,1571655770.993,533,166,None,Move,browsing
+Movement,1571655770.9995,534,168,None,Move,browsing
+Movement,1571655771.0151,534,170,None,Move,browsing
+Movement,1571655771.0307,537,176,None,Move,browsing
+Movement,1571655771.0464,541,185,None,Move,browsing
+Movement,1571655771.062,547,200,None,Move,browsing
+Movement,1571655771.0776,553,213,None,Move,browsing
+Movement,1571655771.0932,566,241,None,Move,browsing
+Movement,1571655771.0997,569,248,None,Move,browsing
+Movement,1571655771.1154,577,263,None,Move,browsing
+Movement,1571655771.131,586,279,None,Move,browsing
+Movement,1571655771.1466,593,294,None,Move,browsing
+Movement,1571655771.1622,599,307,None,Move,browsing
+Movement,1571655771.1778,606,322,None,Move,browsing
+Movement,1571655771.2,615,335,None,Move,browsing
+Movement,1571655771.2156,618,338,None,Move,browsing
+Movement,1571655771.2312,620,341,None,Move,browsing
+Movement,1571655771.2468,621,342,None,Move,browsing
+Movement,1571655771.2625,621,342,None,Move,browsing
+Movement,1571655771.5476,621,342,None,Move,browsing
+Movement,1571655771.9048,621,342,None,Move,browsing
+Movement,1571655771.9986,621,341,None,Move,browsing
+Movement,1571655772.0051,621,340,None,Move,browsing
+Movement,1571655772.0208,621,340,None,Move,browsing
+Movement,1571655772.0364,621,339,None,Move,browsing
+Movement,1571655772.052,621,339,None,Move,browsing
+Movement,1571655772.0678,621,338,None,Move,browsing
+Movement,1571655772.099,621,338,None,Move,browsing
+Movement,1571655772.252,621,337,None,Move,browsing
+Movement,1571655772.2989,621,336,None,Move,browsing
+Movement,1571655772.3207,621,336,None,Move,browsing
+Movement,1571655772.4677,621,335,None,Move,browsing
+Movement,1571655772.4833,621,334,None,Move,browsing
+Movement,1571655772.4989,621,334,None,Move,browsing
+Movement,1571655772.5054,621,332,None,Move,browsing
+Movement,1571655772.5211,621,327,None,Move,browsing
+Movement,1571655772.5367,621,319,None,Move,browsing
+Movement,1571655772.5523,623,311,None,Move,browsing
+Movement,1571655772.5679,626,299,None,Move,browsing
+Movement,1571655772.5835,632,282,None,Move,browsing
+Movement,1571655772.5992,636,266,None,Move,browsing
+Movement,1571655772.6057,637,263,None,Move,browsing
+Movement,1571655772.6213,640,250,None,Move,browsing
+Movement,1571655772.6369,643,240,None,Move,browsing
+Movement,1571655772.6525,644,231,None,Move,browsing
+Movement,1571655772.6682,644,222,None,Move,browsing
+Movement,1571655772.6838,645,216,None,Move,browsing
+Movement,1571655772.6994,647,207,None,Move,browsing
+Movement,1571655772.7059,647,206,None,Move,browsing
+Movement,1571655772.7215,648,199,None,Move,browsing
+Movement,1571655772.7372,648,194,None,Move,browsing
+Movement,1571655772.7528,648,189,None,Move,browsing
+Movement,1571655772.7684,648,185,None,Move,browsing
+Movement,1571655772.784,648,181,None,Move,browsing
+Movement,1571655772.7996,648,179,None,Move,browsing
+Movement,1571655772.8062,647,177,None,Move,browsing
+Movement,1571655772.8218,647,176,None,Move,browsing
+Movement,1571655772.8374,644,175,None,Move,browsing
+Movement,1571655772.8531,640,174,None,Move,browsing
+Movement,1571655772.8687,633,174,None,Move,browsing
+Movement,1571655772.8843,624,174,None,Move,browsing
+Movement,1571655772.8999,609,174,None,Move,browsing
+Movement,1571655772.9064,601,175,None,Move,browsing
+Movement,1571655772.9221,584,176,None,Move,browsing
+Movement,1571655772.9377,566,177,None,Move,browsing
+Movement,1571655772.9533,545,178,None,Move,browsing
+Movement,1571655772.9689,526,179,None,Move,browsing
+Movement,1571655772.9845,511,180,None,Move,browsing
+Movement,1571655773.0067,500,181,None,Move,browsing
+Movement,1571655773.0223,492,182,None,Move,browsing
+Movement,1571655773.0379,482,184,None,Move,browsing
+Movement,1571655773.0535,477,185,None,Move,browsing
+Movement,1571655773.0692,472,186,None,Move,browsing
+Movement,1571655773.2069,470,187,None,Move,browsing
+Movement,1571655773.2225,474,187,None,Move,browsing
+Movement,1571655773.2381,484,185,None,Move,browsing
+Movement,1571655773.2538,496,182,None,Move,browsing
+Movement,1571655773.2694,504,181,None,Move,browsing
+Movement,1571655773.285,513,181,None,Move,browsing
+Movement,1571655773.3006,519,180,None,Move,browsing
+Movement,1571655773.3071,521,180,None,Move,browsing
+Movement,1571655773.3228,522,180,None,Move,browsing
+Movement,1571655773.5229,522,180,None,Move,browsing
+Movement,1571655773.5386,522,180,None,Move,browsing
+Movement,1571655773.5542,521,180,None,Move,browsing
+Movement,1571655773.5698,521,180,None,Move,browsing
+Movement,1571655773.5854,519,180,None,Move,browsing
+Movement,1571655775.9999,519,180,None,Move,browsing
+Movement,1571655776.0155,520,180,None,Move,browsing
+Movement,1571655776.022,522,180,None,Move,browsing
+Movement,1571655776.0376,526,178,None,Move,browsing
+Movement,1571655776.0533,530,177,None,Move,browsing
+Movement,1571655776.0689,536,176,None,Move,browsing
+Movement,1571655776.0845,546,176,None,Move,browsing
+Movement,1571655776.1002,560,175,None,Move,browsing
+Movement,1571655776.1158,572,175,None,Move,browsing
+Movement,1571655776.1223,576,175,None,Move,browsing
+Movement,1571655776.1379,587,175,None,Move,browsing
+Movement,1571655776.1535,596,175,None,Move,browsing
+Movement,1571655776.1692,606,174,None,Move,browsing
+Movement,1571655776.1848,612,174,None,Move,browsing
+Movement,1571655776.2004,617,174,None,Move,browsing
+Movement,1571655776.2226,622,174,None,Move,browsing
+Movement,1571655776.2382,626,174,None,Move,browsing
+Movement,1571655776.2538,627,174,None,Move,browsing
+Movement,1571655776.2694,632,174,None,Move,browsing
+Movement,1571655776.285,637,174,None,Move,browsing
+Movement,1571655776.3007,644,175,None,Move,browsing
+Movement,1571655776.3163,650,176,None,Move,browsing
+Movement,1571655776.3228,652,176,None,Move,browsing
+Movement,1571655776.3444,654,177,None,Move,browsing
+Movement,1571655776.3601,655,177,None,Move,browsing
+Movement,1571655776.3757,656,177,None,Move,browsing
+Movement,1571655776.3913,657,177,None,Move,browsing
+Movement,1571655776.4069,661,177,None,Move,browsing
+Movement,1571655776.4226,663,177,None,Move,browsing
+Movement,1571655776.4231,666,177,None,Move,browsing
+Movement,1571655776.4387,670,178,None,Move,browsing
+Movement,1571655776.4543,671,178,None,Move,browsing
+Movement,1571655776.4699,675,178,None,Move,browsing
+Movement,1571655776.4855,677,179,None,Move,browsing
+Movement,1571655776.5012,681,179,None,Move,browsing
+Movement,1571655776.5168,683,179,None,Move,browsing
+Movement,1571655776.5233,685,179,None,Move,browsing
+Movement,1571655776.539,688,179,None,Move,browsing
+Movement,1571655776.5546,692,180,None,Move,browsing
+Movement,1571655776.5702,695,180,None,Move,browsing
+Movement,1571655776.5858,698,180,None,Move,browsing
+Movement,1571655776.6014,703,180,None,Move,browsing
+Movement,1571655776.6236,708,180,None,Move,browsing
+Movement,1571655776.6392,713,180,None,Move,browsing
+Movement,1571655776.6548,717,180,None,Move,browsing
+Movement,1571655776.6704,723,181,None,Move,browsing
+Movement,1571655776.6861,727,181,None,Move,browsing
+Movement,1571655776.7017,735,181,None,Move,browsing
+Movement,1571655776.7173,741,181,None,Move,browsing
+Movement,1571655776.7238,743,181,None,Move,browsing
+Movement,1571655776.7394,747,182,None,Move,browsing
+Movement,1571655776.7551,753,182,None,Move,browsing
+Movement,1571655776.7707,759,183,None,Move,browsing
+Movement,1571655776.7863,763,183,None,Move,browsing
+Movement,1571655776.8019,766,184,None,Move,browsing
+Movement,1571655776.8176,769,184,None,Move,browsing
+Movement,1571655776.8241,770,184,None,Move,browsing
+Movement,1571655776.8397,772,184,None,Move,browsing
+Movement,1571655776.8554,774,184,None,Move,browsing
+Movement,1571655776.871,776,184,None,Move,browsing
+Movement,1571655776.8866,779,184,None,Move,browsing
+Movement,1571655776.9022,782,184,None,Move,browsing
+Movement,1571655776.9178,783,185,None,Move,browsing
+Movement,1571655776.9244,784,185,None,Move,browsing
+Movement,1571655776.94,786,185,None,Move,browsing
+Movement,1571655776.9557,788,186,None,Move,browsing
+Movement,1571655776.9713,789,186,None,Move,browsing
+Movement,1571655776.9869,790,186,None,Move,browsing
+Movement,1571655777.0025,790,186,None,Move,browsing
+Movement,1571655777.0243,791,186,None,Move,browsing
+Movement,1571655777.0399,792,186,None,Move,browsing
+Movement,1571655777.0556,793,186,None,Move,browsing
+Movement,1571655777.0712,796,187,None,Move,browsing
+Movement,1571655777.0868,800,187,None,Move,browsing
+Movement,1571655777.1024,802,187,None,Move,browsing
+Movement,1571655777.118,806,188,None,Move,browsing
+Movement,1571655777.1245,808,188,None,Move,browsing
+Movement,1571655777.1402,814,188,None,Move,browsing
+Movement,1571655777.1558,819,188,None,Move,browsing
+Movement,1571655777.1714,823,189,None,Move,browsing
+Movement,1571655777.1788,826,189,None,Move,browsing
+Movement,1571655777.1944,830,189,None,Move,browsing
+Movement,1571655777.2101,835,189,None,Move,browsing
+Movement,1571655777.2246,839,189,None,Move,browsing
+Movement,1571655777.2403,842,190,None,Move,browsing
+Movement,1571655777.2559,845,190,None,Move,browsing
+Movement,1571655777.2735,847,190,None,Move,browsing
+Movement,1571655777.2891,849,190,None,Move,browsing
+Movement,1571655777.3047,853,190,None,Move,browsing
+Movement,1571655777.3203,856,190,None,Move,browsing
+Movement,1571655777.3248,857,190,None,Move,browsing
+Movement,1571655777.3405,862,190,None,Move,browsing
+Movement,1571655777.3561,866,190,None,Move,browsing
+Movement,1571655777.3717,871,190,None,Move,browsing
+Movement,1571655777.3873,874,190,None,Move,browsing
+Movement,1571655777.4029,880,191,None,Move,browsing
+Movement,1571655777.4186,885,191,None,Move,browsing
+Movement,1571655777.4251,887,191,None,Move,browsing
+Movement,1571655777.4407,892,191,None,Move,browsing
+Movement,1571655777.4563,897,191,None,Move,browsing
+Movement,1571655777.4719,901,191,None,Move,browsing
+Movement,1571655777.4876,906,192,None,Move,browsing
+Movement,1571655777.5032,907,192,None,Move,browsing
+Movement,1571655777.5188,908,192,None,Move,browsing
+Movement,1571655777.5879,908,192,None,Move,browsing
+Movement,1571655777.6035,907,192,None,Move,browsing
+Movement,1571655777.6256,895,191,None,Move,browsing
+Movement,1571655777.6412,872,189,None,Move,browsing
+Movement,1571655777.6568,834,182,None,Move,browsing
+Movement,1571655777.6724,782,175,None,Move,browsing
+Movement,1571655777.6881,695,162,None,Move,browsing
+Movement,1571655777.7037,608,149,None,Move,browsing
+Movement,1571655777.7193,497,133,None,Move,browsing
+Movement,1571655777.7258,444,125,None,Move,browsing
+Movement,1571655777.7415,338,106,None,Move,browsing
+Movement,1571655777.7571,256,93,None,Move,browsing
+Movement,1571655777.7735,185,82,None,Move,browsing
+Movement,1571655777.7753,151,77,None,Move,browsing
+Movement,1571655777.7909,110,68,None,Move,browsing
+Movement,1571655777.8066,92,63,None,Move,browsing
+Movement,1571655777.8222,79,57,None,Move,browsing
+Movement,1571655777.8257,74,53,None,Move,browsing
+Movement,1571655777.8413,70,47,None,Move,browsing
+Movement,1571655777.8569,66,40,None,Move,browsing
+Movement,1571655777.8726,65,37,None,Move,browsing
+Movement,1571655777.8882,65,34,None,Move,browsing
+Movement,1571655777.9038,67,31,None,Move,browsing
+Movement,1571655777.9259,69,28,None,Move,browsing
+Movement,1571655777.9416,71,26,None,Move,browsing
+Movement,1571655777.9572,72,25,None,Move,browsing
+Movement,1571655777.9728,72,24,None,Move,browsing
+Movement,1571655778.0041,73,24,None,Move,browsing
+Movement,1571655778.0197,74,24,None,Move,browsing
+Movement,1571655778.0262,74,23,None,Move,browsing
+Movement,1571655778.0418,76,23,None,Move,browsing
+Movement,1571655778.0574,80,21,None,Move,browsing
+Movement,1571655778.0731,82,20,None,Move,browsing
+Movement,1571655778.0887,85,20,None,Move,browsing
+Movement,1571655778.1043,87,20,None,Move,browsing
+Movement,1571655778.1264,87,19,None,Move,browsing
+Movement,1571655778.1578,88,19,None,Move,browsing
+Click,1571655778.5896,88,19,Left,Pressed,browsing
+Click,1571655778.7744,88,19,Left,Released,browsing
+Movement,1571655779.0596,88,19,None,Move,browsing
+Movement,1571655779.0751,91,19,None,Move,browsing
+Movement,1571655779.0907,93,19,None,Move,browsing
+Movement,1571655779.1063,97,19,None,Move,browsing
+Movement,1571655779.1219,99,19,None,Move,browsing
+Movement,1571655779.1284,101,19,None,Move,browsing
+Movement,1571655779.144,106,19,None,Move,browsing
+Movement,1571655779.1597,117,19,None,Move,browsing
+Movement,1571655779.1753,121,19,None,Move,browsing
+Movement,1571655779.1909,131,19,None,Move,browsing
+Movement,1571655779.2065,146,19,None,Move,browsing
+Movement,1571655779.2221,151,19,None,Move,browsing
+Movement,1571655779.2287,154,19,None,Move,browsing
+Movement,1571655779.2443,165,19,None,Move,browsing
+Movement,1571655779.2599,177,19,None,Move,browsing
+Movement,1571655779.2756,187,18,None,Move,browsing
+Movement,1571655779.2911,197,18,None,Move,browsing
+Movement,1571655779.3068,210,18,None,Move,browsing
+Movement,1571655779.3289,221,18,None,Move,browsing
+Movement,1571655779.3445,250,17,None,Move,browsing
+Movement,1571655779.3602,257,17,None,Move,browsing
+Movement,1571655779.3758,268,17,None,Move,browsing
+Movement,1571655779.3914,283,16,None,Move,browsing
+Movement,1571655779.407,291,16,None,Move,browsing
+Movement,1571655779.4226,296,16,None,Move,browsing
+Movement,1571655779.4288,301,15,None,Move,browsing
+Movement,1571655779.4445,316,15,None,Move,browsing
+Movement,1571655779.4601,322,15,None,Move,browsing
+Movement,1571655779.4757,327,14,None,Move,browsing
+Movement,1571655779.4913,330,14,None,Move,browsing
+Movement,1571655779.5069,331,13,None,Move,browsing
+Movement,1571655779.5226,333,13,None,Move,browsing
+Movement,1571655779.5291,333,13,None,Move,browsing
+Click,1571655780.7303,333,13,Left,Pressed,browsing
+Click,1571655780.893,333,13,Left,Released,browsing
+Movement,1571655780.962,334,13,None,Move,browsing
+Movement,1571655780.9777,340,12,None,Move,browsing
+Movement,1571655780.9933,352,11,None,Move,browsing
+Movement,1571655781.0089,360,11,None,Move,browsing
+Movement,1571655781.0245,379,10,None,Move,browsing
+Movement,1571655781.031,386,10,None,Move,browsing
+Movement,1571655781.0467,403,9,None,Move,browsing
+Movement,1571655781.0623,414,9,None,Move,browsing
+Movement,1571655781.0779,427,9,None,Move,browsing
+Movement,1571655781.0935,437,9,None,Move,browsing
+Movement,1571655781.1092,441,9,None,Move,browsing
+Movement,1571655781.1248,452,9,None,Move,browsing
+Movement,1571655781.1313,453,9,None,Move,browsing
+Movement,1571655781.1469,455,9,None,Move,browsing
+Movement,1571655781.3785,456,9,None,Move,browsing
+Movement,1571655781.394,454,9,None,Move,browsing
+Movement,1571655781.4096,448,10,None,Move,browsing
+Movement,1571655781.4318,435,12,None,Move,browsing
+Movement,1571655781.4474,427,14,None,Move,browsing
+Movement,1571655781.463,422,15,None,Move,browsing
+Movement,1571655781.4786,418,16,None,Move,browsing
+Movement,1571655781.7101,416,16,None,Move,browsing
+Movement,1571655781.7257,412,16,None,Move,browsing
+Movement,1571655781.7322,408,16,None,Move,browsing
+Movement,1571655781.7479,398,18,None,Move,browsing
+Movement,1571655781.7635,382,21,None,Move,browsing
+Movement,1571655781.7791,374,22,None,Move,browsing
+Movement,1571655781.7947,358,22,None,Move,browsing
+Movement,1571655781.8103,340,22,None,Move,browsing
+Movement,1571655781.8325,323,21,None,Move,browsing
+Movement,1571655781.8481,298,18,None,Move,browsing
+Movement,1571655781.8637,270,13,None,Move,browsing
+Movement,1571655781.8793,229,8,None,Move,browsing
+Movement,1571655781.895,174,5,None,Move,browsing
+Movement,1571655781.9106,164,4,None,Move,browsing
+Movement,1571655781.9262,140,3,None,Move,browsing
+Movement,1571655781.9327,136,2,None,Move,browsing
+Movement,1571655781.9483,129,2,None,Move,browsing
+Click,1571655782.1112,128,2,Left,Pressed,browsing
+Click,1571655782.1957,128,2,Left,Released,browsing
+Movement,1571655782.2336,128,2,None,Move,browsing
+Movement,1571655782.2492,131,5,None,Move,browsing
+Movement,1571655782.2648,145,18,None,Move,browsing
+Movement,1571655782.2805,158,30,None,Move,browsing
+Movement,1571655782.2961,203,69,None,Move,browsing
+Movement,1571655782.3117,243,101,None,Move,browsing
+Movement,1571655782.3273,292,135,None,Move,browsing
+Movement,1571655782.3338,316,150,None,Move,browsing
+Movement,1571655782.3494,350,169,None,Move,browsing
+Movement,1571655782.3651,366,177,None,Move,browsing
+Movement,1571655782.3807,384,186,None,Move,browsing
+Movement,1571655782.3963,389,187,None,Move,browsing
+Movement,1571655782.4119,390,188,None,Move,browsing
+Movement,1571655782.7348,391,190,None,Move,browsing
+Movement,1571655782.9662,392,190,None,Move,browsing
+Movement,1571655782.9819,393,189,None,Move,browsing
+Movement,1571655782.9975,397,183,None,Move,browsing
+Movement,1571655783.0131,403,176,None,Move,browsing
+Movement,1571655783.0352,410,166,None,Move,browsing
+Movement,1571655783.0509,421,153,None,Move,browsing
+Movement,1571655783.0665,424,149,None,Move,browsing
+Movement,1571655783.0821,433,139,None,Move,browsing
+Movement,1571655783.0977,438,129,None,Move,browsing
+Movement,1571655783.1133,446,117,None,Move,browsing
+Movement,1571655783.1355,456,104,None,Move,browsing
+Movement,1571655783.1511,463,93,None,Move,browsing
+Movement,1571655783.1667,468,88,None,Move,browsing
+Movement,1571655783.1823,471,81,None,Move,browsing
+Movement,1571655783.198,474,77,None,Move,browsing
+Movement,1571655783.2136,477,71,None,Move,browsing
+Movement,1571655783.2292,481,66,None,Move,browsing
+Movement,1571655783.2357,483,62,None,Move,browsing
+Movement,1571655783.2513,486,57,None,Move,browsing
+Movement,1571655783.2669,489,51,None,Move,browsing
+Movement,1571655783.2826,490,48,None,Move,browsing
+Movement,1571655783.2982,492,43,None,Move,browsing
+Movement,1571655783.3138,494,38,None,Move,browsing
+Movement,1571655783.3294,495,34,None,Move,browsing
+Movement,1571655783.336,497,31,None,Move,browsing
+Movement,1571655783.3516,499,27,None,Move,browsing
+Movement,1571655783.3672,500,23,None,Move,browsing
+Movement,1571655783.3829,501,19,None,Move,browsing
+Movement,1571655783.3985,501,16,None,Move,browsing
+Movement,1571655783.4141,501,12,None,Move,browsing
+Movement,1571655783.4297,501,10,None,Move,browsing
+Movement,1571655783.4362,501,8,None,Move,browsing
+Movement,1571655783.4519,501,6,None,Move,browsing
+Movement,1571655783.4675,501,3,None,Move,browsing
+Movement,1571655783.4831,501,2,None,Move,browsing
+Movement,1571655783.4987,501,1,None,Move,browsing
+Movement,1571655783.5143,501,0,None,Move,browsing
+Movement,1571655783.5364,501,0,None,Move,browsing
+Movement,1571655783.5521,501,0,None,Move,browsing
+Movement,1571655783.699,501,0,None,Move,browsing
+Movement,1571655783.7146,500,0,None,Move,browsing
+Movement,1571655783.7301,499,1,None,Move,browsing
+Movement,1571655783.7366,497,2,None,Move,browsing
+Movement,1571655783.7522,493,4,None,Move,browsing
+Movement,1571655783.7678,490,7,None,Move,browsing
+Movement,1571655783.7835,487,8,None,Move,browsing
+Movement,1571655783.7991,483,10,None,Move,browsing
+Movement,1571655783.8147,480,11,None,Move,browsing
+Movement,1571655783.8303,478,12,None,Move,browsing
+Movement,1571655783.8369,478,12,None,Move,browsing
+Movement,1571655783.8525,477,12,None,Move,browsing
+Movement,1571655783.8681,477,12,None,Move,browsing
+Movement,1571655783.8837,475,12,None,Move,browsing
+Movement,1571655783.8994,473,13,None,Move,browsing
+Movement,1571655783.915,470,13,None,Move,browsing
+Movement,1571655783.9306,465,13,None,Move,browsing
+Movement,1571655783.9371,463,13,None,Move,browsing
+Movement,1571655783.9528,458,13,None,Move,browsing
+Movement,1571655783.9684,447,13,None,Move,browsing
+Movement,1571655783.984,436,13,None,Move,browsing
+Movement,1571655783.9996,433,13,None,Move,browsing
+Movement,1571655784.0152,424,13,None,Move,browsing
+Movement,1571655784.0374,420,13,None,Move,browsing
+Click,1571655784.2001,419,13,Left,Pressed,browsing
+Click,1571655784.3381,419,13,Left,Released,browsing
+Movement,1571655784.5321,419,13,None,Move,browsing
+Movement,1571655784.5381,420,15,None,Move,browsing
+Movement,1571655784.5537,422,17,None,Move,browsing
+Movement,1571655784.5694,423,17,None,Move,browsing
+Movement,1571655784.585,423,17,None,Move,browsing
+Movement,1571655784.6006,423,18,None,Move,browsing
+Movement,1571655784.6162,424,18,None,Move,browsing
+Movement,1571655784.6385,424,18,None,Move,browsing
+Click,1571655784.9169002,424,19,Left,Pressed,browsing
+Movement,1571655784.917,424,19,None,Drag,browsing
+Click,1571655784.9171,424,19,Left,Released,browsing
+Movement,1571655785.202,424,19,None,Move,browsing
+Movement,1571655785.5184,425,21,None,Move,browsing
+Movement,1571655785.534,426,22,None,Move,browsing
+Movement,1571655785.5406,427,23,None,Move,browsing
+Movement,1571655785.5874,434,45,None,Move,browsing
+Movement,1571655785.6031,437,60,None,Move,browsing
+Movement,1571655785.6187,440,76,None,Move,browsing
+Movement,1571655785.6343,444,95,None,Move,browsing
+Movement,1571655785.6408,446,108,None,Move,browsing
+Movement,1571655785.6564,450,129,None,Move,browsing
+Movement,1571655785.6721,453,142,None,Move,browsing
+Movement,1571655785.6877,459,168,None,Move,browsing
+Movement,1571655785.7033,469,201,None,Move,browsing
+Movement,1571655785.7189,476,221,None,Move,browsing
+Movement,1571655785.7345,486,250,None,Move,browsing
+Movement,1571655785.7411,492,266,None,Move,browsing
+Movement,1571655785.7567,501,289,None,Move,browsing
+Movement,1571655785.7724,513,315,None,Move,browsing
+Movement,1571655785.788,521,334,None,Move,browsing
+Movement,1571655785.8036,532,350,None,Move,browsing
+Movement,1571655785.8192,551,378,None,Move,browsing
+Movement,1571655785.8348,569,405,None,Move,browsing
+Movement,1571655785.8414,578,419,None,Move,browsing
+Movement,1571655785.857,589,437,None,Move,browsing
+Movement,1571655785.8726,594,448,None,Move,browsing
+Movement,1571655785.8884,602,464,None,Move,browsing
+Movement,1571655785.9038,609,478,None,Move,browsing
+Movement,1571655785.9195,613,491,None,Move,browsing
+Movement,1571655785.9416,614,495,None,Move,browsing
+Movement,1571655785.9572,614,499,None,Move,browsing
+Movement,1571655785.9728,614,502,None,Move,browsing
+Movement,1571655785.9885,614,505,None,Move,browsing
+Movement,1571655786.0041,612,508,None,Move,browsing
+Movement,1571655786.0197,610,511,None,Move,browsing
+Movement,1571655786.0353,608,514,None,Move,browsing
+Movement,1571655786.0418,607,514,None,Move,browsing
+Movement,1571655786.0575,606,516,None,Move,browsing
+Movement,1571655786.1417,605,516,None,Move,browsing
+Movement,1571655786.1574,605,516,None,Move,browsing
+Movement,1571655786.173,605,519,None,Move,browsing
+Movement,1571655786.1886,605,522,None,Move,browsing
+Movement,1571655786.2042,604,527,None,Move,browsing
+Movement,1571655786.2199,603,532,None,Move,browsing
+Movement,1571655786.2355,603,533,None,Move,browsing
+Movement,1571655786.242,603,533,None,Move,browsing
+Movement,1571655786.2576,603,534,None,Move,browsing
+Movement,1571655786.2732,603,535,None,Move,browsing
+Click,1571655786.358,603,535,Left,Pressed,browsing
+Click,1571655786.4739,603,535,Left,Released,browsing
+Movement,1571655786.9063,603,535,None,Move,browsing
+Movement,1571655786.9218,603,534,None,Move,browsing
+Movement,1571655786.9439,603,533,None,Move,browsing
+Movement,1571655786.9595,605,531,None,Move,browsing
+Movement,1571655786.9752,605,530,None,Move,browsing
+Movement,1571655787.0064,605,529,None,Move,browsing
+Movement,1571655787.0911,605,529,None,Move,browsing
+Movement,1571655787.1066,605,529,None,Move,browsing
+Movement,1571655787.1223,604,528,None,Move,browsing
+Movement,1571655787.1381,603,528,None,Move,browsing
+Movement,1571655787.1441,603,528,None,Move,browsing
+Movement,1571655793.7843,603,528,None,Move,browsing
+Movement,1571655793.8,602,528,None,Move,browsing
+Movement,1571655793.8314,602,528,None,Move,browsing
+Movement,1571655793.8626,602,527,None,Move,browsing
+Movement,1571655793.8686,602,525,None,Move,browsing
+Movement,1571655793.8843,609,519,None,Move,browsing
+Movement,1571655793.8999,618,509,None,Move,browsing
+Movement,1571655793.9155,631,495,None,Move,browsing
+Movement,1571655793.9312,643,483,None,Move,browsing
+Movement,1571655793.9467,654,468,None,Move,browsing
+Movement,1571655793.9624,665,452,None,Move,browsing
+Movement,1571655793.9689,669,446,None,Move,browsing
+Movement,1571655793.9845,676,433,None,Move,browsing
+Movement,1571655794.0001,679,424,None,Move,browsing
+Movement,1571655794.0158,683,412,None,Move,browsing
+Movement,1571655794.0314,686,403,None,Move,browsing
+Movement,1571655794.047,691,389,None,Move,browsing
+Movement,1571655794.0626,696,376,None,Move,browsing
+Movement,1571655794.0692,697,371,None,Move,browsing
+Movement,1571655794.0848,700,358,None,Move,browsing
+Movement,1571655794.1004,702,349,None,Move,browsing
+Movement,1571655794.116,702,348,None,Move,browsing
+Movement,1571655794.3701,702,346,None,Move,browsing
+Click,1571655794.4015,702,346,Left,Pressed,browsing
+Click,1571655794.5074,702,346,Left,Released,browsing
+Movement,1571655794.6923,702,347,None,Move,browsing
+Movement,1571655794.7079,702,352,None,Move,browsing
+Movement,1571655794.7235,702,354,None,Move,browsing
+Movement,1571655794.7391,702,357,None,Move,browsing
+Movement,1571655794.7548,702,362,None,Move,browsing
+Movement,1571655794.7704,701,366,None,Move,browsing
+Movement,1571655794.7769,700,369,None,Move,browsing
+Movement,1571655794.7925,700,372,None,Move,browsing
+Movement,1571655794.8081,698,376,None,Move,browsing
+Movement,1571655794.8238,697,380,None,Move,browsing
+Movement,1571655794.8394,694,385,None,Move,browsing
+Movement,1571655794.855,688,393,None,Move,browsing
+Movement,1571655794.8706,685,397,None,Move,browsing
+Movement,1571655794.8771,682,401,None,Move,browsing
+Movement,1571655794.8928,678,406,None,Move,browsing
+Movement,1571655794.9084,673,410,None,Move,browsing
+Movement,1571655794.924,669,414,None,Move,browsing
+Movement,1571655794.9396,664,418,None,Move,browsing
+Movement,1571655794.9552,659,422,None,Move,browsing
+Movement,1571655794.9709,654,425,None,Move,browsing
+Movement,1571655794.9774,652,427,None,Move,browsing
+Movement,1571655794.993,648,430,None,Move,browsing
+Movement,1571655795.0086,645,433,None,Move,browsing
+Movement,1571655795.0243,642,437,None,Move,browsing
+Movement,1571655795.0399,639,442,None,Move,browsing
+Movement,1571655795.0555,637,445,None,Move,browsing
+Movement,1571655795.0711,634,450,None,Move,browsing
+Movement,1571655795.0777,634,452,None,Move,browsing
+Movement,1571655795.0933,632,455,None,Move,browsing
+Movement,1571655795.1089,632,457,None,Move,browsing
+Movement,1571655795.1246,631,459,None,Move,browsing
+Movement,1571655795.1402,631,460,None,Move,browsing
+Movement,1571655795.1558,631,462,None,Move,browsing
+Movement,1571655795.1714,631,463,None,Move,browsing
+Movement,1571655795.178,631,464,None,Move,browsing
+Movement,1571655795.2093,631,464,None,Move,browsing
+Movement,1571655795.2718,631,465,None,Move,browsing
+Movement,1571655795.5446,631,466,None,Move,browsing
+Movement,1571655795.5601,631,466,None,Move,browsing
+Movement,1571655795.6603,630,467,None,Move,browsing
+Movement,1571655795.6825,629,467,None,Move,browsing
+Movement,1571655795.6981,628,465,None,Move,browsing
+Movement,1571655795.7137,628,463,None,Move,browsing
+Movement,1571655795.7294,627,459,None,Move,browsing
+Movement,1571655795.745,627,454,None,Move,browsing
+Movement,1571655795.7606,627,447,None,Move,browsing
+Movement,1571655795.7764,627,446,None,Move,browsing
+Movement,1571655795.7824,627,443,None,Move,browsing
+Movement,1571655795.798,627,442,None,Move,browsing
+Movement,1571655795.8136,627,441,None,Move,browsing
+Movement,1571655795.8294,627,441,None,Move,browsing
+Movement,1571655795.8449,627,439,None,Move,browsing
+Movement,1571655795.8605,627,438,None,Move,browsing
+Movement,1571655795.8761,627,438,None,Move,browsing
+Movement,1571655795.8983,627,437,None,Move,browsing
+Click,1571655795.9297,627,437,Left,Pressed,browsing
+Click,1571655796.0143,627,437,Left,Released,browsing
+Movement,1571655796.1144,627,437,None,Move,browsing
+Movement,1571655796.1298,627,435,None,Move,browsing
+Movement,1571655796.1454,627,433,None,Move,browsing
+Movement,1571655796.1611,627,431,None,Move,browsing
+Movement,1571655796.1767,627,429,None,Move,browsing
+Movement,1571655796.1832,627,428,None,Move,browsing
+Movement,1571655796.1988,627,426,None,Move,browsing
+Movement,1571655796.2145,627,424,None,Move,browsing
+Movement,1571655796.2301,627,423,None,Move,browsing
+Movement,1571655796.2459,627,422,None,Move,browsing
+Movement,1571655796.2833,627,422,None,Move,browsing
+Movement,1571655816.7242,627,421,None,Move,browsing
+Click,1571655816.8243,627,421,Left,Pressed,browsing
+Click,1571655816.9397,627,421,Left,Released,browsing
+Movement,1571655816.9927,627,421,None,Move,browsing
+Movement,1571655833.5067,627,422,None,Move,browsing
+Movement,1571655833.5221,627,424,None,Move,browsing
+Movement,1571655833.5286,626,426,None,Move,browsing
+Movement,1571655833.5443,624,429,None,Move,browsing
+Movement,1571655833.5599,619,430,None,Move,browsing
+Movement,1571655833.5755,615,432,None,Move,browsing
+Movement,1571655833.5911,611,434,None,Move,browsing
+Movement,1571655833.6068,610,434,None,Move,browsing
+Movement,1571655833.6224,604,436,None,Move,browsing
+Movement,1571655833.6289,601,436,None,Move,browsing
+Movement,1571655833.6445,599,437,None,Move,browsing
+Movement,1571655833.6602,595,437,None,Move,browsing
+Movement,1571655833.6758,592,437,None,Move,browsing
+Movement,1571655833.6914,588,437,None,Move,browsing
+Movement,1571655833.707,584,437,None,Move,browsing
+Movement,1571655833.7292,578,439,None,Move,browsing
+Movement,1571655833.7448,575,440,None,Move,browsing
+Movement,1571655833.7604,575,441,None,Move,browsing
+Movement,1571655833.776,574,442,None,Move,browsing
+Movement,1571655833.7916,573,444,None,Move,browsing
+Movement,1571655833.8073,572,447,None,Move,browsing
+Movement,1571655833.8229,568,454,None,Move,browsing
+Movement,1571655833.8294,566,457,None,Move,browsing
+Movement,1571655833.845,564,462,None,Move,browsing
+Movement,1571655833.8606,564,466,None,Move,browsing
+Movement,1571655833.8763,564,469,None,Move,browsing
+Movement,1571655833.8919,564,470,None,Move,browsing
+Movement,1571655833.9075,564,471,None,Move,browsing
+Movement,1571655833.9232,564,471,None,Move,browsing
+Movement,1571655833.9297,565,472,None,Move,browsing
+Movement,1571655833.9454,566,473,None,Move,browsing
+Click,1571655834.0452,566,473,Left,Pressed,browsing
+Movement,1571655834.0453,566,473,None,Drag,browsing
+Click,1571655834.0454,566,473,Left,Released,browsing
+Movement,1571655835.9863,565,473,None,Move,browsing
+Movement,1571655836.0017,563,473,None,Move,browsing
+Movement,1571655836.0174,558,472,None,Move,browsing
+Movement,1571655836.033,556,472,None,Move,browsing
+Movement,1571655836.0396,556,472,None,Move,browsing
+Movement,1571655836.071,555,472,None,Move,browsing
+Movement,1571655836.0866,554,472,None,Move,browsing
+Movement,1571655836.1022,554,472,None,Move,browsing
+Movement,1571655836.1178,553,472,None,Move,browsing
+Movement,1571655841.0442,560,472,None,Move,browsing
+Movement,1571655841.0598,568,472,None,Move,browsing
+Movement,1571655841.0663,572,472,None,Move,browsing
+Movement,1571655841.082,583,472,None,Move,browsing
+Movement,1571655841.0976,594,472,None,Move,browsing
+Movement,1571655841.1132,602,472,None,Move,browsing
+Movement,1571655841.1288,612,473,None,Move,browsing
+Movement,1571655841.1444,620,474,None,Move,browsing
+Movement,1571655841.1601,631,474,None,Move,browsing
+Movement,1571655841.1666,637,474,None,Move,browsing
+Movement,1571655841.1823,643,474,None,Move,browsing
+Movement,1571655841.1979,655,474,None,Move,browsing
+Movement,1571655841.2135,664,474,None,Move,browsing
+Movement,1571655841.2291,676,474,None,Move,browsing
+Movement,1571655841.2448,689,475,None,Move,browsing
+Movement,1571655841.2665,699,475,None,Move,browsing
+Movement,1571655841.2824,712,477,None,Move,browsing
+Movement,1571655841.2979,724,478,None,Move,browsing
+Movement,1571655841.3135,748,482,None,Move,browsing
+Movement,1571655841.3292,761,484,None,Move,browsing
+Movement,1571655841.3448,770,485,None,Move,browsing
+Movement,1571655841.3604,775,486,None,Move,browsing
+Movement,1571655841.3664,781,487,None,Move,browsing
+Movement,1571655841.3821,792,488,None,Move,browsing
+Movement,1571655841.3977,800,489,None,Move,browsing
+Movement,1571655841.4133,807,489,None,Move,browsing
+Movement,1571655841.4289,813,489,None,Move,browsing
+Movement,1571655841.4446,814,489,None,Move,browsing
+Movement,1571655841.8861,816,489,None,Move,browsing
+Movement,1571655841.9017,818,486,None,Move,browsing
+Movement,1571655841.9173,818,486,None,Move,browsing
+Movement,1571655841.9329,819,484,None,Move,browsing
+Movement,1571655841.9486,819,484,None,Move,browsing
+Movement,1571655841.9707,821,483,None,Move,browsing
+Movement,1571655842.0866,821,482,None,Move,browsing
+Movement,1571655842.1712,821,482,None,Move,browsing
+Movement,1571655842.2182,820,482,None,Move,browsing
+Movement,1571655842.3656,820,482,None,Move,browsing
+Movement,1571655842.3716,819,481,None,Move,browsing
+Movement,1571655842.3872,818,481,None,Move,browsing
+Movement,1571655842.4029,817,481,None,Move,browsing
+Movement,1571655842.4185,814,481,None,Move,browsing
+Movement,1571655842.4341,810,481,None,Move,browsing
+Movement,1571655842.4498,805,481,None,Move,browsing
+Movement,1571655842.4654,802,481,None,Move,browsing
+Movement,1571655842.4719,801,481,None,Move,browsing
+Movement,1571655842.4875,799,481,None,Move,browsing
+Movement,1571655842.5032,798,481,None,Move,browsing
+Movement,1571655842.5188,797,481,None,Move,browsing
+Movement,1571655842.5344,795,482,None,Move,browsing
+Movement,1571655842.5502,794,482,None,Move,browsing
+Movement,1571655842.5722,792,482,None,Move,browsing
+Movement,1571655842.5878,790,483,None,Move,browsing
+Movement,1571655842.6034,787,483,None,Move,browsing
+Movement,1571655842.6347,786,483,None,Move,browsing
+Movement,1571655842.6505,785,483,None,Move,browsing
+Movement,1571655842.7036,785,483,None,Move,browsing
+Movement,1571655843.12,783,484,None,Move,browsing
+Movement,1571655843.1356,780,485,None,Move,browsing
+Movement,1571655843.1512,777,485,None,Move,browsing
+Movement,1571655843.1668,771,485,None,Move,browsing
+Movement,1571655843.1733,768,486,None,Move,browsing
+Movement,1571655843.189,763,487,None,Move,browsing
+Movement,1571655843.2046,761,488,None,Move,browsing
+Movement,1571655843.2202,760,488,None,Move,browsing
+Movement,1571655843.2358,759,488,None,Move,browsing
+Movement,1571655843.2514,758,488,None,Move,browsing
+Movement,1571655843.2736,758,489,None,Move,browsing
+Movement,1571655843.3361,758,489,None,Move,browsing
+Movement,1571655843.3517,761,488,None,Move,browsing
+Movement,1571655843.368,768,486,None,Move,browsing
+Movement,1571655843.3735,771,484,None,Move,browsing
+Movement,1571655843.3892,780,482,None,Move,browsing
+Movement,1571655843.4048,787,480,None,Move,browsing
+Movement,1571655843.4204,796,479,None,Move,browsing
+Movement,1571655843.436,802,478,None,Move,browsing
+Movement,1571655843.4516,812,477,None,Move,browsing
+Movement,1571655843.4673,818,476,None,Move,browsing
+Movement,1571655843.4738,821,475,None,Move,browsing
+Movement,1571655843.4895,826,473,None,Move,browsing
+Movement,1571655843.5051,830,472,None,Move,browsing
+Movement,1571655843.5207,831,471,None,Move,browsing
+Movement,1571655843.5363,831,470,None,Move,browsing
+Movement,1571655843.6212,831,470,None,Move,browsing
+Movement,1571655843.6367,830,470,None,Move,browsing
+Movement,1571655843.6523,829,470,None,Move,browsing
+Movement,1571655843.6679,825,469,None,Move,browsing
+Movement,1571655843.6744,822,469,None,Move,browsing
+Movement,1571655843.6901,809,469,None,Move,browsing
+Movement,1571655843.7057,802,469,None,Move,browsing
+Movement,1571655843.7213,798,469,None,Move,browsing
+Movement,1571655843.7369,794,469,None,Move,browsing
+Movement,1571655843.7526,794,469,None,Move,browsing
+Click,1571655843.7905,793,469,Left,Pressed,browsing
+Click,1571655843.9376,793,469,Left,Released,browsing
+Movement,1571655844.0378,793,469,None,Move,browsing
+Movement,1571655844.0912,793,469,None,Move,browsing
+Movement,1571655844.1068,792,469,None,Move,browsing
+Movement,1571655844.1225,790,469,None,Move,browsing
+Movement,1571655847.3115,790,469,None,Move,browsing
+Movement,1571655847.3269,792,469,None,Move,browsing
+Movement,1571655847.3425,799,469,None,Move,browsing
+Movement,1571655847.3581,804,469,None,Move,browsing
+Movement,1571655847.3738,808,470,None,Move,browsing
+Movement,1571655847.3894,812,471,None,Move,browsing
+Movement,1571655847.3959,813,471,None,Move,browsing
+Movement,1571655847.4116,820,474,None,Move,browsing
+Movement,1571655847.4272,826,476,None,Move,browsing
+Movement,1571655847.4428,827,477,None,Move,browsing
+Movement,1571655847.5119,828,477,None,Move,browsing
+Movement,1571655847.5275,828,477,None,Move,browsing
+Movement,1571655847.5586,829,477,None,Move,browsing
+Movement,1571655847.5743,829,476,None,Move,browsing
+Movement,1571655847.5898,832,475,None,Move,browsing
+Movement,1571655847.5963,834,474,None,Move,browsing
+Movement,1571655847.612,840,472,None,Move,browsing
+Movement,1571655847.6276,844,470,None,Move,browsing
+Movement,1571655847.6432,848,469,None,Move,browsing
+Movement,1571655847.6588,854,467,None,Move,browsing
+Movement,1571655847.6745,860,465,None,Move,browsing
+Movement,1571655847.6901,863,464,None,Move,browsing
+Movement,1571655847.6966,866,464,None,Move,browsing
+Movement,1571655847.7122,867,463,None,Move,browsing
+Movement,1571655847.7278,870,463,None,Move,browsing
+Movement,1571655847.7592,871,463,None,Move,browsing
+Movement,1571655847.875,871,462,None,Move,browsing
+Movement,1571655848.0133,871,462,None,Move,browsing
+Movement,1571655848.0289,871,462,None,Move,browsing
+Movement,1571655848.0443,871,463,None,Move,browsing
+Movement,1571655848.6765,871,463,None,Move,browsing
+Movement,1571655848.9305,871,463,None,Move,browsing
+Movement,1571655848.9461,871,462,None,Move,browsing
+Movement,1571655848.9617,873,451,None,Move,browsing
+Movement,1571655848.9773,878,433,None,Move,browsing
+Movement,1571655848.993,885,415,None,Move,browsing
+Movement,1571655848.9995,889,405,None,Move,browsing
+Movement,1571655849.0151,906,367,None,Move,browsing
+Movement,1571655849.0307,913,348,None,Move,browsing
+Movement,1571655849.0463,918,331,None,Move,browsing
+Movement,1571655849.062,924,314,None,Move,browsing
+Movement,1571655849.0776,930,290,None,Move,browsing
+Movement,1571655849.0932,935,270,None,Move,browsing
+Movement,1571655849.0998,936,258,None,Move,browsing
+Movement,1571655849.1154,939,231,None,Move,browsing
+Movement,1571655849.131,941,216,None,Move,browsing
+Movement,1571655849.1466,941,209,None,Move,browsing
+Movement,1571655849.1623,943,197,None,Move,browsing
+Movement,1571655849.1779,944,190,None,Move,browsing
+Movement,1571655849.2,946,183,None,Move,browsing
+Movement,1571655849.2157,947,177,None,Move,browsing
+Movement,1571655849.2313,948,171,None,Move,browsing
+Movement,1571655849.2469,949,165,None,Move,browsing
+Movement,1571655849.2625,950,162,None,Move,browsing
+Movement,1571655849.2782,951,159,None,Move,browsing
+Movement,1571655849.2938,951,156,None,Move,browsing
+Movement,1571655849.3003,951,156,None,Move,browsing
+Movement,1571655849.316,952,155,None,Move,browsing
+Movement,1571655849.3316,952,153,None,Move,browsing
+Movement,1571655849.3472,952,153,None,Move,browsing
+Movement,1571655849.3628,953,152,None,Move,browsing
+Movement,1571655849.6385,953,152,None,Move,browsing
+Movement,1571655849.654,951,152,None,Move,browsing
+Movement,1571655849.6696,947,152,None,Move,browsing
+Movement,1571655849.6852,947,152,None,Move,browsing
+Movement,1571655849.7073,944,152,None,Move,browsing
+Movement,1571655849.723,943,152,None,Move,browsing
+Movement,1571655849.8701,943,152,None,Move,browsing
+Movement,1571655849.9859,943,152,None,Move,browsing
+Click,1571655850.008,943,152,Left,Pressed,browsing
+Click,1571655850.1395,943,152,Left,Released,browsing
+Movement,1571655850.2555,943,152,None,Move,browsing
+Movement,1571655850.271,942,155,None,Move,browsing
+Movement,1571655850.2866,936,166,None,Move,browsing
+Movement,1571655850.3023,927,182,None,Move,browsing
+Movement,1571655850.3088,918,198,None,Move,browsing
+Movement,1571655850.3244,906,217,None,Move,browsing
+Movement,1571655850.34,889,242,None,Move,browsing
+Movement,1571655850.3556,872,267,None,Move,browsing
+Movement,1571655850.3713,861,285,None,Move,browsing
+Movement,1571655850.3869,854,298,None,Move,browsing
+Movement,1571655850.4025,837,327,None,Move,browsing
+Movement,1571655850.409,832,334,None,Move,browsing
+Movement,1571655850.4247,825,345,None,Move,browsing
+Movement,1571655850.4403,818,356,None,Move,browsing
+Movement,1571655850.4559,815,364,None,Move,browsing
+Movement,1571655850.4715,811,371,None,Move,browsing
+Movement,1571655850.4872,810,377,None,Move,browsing
+Movement,1571655850.5028,808,383,None,Move,browsing
+Movement,1571655850.5093,807,386,None,Move,browsing
+Movement,1571655850.5249,807,392,None,Move,browsing
+Movement,1571655850.5405,807,395,None,Move,browsing
+Movement,1571655850.5561,807,403,None,Move,browsing
+Movement,1571655850.5718,807,407,None,Move,browsing
+Movement,1571655850.5874,810,416,None,Move,browsing
+Movement,1571655850.603,816,427,None,Move,browsing
+Movement,1571655850.6095,817,429,None,Move,browsing
+Movement,1571655850.6252,820,432,None,Move,browsing
+Movement,1571655850.6408,823,435,None,Move,browsing
+Movement,1571655850.6564,827,437,None,Move,browsing
+Movement,1571655850.6721,831,439,None,Move,browsing
+Movement,1571655850.6877,836,441,None,Move,browsing
+Movement,1571655850.7033,841,442,None,Move,browsing
+Movement,1571655850.7098,845,444,None,Move,browsing
+Movement,1571655850.7255,849,446,None,Move,browsing
+Movement,1571655850.7411,852,449,None,Move,browsing
+Movement,1571655850.7567,854,452,None,Move,browsing
+Movement,1571655850.7723,859,458,None,Move,browsing
+Movement,1571655850.788,861,461,None,Move,browsing
+Movement,1571655850.8101,865,464,None,Move,browsing
+Movement,1571655850.8257,869,467,None,Move,browsing
+Movement,1571655850.8414,872,469,None,Move,browsing
+Movement,1571655850.8569,874,470,None,Move,browsing
+Movement,1571655850.8726,874,471,None,Move,browsing
+Movement,1571655850.8883,875,471,None,Move,browsing
+Click,1571655851.0729,875,471,Left,Pressed,browsing
+Movement,1571655851.073,875,471,None,Drag,browsing
+Click,1571655851.0730999,875,471,Left,Released,browsing
+Movement,1571655851.1886,875,470,None,Move,browsing
+Movement,1571655851.2107,875,470,None,Move,browsing
+Movement,1571655851.2578,875,469,None,Move,browsing
+Movement,1571655851.3423,874,469,None,Move,browsing
+Movement,1571655851.3578,874,468,None,Move,browsing
+Movement,1571655851.3735,874,468,None,Move,browsing
+Movement,1571655851.3891,874,466,None,Move,browsing
+Movement,1571655851.4112,873,466,None,Move,browsing
+Movement,1571655851.4269,873,465,None,Move,browsing
+Movement,1571655851.4425,873,464,None,Move,browsing
+Movement,1571655851.4737,872,464,None,Move,browsing
+Movement,1571655851.759,872,463,None,Move,browsing
+Movement,1571655851.7746,871,462,None,Move,browsing
+Movement,1571655851.7902,871,461,None,Move,browsing
+Movement,1571655851.8057,871,459,None,Move,browsing
+Movement,1571655851.8123,870,459,None,Move,browsing
+Movement,1571655851.8279,870,457,None,Move,browsing
+Movement,1571655851.8435,870,456,None,Move,browsing
+Movement,1571655851.8592,869,455,None,Move,browsing
+Movement,1571655851.8748,869,455,None,Move,browsing
+Movement,1571655851.8904,869,454,None,Move,browsing
+Movement,1571655851.944,868,453,None,Move,browsing
+Movement,1571655852.044,868,453,None,Move,browsing
+Movement,1571655852.0596,867,453,None,Move,browsing
+Movement,1571655852.0751,867,452,None,Move,browsing
+Movement,1571655852.1127,867,451,None,Move,browsing
+Movement,1571655852.1284,867,451,None,Move,browsing
+Movement,1571655852.144,866,451,None,Move,browsing
+Movement,1571655852.1752,866,450,None,Move,browsing
+Movement,1571655852.2128,866,449,None,Move,browsing
+Movement,1571655852.2285,865,449,None,Move,browsing
+Movement,1571655852.2441,865,448,None,Move,browsing
+Movement,1571655852.2597,865,448,None,Move,browsing
+Movement,1571655852.2754,864,447,None,Move,browsing
+Movement,1571655852.291,863,446,None,Move,browsing
+Movement,1571655852.3066,863,445,None,Move,browsing
+Movement,1571655852.3131,863,444,None,Move,browsing
+Movement,1571655852.3287,862,443,None,Move,browsing
+Movement,1571655852.3443,862,443,None,Move,browsing
+Movement,1571655852.36,862,442,None,Move,browsing
+Movement,1571655852.3756,861,441,None,Move,browsing
+Movement,1571655852.4068,861,441,None,Move,browsing
+Movement,1571655852.4133,861,441,None,Move,browsing
+Movement,1571655852.429,861,440,None,Move,browsing
+Movement,1571655852.4602,861,439,None,Move,browsing
+Movement,1571655852.4758,860,439,None,Move,browsing
+Movement,1571655852.5291,860,438,None,Move,browsing
+Movement,1571655852.5601,859,438,None,Move,browsing
+Movement,1571655852.5758,859,438,None,Move,browsing
+Movement,1571655852.6072,859,438,None,Move,browsing
+Movement,1571655852.6132,859,437,None,Move,browsing
+Movement,1571655852.629,859,437,None,Move,browsing
+Movement,1571655852.6603,858,437,None,Move,browsing
+Movement,1571655852.7132,858,435,None,Move,browsing
+Movement,1571655852.7288,858,435,None,Move,browsing
+Movement,1571655852.7444,857,435,None,Move,browsing
+Movement,1571655852.7757,857,434,None,Move,browsing
+Movement,1571655852.8132,857,434,None,Move,browsing
+Movement,1571655852.8288,856,434,None,Move,browsing
+Movement,1571655852.8444,856,433,None,Move,browsing
+Movement,1571655852.86,855,433,None,Move,browsing
+Movement,1571655852.8756,854,432,None,Move,browsing
+Movement,1571655852.8913,853,431,None,Move,browsing
+Movement,1571655852.9069,852,431,None,Move,browsing
+Movement,1571655852.9134,851,431,None,Move,browsing
+Movement,1571655852.9291,851,430,None,Move,browsing
+Movement,1571655852.9447,851,430,None,Move,browsing
+Movement,1571655852.9603,850,430,None,Move,browsing
+Movement,1571655852.9759,850,430,None,Move,browsing
+Movement,1571655853.1296,849,429,None,Move,browsing
+Movement,1571655853.1451,849,428,None,Move,browsing
+Movement,1571655853.1607,848,423,None,Move,browsing
+Movement,1571655853.1763,848,410,None,Move,browsing
+Movement,1571655853.1919,849,393,None,Move,browsing
+Movement,1571655853.2076,854,379,None,Move,browsing
+Movement,1571655853.2141,858,363,None,Move,browsing
+Movement,1571655853.2298,871,333,None,Move,browsing
+Movement,1571655853.2454,890,292,None,Move,browsing
+Movement,1571655853.261,909,256,None,Move,browsing
+Movement,1571655853.2766,927,224,None,Move,browsing
+Movement,1571655853.2922,939,204,None,Move,browsing
+Movement,1571655853.3079,952,178,None,Move,browsing
+Movement,1571655853.3144,955,169,None,Move,browsing
+Movement,1571655853.33,963,149,None,Move,browsing
+Movement,1571655853.3457,966,142,None,Move,browsing
+Movement,1571655853.3612,971,129,None,Move,browsing
+Movement,1571655853.3769,975,119,None,Move,browsing
+Movement,1571655853.3925,977,110,None,Move,browsing
+Movement,1571655853.4081,980,104,None,Move,browsing
+Movement,1571655853.4146,980,102,None,Move,browsing
+Movement,1571655853.4303,980,100,None,Move,browsing
+Movement,1571655853.4459,980,97,None,Move,browsing
+Movement,1571655853.5463,980,97,None,Move,browsing
+Movement,1571655853.5618,977,98,None,Move,browsing
+Movement,1571655853.5775,971,104,None,Move,browsing
+Movement,1571655853.5931,961,114,None,Move,browsing
+Movement,1571655853.6087,956,120,None,Move,browsing
+Movement,1571655853.6152,953,124,None,Move,browsing
+Movement,1571655853.6309,950,128,None,Move,browsing
+Movement,1571655853.6465,948,132,None,Move,browsing
+Movement,1571655853.6621,945,135,None,Move,browsing
+Movement,1571655853.6778,944,137,None,Move,browsing
+Movement,1571655853.6934,943,140,None,Move,browsing
+Movement,1571655853.709,943,142,None,Move,browsing
+Movement,1571655853.7155,943,142,None,Move,browsing
+Movement,1571655853.7311,943,144,None,Move,browsing
+Movement,1571655853.7468,943,145,None,Move,browsing
+Click,1571655853.8786,943,145,Left,Pressed,browsing
+Click,1571655853.9943,943,145,Left,Released,browsing
+Movement,1571655854.0789,943,146,None,Move,browsing
+Movement,1571655854.0945,938,152,None,Move,browsing
+Movement,1571655854.1101,934,159,None,Move,browsing
+Movement,1571655854.1167,928,169,None,Move,browsing
+Movement,1571655854.1323,921,180,None,Move,browsing
+Movement,1571655854.1479,911,197,None,Move,browsing
+Movement,1571655854.1635,895,223,None,Move,browsing
+Movement,1571655854.1792,865,262,None,Move,browsing
+Movement,1571655854.1948,835,297,None,Move,browsing
+Movement,1571655854.219,817,318,None,Move,browsing
+Movement,1571655854.2291,810,326,None,Move,browsing
+Movement,1571655854.2471,799,338,None,Move,browsing
+Movement,1571655854.2572,787,354,None,Move,browsing
+Movement,1571655854.2693,780,361,None,Move,browsing
+Movement,1571655854.2794,769,374,None,Move,browsing
+Movement,1571655854.2894,761,383,None,Move,browsing
+Movement,1571655854.2995,755,390,None,Move,browsing
+Movement,1571655854.3179,750,395,None,Move,browsing
+Movement,1571655854.33,742,404,None,Move,browsing
+Movement,1571655854.338,739,407,None,Move,browsing
+Movement,1571655854.3501,733,414,None,Move,browsing
+Movement,1571655854.3581,729,417,None,Move,browsing
+Movement,1571655854.3681,726,420,None,Move,browsing
+Movement,1571655854.3838,722,424,None,Move,browsing
+Movement,1571655854.3994,719,428,None,Move,browsing
+Movement,1571655854.415,718,429,None,Move,browsing
+Movement,1571655854.4306,718,431,None,Move,browsing
+Movement,1571655854.4463,717,433,None,Move,browsing
+Movement,1571655854.4684,717,436,None,Move,browsing
+Movement,1571655854.484,717,441,None,Move,browsing
+Movement,1571655854.4997,717,445,None,Move,browsing
+Movement,1571655854.5153,717,450,None,Move,browsing
+Movement,1571655854.5309,718,455,None,Move,browsing
+Movement,1571655854.5465,719,460,None,Move,browsing
+Movement,1571655854.5621,720,463,None,Move,browsing
+Movement,1571655854.5686,721,465,None,Move,browsing
+Movement,1571655854.5843,722,470,None,Move,browsing
+Movement,1571655854.5999,724,480,None,Move,browsing
+Movement,1571655854.6155,730,491,None,Move,browsing
+Movement,1571655854.6311,733,498,None,Move,browsing
+Movement,1571655854.6468,735,499,None,Move,browsing
+Movement,1571655854.6624,738,501,None,Move,browsing
+Movement,1571655854.6689,740,501,None,Move,browsing
+Movement,1571655854.6845,745,501,None,Move,browsing
+Movement,1571655854.7001,751,500,None,Move,browsing
+Movement,1571655854.7158,758,496,None,Move,browsing
+Movement,1571655854.7314,764,492,None,Move,browsing
+Movement,1571655854.747,769,488,None,Move,browsing
+Movement,1571655854.7626,772,485,None,Move,browsing
+Movement,1571655854.7692,774,483,None,Move,browsing
+Movement,1571655854.7849,774,483,None,Move,browsing
+Movement,1571655854.8005,774,482,None,Move,browsing
+Movement,1571655854.8161,774,481,None,Move,browsing
+Movement,1571655854.8317,773,480,None,Move,browsing
+Movement,1571655854.8473,772,479,None,Move,browsing
+Movement,1571655854.8629,771,478,None,Move,browsing
+Movement,1571655854.8694,771,478,None,Move,browsing
+Movement,1571655854.8851,770,477,None,Move,browsing
+Movement,1571655854.9008,770,477,None,Move,browsing
+Movement,1571655854.9633,770,476,None,Move,browsing
+Movement,1571655854.9851,769,476,None,Move,browsing
+Movement,1571655855.0005,769,475,None,Move,browsing
+Click,1571655855.032,769,475,Left,Pressed,browsing
+Click,1571655855.1696,769,475,Left,Released,browsing
+Movement,1571655855.4324,769,475,None,Move,browsing
+Movement,1571655855.4858,769,474,None,Move,browsing
+Movement,1571655855.6172,769,474,None,Move,browsing
+Movement,1571655856.0196,769,473,None,Move,browsing
+Movement,1571655856.035,768,472,None,Move,browsing
+Movement,1571655856.0507,767,471,None,Move,browsing
+Movement,1571655857.9671,765,471,None,Move,browsing
+Movement,1571655857.9827,763,470,None,Move,browsing
+Movement,1571655857.9892,760,469,None,Move,browsing
+Movement,1571655858.0048,748,468,None,Move,browsing
+Movement,1571655858.0204,738,469,None,Move,browsing
+Movement,1571655858.0361,732,471,None,Move,browsing
+Movement,1571655858.0517,725,473,None,Move,browsing
+Movement,1571655858.0673,723,474,None,Move,browsing
+Movement,1571655858.0829,719,476,None,Move,browsing
+Movement,1571655858.0894,717,477,None,Move,browsing
+Movement,1571655858.1051,713,479,None,Move,browsing
+Movement,1571655858.1207,712,480,None,Move,browsing
+Movement,1571655858.1363,711,480,None,Move,browsing
+Movement,1571655858.1519,710,481,None,Move,browsing
+Movement,1571655858.1675,709,481,None,Move,browsing
+Movement,1571655858.1885,708,483,None,Move,browsing
+Movement,1571655858.19,708,483,None,Move,browsing
+Movement,1571655858.2057,707,484,None,Move,browsing
+Movement,1571655858.2213,706,485,None,Move,browsing
+Movement,1571655858.2369,705,487,None,Move,browsing
+Movement,1571655858.2525,703,487,None,Move,browsing
+Movement,1571655858.2681,702,488,None,Move,browsing
+Movement,1571655858.2898,701,489,None,Move,browsing
+Movement,1571655858.3064,700,490,None,Move,browsing
+Movement,1571655858.3145,699,490,None,Move,browsing
+Movement,1571655858.3302,698,491,None,Move,browsing
+Movement,1571655858.3458,698,491,None,Move,browsing
+Movement,1571655858.4085,698,492,None,Move,browsing
+Movement,1571655858.4242,697,492,None,Move,browsing
+Movement,1571655858.4399,696,492,None,Move,browsing
+Movement,1571655858.4555,696,492,None,Move,browsing
+Movement,1571655858.5336,695,493,None,Move,browsing
+Movement,1571655858.5805,695,493,None,Move,browsing
+Movement,1571655858.6025,695,493,None,Move,browsing
+Movement,1571655858.6181,695,494,None,Move,browsing
+Movement,1571655858.6495,694,494,None,Move,browsing
+Movement,1571655858.7967,694,495,None,Move,browsing
+Movement,1571655858.8027,693,495,None,Move,browsing
+Movement,1571655858.8184,692,496,None,Move,browsing
+Movement,1571655858.834,687,499,None,Move,browsing
+Movement,1571655858.8496,681,505,None,Move,browsing
+Movement,1571655858.8652,678,507,None,Move,browsing
+Movement,1571655858.8808,673,512,None,Move,browsing
+Movement,1571655858.8965,668,517,None,Move,browsing
+Movement,1571655858.903,668,519,None,Move,browsing
+Movement,1571655858.9186,666,522,None,Move,browsing
+Movement,1571655858.9342,665,524,None,Move,browsing
+Movement,1571655858.9498,662,529,None,Move,browsing
+Movement,1571655858.9655,657,536,None,Move,browsing
+Movement,1571655858.9811,653,542,None,Move,browsing
+Movement,1571655859.0032,650,544,None,Move,browsing
+Movement,1571655859.1816,650,544,None,Move,browsing
+Movement,1571655859.2038,650,542,None,Move,browsing
+Movement,1571655859.2194,650,541,None,Move,browsing
+Movement,1571655859.235,650,539,None,Move,browsing
+Movement,1571655859.2506,650,538,None,Move,browsing
+Movement,1571655859.2663,650,537,None,Move,browsing
+Movement,1571655859.2819,651,535,None,Move,browsing
+Movement,1571655859.2975,651,535,None,Move,browsing
+Movement,1571655859.304,651,534,None,Move,browsing
+Movement,1571655859.3197,651,534,None,Move,browsing
+Movement,1571655859.3509,651,533,None,Move,browsing
+Movement,1571655859.6044,651,533,None,Move,browsing
+Movement,1571655861.9718,652,533,None,Move,browsing
+Movement,1571655861.9872,654,531,None,Move,browsing
+Movement,1571655862.0093,660,526,None,Move,browsing
+Movement,1571655862.025,663,525,None,Move,browsing
+Movement,1571655862.0408,664,525,None,Move,browsing
+Movement,1571655862.2609,664,525,None,Move,browsing
+Movement,1571655862.6769,664,524,None,Move,browsing
+Movement,1571655862.7456,664,524,None,Move,browsing
+Movement,1571655862.8613,664,523,None,Move,browsing
+Movement,1571655862.8928,664,523,None,Move,browsing
+Movement,1571655862.9084,664,522,None,Move,browsing
+Movement,1571655862.9144,664,521,None,Move,browsing
+Movement,1571655862.93,664,521,None,Move,browsing
+Movement,1571655862.9615,664,520,None,Move,browsing
+Movement,1571655862.9927,664,520,None,Move,browsing
+Movement,1571655863.7627,664,520,None,Move,browsing
+Movement,1571655863.816,664,519,None,Move,browsing
+Movement,1571655863.863,664,519,None,Move,browsing
+Movement,1571655863.8786,664,518,None,Move,browsing
+Movement,1571655863.8942,664,518,None,Move,browsing
+Movement,1571655863.9162,664,517,None,Move,browsing
+Movement,1571655863.9318,664,516,None,Move,browsing
+Movement,1571655863.9476,664,516,None,Move,browsing
+Movement,1571655863.963,664,515,None,Move,browsing
+Movement,1571655863.9787,664,513,None,Move,browsing
+Movement,1571655863.9943,663,512,None,Move,browsing
+Movement,1571655864.0099,663,508,None,Move,browsing
+Movement,1571655864.0164,663,506,None,Move,browsing
+Movement,1571655864.032,663,502,None,Move,browsing
+Movement,1571655864.0477,665,497,None,Move,browsing
+Movement,1571655864.0633,666,493,None,Move,browsing
+Movement,1571655864.0789,667,489,None,Move,browsing
+Movement,1571655864.0945,669,482,None,Move,browsing
+Movement,1571655864.1101,672,478,None,Move,browsing
+Movement,1571655864.1166,672,475,None,Move,browsing
+Movement,1571655864.1323,673,473,None,Move,browsing
+Movement,1571655864.1479,676,470,None,Move,browsing
+Movement,1571655864.1635,680,465,None,Move,browsing
+Movement,1571655864.1791,684,461,None,Move,browsing
+Movement,1571655864.1948,687,457,None,Move,browsing
+Movement,1571655864.2104,692,453,None,Move,browsing
+Movement,1571655864.2169,693,451,None,Move,browsing
+Movement,1571655864.2326,697,448,None,Move,browsing
+Movement,1571655864.2482,698,447,None,Move,browsing
+Movement,1571655864.2638,699,447,None,Move,browsing
+Click,1571655864.6934001,699,446,Left,Pressed,browsing
+Movement,1571655864.6935,699,446,None,Drag,browsing
+Click,1571655864.6936,699,446,Left,Released,browsing
+Movement,1571655865.4321,699,446,None,Move,browsing
+Movement,1571655866.3499,699,446,None,Move,browsing
+Movement,1571655866.3654,698,446,None,Move,browsing
+Movement,1571655866.381,696,446,None,Move,browsing
+Movement,1571655866.3966,696,446,None,Move,browsing
+Movement,1571655866.4123,695,446,None,Move,browsing
+Movement,1571655866.6343,695,446,None,Move,browsing
+Movement,1571655866.6592,695,446,None,Move,browsing
+Movement,1571655866.6636,694,446,None,Move,browsing
+Movement,1571655866.6792,694,446,None,Move,browsing
+Movement,1571655866.6948,694,446,None,Move,browsing
+Movement,1571655867.4514,693,447,None,Move,browsing
+Movement,1571655867.4669,692,447,None,Move,browsing
+Movement,1571655867.4825,692,448,None,Move,browsing
+Movement,1571655867.4981,691,448,None,Move,browsing
+Movement,1571655867.5137,691,448,None,Move,browsing
+Movement,1571655867.536,691,448,None,Move,browsing
+Movement,1571655871.1054,690,449,None,Move,browsing
+Movement,1571655871.121,687,454,None,Move,browsing
+Movement,1571655871.1431,681,466,None,Move,browsing
+Movement,1571655871.1588,672,478,None,Move,browsing
+Movement,1571655871.1744,657,496,None,Move,browsing
+Movement,1571655871.19,649,507,None,Move,browsing
+Movement,1571655871.2056,643,516,None,Move,browsing
+Movement,1571655871.2213,638,524,None,Move,browsing
+Movement,1571655871.2369,634,533,None,Move,browsing
+Movement,1571655871.2434,631,539,None,Move,browsing
+Movement,1571655871.259,625,547,None,Move,browsing
+Movement,1571655871.2746,621,554,None,Move,browsing
+Movement,1571655871.2902,619,556,None,Move,browsing
+Movement,1571655871.3059,618,559,None,Move,browsing
+Movement,1571655871.3215,615,562,None,Move,browsing
+Movement,1571655871.3436,613,564,None,Move,browsing
+Movement,1571655871.3592,612,565,None,Move,browsing
+Movement,1571655871.4596,612,565,None,Move,browsing
+Movement,1571655871.475,612,565,None,Move,browsing
+Movement,1571655871.4906,612,563,None,Move,browsing
+Movement,1571655871.5063,612,561,None,Move,browsing
+Movement,1571655871.5219,612,559,None,Move,browsing
+Movement,1571655871.5375,613,558,None,Move,browsing
+Movement,1571655871.544,613,557,None,Move,browsing
+Movement,1571655871.5598,613,556,None,Move,browsing
+Movement,1571655871.5754,613,556,None,Move,browsing
+Movement,1571655871.6067,613,555,None,Move,browsing
+Movement,1571655871.6223,613,554,None,Move,browsing
+Movement,1571655871.6379,613,554,None,Move,browsing
+Movement,1571655871.644,614,553,None,Move,browsing
+Movement,1571655871.6598,614,553,None,Move,browsing
+Movement,1571655871.6753,614,552,None,Move,browsing
+Movement,1571655871.744,614,551,None,Move,browsing
+Movement,1571655871.7598,614,550,None,Move,browsing
+Movement,1571655871.7752,614,549,None,Move,browsing
+Movement,1571655871.7909,614,548,None,Move,browsing
+Movement,1571655871.8065,614,547,None,Move,browsing
+Movement,1571655871.8223,614,546,None,Move,browsing
+Movement,1571655871.8597,614,546,None,Move,browsing
+Click,1571655871.9220002,614,545,Left,Pressed,browsing
+Movement,1571655871.9221,614,545,None,Drag,browsing
+Click,1571655871.9222,614,545,Left,Released,browsing
+Movement,1571655872.0221,615,545,None,Move,browsing
+Movement,1571655872.0376,616,544,None,Move,browsing
+Movement,1571655872.0441,616,544,None,Move,browsing
+Movement,1571655872.0598,616,542,None,Move,browsing
+Movement,1571655872.091,616,542,None,Move,browsing
+Movement,1571655872.1066,616,541,None,Move,browsing
+Movement,1571655872.1223,616,540,None,Move,browsing
+Movement,1571655872.138,616,540,None,Move,browsing
+Movement,1571655872.144,616,539,None,Move,browsing
+Movement,1571655872.1596,616,537,None,Move,browsing
+Movement,1571655872.1752,616,535,None,Move,browsing
+Movement,1571655872.1909,616,534,None,Move,browsing
+Movement,1571655872.2065,616,533,None,Move,browsing
+Movement,1571655872.2221,616,532,None,Move,browsing
+Movement,1571655872.2443,615,531,None,Move,browsing
+Movement,1571655872.26,615,530,None,Move,browsing
+Movement,1571655872.2756,615,529,None,Move,browsing
+Movement,1571655872.2912,615,528,None,Move,browsing
+Movement,1571655872.3068,614,527,None,Move,browsing
+Movement,1571655872.3225,614,527,None,Move,browsing
+Movement,1571655872.8237,614,527,None,Move,browsing
+Movement,1571655874.0262,613,526,None,Move,browsing
+Movement,1571655874.0483,611,524,None,Move,browsing
+Movement,1571655874.0639,609,522,None,Move,browsing
+Movement,1571655874.0797,609,521,None,Move,browsing
+Movement,1571655874.0952,608,520,None,Move,browsing
+Movement,1571655874.1108,608,520,None,Move,browsing
+Movement,1571655874.1266,607,520,None,Move,browsing
+Movement,1571655874.1421,607,519,None,Move,browsing
+Movement,1571655874.1798,607,518,None,Move,browsing
+Movement,1571655874.1954,606,518,None,Move,browsing
+Movement,1571655874.2111,606,517,None,Move,browsing
+Movement,1571655874.2269,606,517,None,Move,browsing
+Movement,1571655874.2423,605,516,None,Move,browsing
+Movement,1571655874.2644,605,516,None,Move,browsing
+Movement,1571655874.2959,605,515,None,Move,browsing
+Movement,1571655874.6273,605,515,None,Move,browsing
+Movement,1571655874.6428,605,515,None,Move,browsing
+Movement,1571655874.6493,605,515,None,Move,browsing
+Movement,1571655874.6649,607,515,None,Move,browsing
+Movement,1571655874.6806,609,516,None,Move,browsing
+Movement,1571655874.6962,610,516,None,Move,browsing
+Movement,1571655874.7118,611,518,None,Move,browsing
+Movement,1571655874.7274,618,518,None,Move,browsing
+Movement,1571655874.7431,628,517,None,Move,browsing
+Movement,1571655874.7496,635,516,None,Move,browsing
+Movement,1571655874.7652,649,516,None,Move,browsing
+Movement,1571655874.7809,653,516,None,Move,browsing
+Movement,1571655874.7965,655,516,None,Move,browsing
+Movement,1571655874.8121,657,517,None,Move,browsing
+Movement,1571655874.8277,657,518,None,Move,browsing
+Movement,1571655874.8656,657,518,None,Move,browsing
+Movement,1571655875.0505,658,518,None,Move,browsing
+Movement,1571655875.0662,658,519,None,Move,browsing
+Movement,1571655875.0818,660,521,None,Move,browsing
+Movement,1571655875.0974,663,524,None,Move,browsing
+Movement,1571655875.1131,666,529,None,Move,browsing
+Movement,1571655875.1287,672,535,None,Move,browsing
+Movement,1571655875.1443,676,540,None,Move,browsing
+Movement,1571655875.1508,679,542,None,Move,browsing
+Movement,1571655875.1666,681,543,None,Move,browsing
+Movement,1571655875.1821,684,544,None,Move,browsing
+Movement,1571655875.1977,691,544,None,Move,browsing
+Movement,1571655875.2133,696,543,None,Move,browsing
+Movement,1571655875.2289,705,535,None,Move,browsing
+Movement,1571655875.2446,711,530,None,Move,browsing
+Movement,1571655875.2511,717,524,None,Move,browsing
+Movement,1571655875.2667,724,516,None,Move,browsing
+Movement,1571655875.2823,734,501,None,Move,browsing
+Movement,1571655875.2979,738,492,None,Move,browsing
+Movement,1571655875.3135,745,477,None,Move,browsing
+Movement,1571655875.3292,746,471,None,Move,browsing
+Movement,1571655875.3448,748,466,None,Move,browsing
+Movement,1571655875.3513,748,464,None,Move,browsing
+Movement,1571655875.367,748,460,None,Move,browsing
+Movement,1571655875.3826,749,457,None,Move,browsing
+Movement,1571655875.3982,750,454,None,Move,browsing
+Movement,1571655875.4138,750,453,None,Move,browsing
+Movement,1571655875.4295,750,453,None,Move,browsing
+Movement,1571655875.4517,750,452,None,Move,browsing
+Movement,1571655875.4673,750,451,None,Move,browsing
+Movement,1571655875.483,750,451,None,Move,browsing
+Movement,1571655875.4986,750,450,None,Move,browsing
+Click,1571655875.5142,750,450,Left,Pressed,browsing
+Click,1571655875.6303,750,450,Left,Released,browsing
+Movement,1571655875.6457,750,450,None,Move,browsing
+Movement,1571655876.015,750,450,None,Move,browsing
+Movement,1571655876.0462,750,450,None,Move,browsing
+Movement,1571655876.153,749,450,None,Move,browsing
+Movement,1571655876.2533,749,450,None,Move,browsing
+Movement,1571655876.5696,748,450,None,Move,browsing
+Movement,1571655876.6855,747,450,None,Move,browsing
+Movement,1571655876.9486,747,450,None,Move,browsing
+Movement,1571655876.9864,746,450,None,Move,browsing
+Movement,1571655877.0176,746,450,None,Move,browsing
+Movement,1571655877.1179,745,450,None,Move,browsing
+Movement,1571655877.1866,745,450,None,Move,browsing
+Movement,1571655877.3023,744,450,None,Move,browsing
+Movement,1571655877.3713,743,450,None,Move,browsing
+Movement,1571655877.6182,743,450,None,Move,browsing
+Movement,1571655877.6341,742,450,None,Move,browsing
+Movement,1571655877.6562,742,450,None,Move,browsing
+Movement,1571655877.6876,742,450,None,Move,browsing
+Movement,1571655877.7564,741,450,None,Move,browsing
+Movement,1571655877.8033,741,450,None,Move,browsing
+Movement,1571655877.8346,740,450,None,Move,browsing
+Movement,1571655877.8568,739,450,None,Move,browsing
+Movement,1571655877.9038,739,450,None,Move,browsing
+Movement,1571655878.1573,738,450,None,Move,browsing
+Movement,1571655880.4307,738,449,None,Move,browsing
+Movement,1571655895.9525,738,449,None,Move,browsing
+Movement,1571655896.0684,738,449,None,Move,browsing
+Movement,1571655896.4691,738,449,None,Move,browsing
+Movement,1571655896.4846,739,450,None,Move,browsing
+Movement,1571655896.5002,753,450,None,Move,browsing
+Movement,1571655896.5158,767,451,None,Move,browsing
+Movement,1571655896.5379,786,455,None,Move,browsing
+Movement,1571655896.5536,797,457,None,Move,browsing
+Movement,1571655896.5692,810,461,None,Move,browsing
+Movement,1571655896.5848,839,471,None,Move,browsing
+Movement,1571655896.6004,849,475,None,Move,browsing
+Movement,1571655896.616,868,486,None,Move,browsing
+Movement,1571655896.6317,891,503,None,Move,browsing
+Movement,1571655896.6382,903,514,None,Move,browsing
+Movement,1571655896.6538,927,534,None,Move,browsing
+Movement,1571655896.6694,961,561,None,Move,browsing
+Movement,1571655896.6854,984,575,None,Move,browsing
+Movement,1571655896.701,995,581,None,Move,browsing
+Movement,1571655896.7166,1004,587,None,Move,browsing
+Movement,1571655896.7322,1012,591,None,Move,browsing
+Movement,1571655896.7382,1016,594,None,Move,browsing
+Movement,1571655896.7539,1032,601,None,Move,browsing
+Movement,1571655896.7695,1047,607,None,Move,browsing
+Movement,1571655896.7851,1059,613,None,Move,browsing
+Movement,1571655896.8007,1071,619,None,Move,browsing
+Movement,1571655896.8163,1084,627,None,Move,browsing
+Movement,1571655896.832,1093,634,None,Move,browsing
+Movement,1571655896.8385,1100,638,None,Move,browsing
+Movement,1571655896.8541,1114,649,None,Move,browsing
+Movement,1571655896.8697,1130,659,None,Move,browsing
+Movement,1571655896.8853,1153,676,None,Move,browsing
+Movement,1571655896.901,1173,687,None,Move,browsing
+Movement,1571655896.9166,1212,707,None,Move,browsing
+Movement,1571655896.9322,1238,722,None,Move,browsing
+Movement,1571655896.9387,1266,733,None,Move,browsing
+Movement,1571655896.9543,1293,746,None,Move,browsing
+Movement,1571655896.97,1308,751,None,Move,browsing
+Movement,1571655896.9856,1316,754,None,Move,browsing
+Movement,1571655897.0012,1322,758,None,Move,browsing
+Movement,1571655897.0168,1326,763,None,Move,browsing
+Movement,1571655897.0325,1327,764,None,Move,browsing
+Movement,1571655897.039,1327,765,None,Move,browsing
+Movement,1571655897.0546,1326,766,None,Move,browsing
+Movement,1571655897.0702,1321,768,None,Move,browsing
+Movement,1571655897.0858,1309,768,None,Move,browsing
+Movement,1571655897.1015,1300,768,None,Move,browsing
+Movement,1571655897.1171,1293,767,None,Move,browsing
+Movement,1571655897.1327,1290,767,None,Move,browsing
+Movement,1571655897.1392,1287,767,None,Move,browsing
+Movement,1571655897.1548,1280,767,None,Move,browsing
+Movement,1571655897.1705,1269,767,None,Move,browsing
+Movement,1571655897.1861,1252,764,None,Move,browsing
+Movement,1571655897.2017,1242,762,None,Move,browsing
+Movement,1571655897.2173,1230,758,None,Move,browsing
+Movement,1571655897.2329,1225,755,None,Move,browsing
+Movement,1571655897.2395,1223,754,None,Move,browsing
+Movement,1571655897.2551,1221,752,None,Move,browsing
+Movement,1571655897.2707,1220,752,None,Move,browsing
+Movement,1571655897.2863,1219,752,None,Move,browsing
+Movement,1571655897.3019,1217,751,None,Move,browsing
+Movement,1571655897.3176,1215,751,None,Move,browsing
+Movement,1571655897.3332,1214,751,None,Move,browsing
+Movement,1571655897.3553,1214,751,None,Move,browsing
+Movement,1571655897.3866,1213,751,None,Move,browsing
+Movement,1571655897.4716,1213,750,None,Move,browsing
+Movement,1571655897.5028,1213,750,None,Move,browsing
+Movement,1571655897.5182,1212,750,None,Move,browsing
+Movement,1571655897.5406,1212,749,None,Move,browsing
+Movement,1571655897.5562,1211,749,None,Move,browsing
+Movement,1571655897.5718,1210,748,None,Move,browsing
+Movement,1571655897.5875,1209,748,None,Move,browsing
+Movement,1571655897.603,1207,748,None,Move,browsing
+Movement,1571655897.6187,1205,748,None,Move,browsing
+Movement,1571655897.6408,1204,747,None,Move,browsing
+Movement,1571655897.6566,1204,747,None,Move,browsing
+Click,1571655897.7188,1204,746,Left,Pressed,file system
+Movement,1571655897.7189,1204,746,None,Drag,file system
+Click,1571655897.7189999,1204,746,Left,Released,file system
+Movement,1571655897.9194,1203,746,None,Move,file system
+Movement,1571655897.9351,1203,744,None,Move,file system
+Movement,1571655897.9572,1201,743,None,Move,file system
+Movement,1571655897.9728,1201,742,None,Move,file system
+Movement,1571655897.9885,1199,740,None,Move,file system
+Movement,1571655898.0041,1197,738,None,Move,file system
+Movement,1571655898.0197,1194,737,None,Move,file system
+Movement,1571655898.0353,1193,736,None,Move,file system
+Movement,1571655898.0418,1192,735,None,Move,file system
+Movement,1571655898.0575,1189,733,None,Move,file system
+Movement,1571655898.0731,1183,728,None,Move,file system
+Movement,1571655898.0887,1178,725,None,Move,file system
+Movement,1571655898.1043,1175,722,None,Move,file system
+Movement,1571655898.12,1165,714,None,Move,file system
+Movement,1571655898.1356,1158,707,None,Move,file system
+Movement,1571655898.1421,1153,702,None,Move,file system
+Movement,1571655898.1577,1141,689,None,Move,file system
+Movement,1571655898.1733,1133,679,None,Move,file system
+Movement,1571655898.189,1125,667,None,Move,file system
+Movement,1571655898.2046,1121,660,None,Move,file system
+Movement,1571655898.2202,1111,642,None,Move,file system
+Movement,1571655898.2358,1107,634,None,Move,file system
+Movement,1571655898.2423,1100,620,None,Move,file system
+Movement,1571655898.258,1096,614,None,Move,file system
+Movement,1571655898.2736,1090,600,None,Move,file system
+Movement,1571655898.2892,1084,586,None,Move,file system
+Movement,1571655898.3048,1079,574,None,Move,file system
+Movement,1571655898.3204,1075,562,None,Move,file system
+Movement,1571655898.3361,1072,552,None,Move,file system
+Movement,1571655898.3426,1070,548,None,Move,file system
+Movement,1571655898.3582,1067,540,None,Move,file system
+Movement,1571655898.3738,1066,535,None,Move,file system
+Movement,1571655898.3894,1064,530,None,Move,file system
+Movement,1571655898.4051,1063,523,None,Move,file system
+Movement,1571655898.4207,1062,518,None,Move,file system
+Movement,1571655898.4363,1060,505,None,Move,file system
+Movement,1571655898.4428,1060,499,None,Move,file system
+Movement,1571655898.4584,1060,496,None,Move,file system
+Movement,1571655898.4741,1060,490,None,Move,file system
+Movement,1571655898.4897,1060,484,None,Move,file system
+Movement,1571655898.5053,1060,478,None,Move,file system
+Movement,1571655898.5209,1060,472,None,Move,file system
+Movement,1571655898.5365,1060,466,None,Move,file system
+Movement,1571655898.543,1060,463,None,Move,file system
+Movement,1571655898.5587,1060,458,None,Move,file system
+Movement,1571655898.5743,1060,450,None,Move,file system
+Movement,1571655898.5899,1060,449,None,Move,file system
+Movement,1571655898.6055,1060,446,None,Move,file system
+Movement,1571655898.6212,1060,443,None,Move,file system
+Movement,1571655898.6368,1061,442,None,Move,file system
+Movement,1571655898.6433,1062,440,None,Move,file system
+Movement,1571655898.6589,1062,439,None,Move,file system
+Movement,1571655898.6745,1063,437,None,Move,file system
+Movement,1571655898.6902,1067,432,None,Move,file system
+Movement,1571655898.7058,1068,429,None,Move,file system
+Movement,1571655898.7214,1070,426,None,Move,file system
+Movement,1571655898.737,1071,425,None,Move,file system
+Movement,1571655898.7435,1071,425,None,Move,file system
+Movement,1571655898.7592,1071,424,None,Move,file system
+Movement,1571655898.7748,1072,424,None,Move,file system
+Movement,1571655898.7904,1074,422,None,Move,file system
+Movement,1571655898.806,1077,419,None,Move,file system
+Movement,1571655898.8216,1081,416,None,Move,file system
+Movement,1571655898.8438,1085,414,None,Move,file system
+Movement,1571655898.8594,1089,410,None,Move,file system
+Movement,1571655898.875,1102,399,None,Move,file system
+Movement,1571655898.8906,1112,389,None,Move,file system
+Movement,1571655898.9063,1118,384,None,Move,file system
+Movement,1571655898.9219,1137,361,None,Move,file system
+Movement,1571655898.9375,1154,341,None,Move,file system
+Movement,1571655898.944,1161,335,None,Move,file system
+Movement,1571655898.9596,1175,321,None,Move,file system
+Movement,1571655898.9753,1182,314,None,Move,file system
+Movement,1571655898.9909,1186,309,None,Move,file system
+Movement,1571655899.0065,1188,307,None,Move,file system
+Movement,1571655899.4451,1189,306,None,Move,file system
+Movement,1571655899.4607,1189,306,None,Move,file system
+Movement,1571655899.4921,1189,307,None,Move,file system
+Movement,1571655899.5077,1189,308,None,Move,file system
+Movement,1571655899.5232,1189,311,None,Move,file system
+Movement,1571655899.5465,1187,315,None,Move,file system
+Movement,1571655899.5622,1184,319,None,Move,file system
+Movement,1571655899.5778,1181,323,None,Move,file system
+Movement,1571655899.5935,1178,328,None,Move,file system
+Movement,1571655899.6091,1175,333,None,Move,file system
+Movement,1571655899.6247,1173,336,None,Move,file system
+Movement,1571655899.6403,1171,339,None,Move,file system
+Movement,1571655899.6469,1170,343,None,Move,file system
+Movement,1571655899.6625,1168,352,None,Move,file system
+Movement,1571655899.6781,1164,362,None,Move,file system
+Movement,1571655899.6938,1161,369,None,Move,file system
+Movement,1571655899.7094,1157,375,None,Move,file system
+Movement,1571655899.725,1155,378,None,Move,file system
+Movement,1571655899.7406,1154,380,None,Move,file system
+Movement,1571655899.7471,1154,380,None,Move,file system
+Movement,1571655899.7941,1153,381,None,Move,file system
+Movement,1571655899.8629,1153,381,None,Move,file system
+Movement,1571655899.8786,1155,381,None,Move,file system
+Movement,1571655899.8942,1162,381,None,Move,file system
+Movement,1571655899.9098,1173,382,None,Move,file system
+Movement,1571655899.9254,1187,384,None,Move,file system
+Movement,1571655899.941,1201,388,None,Move,file system
+Movement,1571655899.9476,1204,389,None,Move,file system
+Movement,1571655899.9632,1209,393,None,Move,file system
+Movement,1571655899.9788,1210,396,None,Move,file system
+Movement,1571655899.9944,1211,399,None,Move,file system
+Movement,1571655900.0101,1211,402,None,Move,file system
+Movement,1571655900.0257,1211,403,None,Move,file system
+Movement,1571655900.0413,1208,405,None,Move,file system
+Movement,1571655900.0478,1207,408,None,Move,file system
+Movement,1571655900.0635,1202,411,None,Move,file system
+Movement,1571655900.0791,1199,414,None,Move,file system
+Movement,1571655900.0947,1192,420,None,Move,file system
+Movement,1571655900.1103,1190,421,None,Move,file system
+Movement,1571655900.1259,1187,423,None,Move,file system
+Movement,1571655900.148,1186,424,None,Move,file system
+Click,1571655900.2797,1186,424,Left,Pressed,file system
+Click,1571655900.4112,1186,424,Left,Released,file system
+Movement,1571655901.514,1186,424,None,Move,file system
+Movement,1571655901.5296,1192,424,None,Move,file system
+Movement,1571655901.5452,1200,423,None,Move,file system
+Movement,1571655901.5518,1203,423,None,Move,file system
+Movement,1571655901.5674,1216,422,None,Move,file system
+Movement,1571655901.583,1227,421,None,Move,file system
+Movement,1571655901.5986,1241,420,None,Move,file system
+Movement,1571655901.6143,1250,420,None,Move,file system
+Movement,1571655901.6299,1254,420,None,Move,file system
+Movement,1571655901.6455,1256,420,None,Move,file system
+Movement,1571655901.652,1256,419,None,Move,file system
+Movement,1571655901.7836,1257,419,None,Move,file system
+Movement,1571655901.799,1259,420,None,Move,file system
+Movement,1571655901.8146,1259,420,None,Move,file system
+Movement,1571655901.8303,1262,421,None,Move,file system
+Movement,1571655901.8524,1267,424,None,Move,file system
+Movement,1571655901.868,1269,425,None,Move,file system
+Movement,1571655902.2688,1269,425,None,Move,file system
+Movement,1571655902.3313,1269,425,None,Move,file system
+Click,1571655902.4846,1269,425,Left,Pressed,file system
+Click,1571655902.6005,1269,425,Left,Released,file system
+Movement,1571655902.7005,1269,425,None,Move,file system
+Movement,1571655902.766,1267,425,None,Move,file system
+Movement,1571655902.776,1267,425,None,Move,file system
+Movement,1571655902.8062,1266,425,None,Move,file system
+Movement,1571655902.8444,1266,425,None,Move,file system
+Movement,1571655902.8746,1265,425,None,Move,file system
+Movement,1571655902.9002,1265,425,None,Move,file system
+Movement,1571655902.9158,1264,425,None,Move,file system
+Movement,1571655902.9315,1262,425,None,Move,file system
+Movement,1571655902.9471,1260,425,None,Move,file system
+Movement,1571655902.9627,1258,425,None,Move,file system
+Movement,1571655902.9783,1255,425,None,Move,file system
+Movement,1571655902.9848,1252,425,None,Move,file system
+Movement,1571655903.0005,1252,425,None,Move,file system
+Movement,1571655903.0161,1251,425,None,Move,file system
+Movement,1571655903.0317,1249,425,None,Move,file system
+Movement,1571655903.0473,1246,425,None,Move,file system
+Movement,1571655903.063,1244,425,None,Move,file system
+Movement,1571655903.0786,1242,425,None,Move,file system
+Movement,1571655903.0851,1241,425,None,Move,file system
+Movement,1571655903.1007,1239,425,None,Move,file system
+Movement,1571655903.1163,1236,425,None,Move,file system
+Movement,1571655903.132,1234,425,None,Move,file system
+Movement,1571655903.1476,1230,425,None,Move,file system
+Movement,1571655903.1709,1226,425,None,Move,file system
+Movement,1571655903.1849,1224,425,None,Move,file system
+Movement,1571655903.2006,1220,425,None,Move,file system
+Movement,1571655903.2162,1219,425,None,Move,file system
+Movement,1571655903.2318,1211,425,None,Move,file system
+Movement,1571655903.263,1207,425,None,Move,file system
+Movement,1571655903.2787,1201,425,None,Move,file system
+Movement,1571655903.2872,1193,425,None,Move,file system
+Movement,1571655903.2952,1190,425,None,Move,file system
+Movement,1571655903.3053,1182,426,None,Move,file system
+Movement,1571655903.3209,1165,427,None,Move,file system
+Movement,1571655903.3365,1142,427,None,Move,file system
+Movement,1571655903.3521,1125,428,None,Move,file system
+Movement,1571655903.3678,1109,428,None,Move,file system
+Movement,1571655903.3834,1097,428,None,Move,file system
+Movement,1571655903.4055,1089,428,None,Move,file system
+Movement,1571655903.4211,1079,428,None,Move,file system
+Movement,1571655903.4367,1078,428,None,Move,file system
+Movement,1571655903.4524,1075,428,None,Move,file system
+Movement,1571655903.584,1075,428,None,Move,file system
+Movement,1571655903.5995,1075,427,None,Move,file system
+Movement,1571655903.606,1075,426,None,Move,file system
+Movement,1571655903.6217,1076,422,None,Move,file system
+Movement,1571655903.6373,1076,420,None,Move,file system
+Movement,1571655903.6529,1078,415,None,Move,file system
+Movement,1571655903.6685,1079,412,None,Move,file system
+Movement,1571655903.6842,1081,408,None,Move,file system
+Movement,1571655903.7063,1084,405,None,Move,file system
+Movement,1571655903.7534,1085,405,None,Move,file system
+Movement,1571655903.7688,1086,404,None,Move,file system
+Movement,1571655903.7846,1086,404,None,Move,file system
+Movement,1571655903.8001,1088,404,None,Move,file system
+Movement,1571655903.8066,1089,404,None,Move,file system
+Movement,1571655903.8223,1093,405,None,Move,file system
+Movement,1571655903.8378,1097,407,None,Move,file system
+Movement,1571655903.8534,1100,409,None,Move,file system
+Movement,1571655903.869,1103,411,None,Move,file system
+Movement,1571655903.8847,1112,418,None,Move,file system
+Movement,1571655903.9003,1115,422,None,Move,file system
+Movement,1571655903.9068,1117,423,None,Move,file system
+Movement,1571655903.9224,1119,424,None,Move,file system
+Movement,1571655904.1246,1119,426,None,Move,file system
+Movement,1571655904.1715,1119,426,None,Move,file system
+Movement,1571655904.187,1120,427,None,Move,file system
+Movement,1571655929.6143,1123,431,None,Move,file system
+Movement,1571655929.6297,1125,435,None,Move,file system
+Movement,1571655929.6453,1127,438,None,Move,file system
+Movement,1571655929.7145,1127,438,None,Move,file system
+Movement,1571655929.73,1127,437,None,Move,file system
+Movement,1571655929.7456,1125,432,None,Move,file system
+Movement,1571655929.7612,1124,426,None,Move,file system
+Movement,1571655929.7677,1123,424,None,Move,file system
+Movement,1571655929.7833,1123,422,None,Move,file system
+Movement,1571655929.799,1123,420,None,Move,file system
+Movement,1571655929.8726,1122,420,None,Move,file system
+Movement,1571655929.8884,1121,423,None,Move,file system
+Movement,1571655929.9042,1121,425,None,Move,file system
+Movement,1571655929.9197,1120,430,None,Move,file system
+Movement,1571655929.9353,1119,434,None,Move,file system
+Movement,1571655929.9509,1119,449,None,Move,file system
+Movement,1571655929.9666,1119,451,None,Move,file system
+Movement,1571655929.9726,1119,452,None,Move,file system
+Movement,1571655929.9883,1119,456,None,Move,file system
+Movement,1571655930.0039,1119,457,None,Move,file system
+Movement,1571655930.0196,1119,458,None,Move,file system
+Click,1571655930.1506002,1119,459,Left,Pressed,file system
+Movement,1571655930.1507,1119,459,None,Drag,file system
+Click,1571655930.1508,1119,459,Left,Released,file system
+Movement,1571655930.2548,1119,459,None,Move,file system
+Movement,1571655939.3741,1119,459,None,Move,file system
+Movement,1571655939.3895,1143,465,None,Move,file system
+Movement,1571655939.4051,1238,480,None,Move,file system
+Movement,1571655939.4207,1325,493,None,Move,file system
+Movement,1571655939.4273,1352,498,None,Move,file system
+Movement,1571655939.4429,1362,499,None,Move,file system
+Movement,1571655939.5056,1363,499,None,Move,file system
+Movement,1571655939.521,1364,499,None,Move,file system
+Movement,1571655939.5275,1366,500,None,Move,file system
+Movement,1571655939.5432,1367,501,None,Move,file system
+Movement,1571655939.5588,1366,501,None,Move,file system
+Movement,1571655939.5744,1366,501,None,Move,file system
+Movement,1571655939.7596,1365,502,None,Move,file system
+Movement,1571655939.775,1359,505,None,Move,file system
+Movement,1571655939.7906,1348,509,None,Move,file system
+Movement,1571655939.8063,1341,510,None,Move,file system
+Movement,1571655939.8219,1330,510,None,Move,file system
+Movement,1571655939.8284,1324,510,None,Move,file system
+Movement,1571655939.844,1314,511,None,Move,file system
+Movement,1571655939.8597,1308,516,None,Move,file system
+Movement,1571655939.8753,1304,520,None,Move,file system
+Movement,1571655939.8909,1301,525,None,Move,file system
+Movement,1571655939.9065,1296,533,None,Move,file system
+Movement,1571655939.9221,1289,537,None,Move,file system
+Movement,1571655939.9287,1286,538,None,Move,file system
+Movement,1571655939.9443,1280,540,None,Move,file system
+Movement,1571655939.96,1271,540,None,Move,file system
+Movement,1571655939.9756,1264,540,None,Move,file system
+Movement,1571655939.9938,1260,540,None,Move,file system
+Movement,1571655940.0094,1258,540,None,Move,file system
+Movement,1571655940.0444,1257,540,None,Move,file system
+Movement,1571655940.0599,1255,540,None,Move,file system
+Movement,1571655940.0755,1250,540,None,Move,file system
+Movement,1571655940.0911,1240,540,None,Move,file system
+Movement,1571655940.1068,1231,541,None,Move,file system
+Movement,1571655940.1224,1209,541,None,Move,file system
+Movement,1571655940.1289,1205,542,None,Move,file system
+Movement,1571655940.1446,1191,543,None,Move,file system
+Movement,1571655940.1602,1180,544,None,Move,file system
+Movement,1571655940.1758,1176,544,None,Move,file system
+Movement,1571655940.1914,1173,544,None,Move,file system
+Movement,1571655940.207,1168,544,None,Move,file system
+Movement,1571655940.2227,1163,544,None,Move,file system
+Movement,1571655940.2292,1161,544,None,Move,file system
+Movement,1571655940.2448,1158,544,None,Move,file system
+Movement,1571655940.2604,1156,544,None,Move,file system
+Movement,1571655940.2762,1154,544,None,Move,file system
+Movement,1571655940.2917,1152,543,None,Move,file system
+Movement,1571655940.3073,1150,542,None,Move,file system
+Movement,1571655940.3295,1147,540,None,Move,file system
+Movement,1571655940.3451,1145,539,None,Move,file system
+Movement,1571655940.4299,1145,538,None,Move,file system
+Movement,1571655940.4614,1145,537,None,Move,file system
+Movement,1571655940.566,1145,537,None,Move,file system
+Movement,1571655941.3305,1145,537,None,Move,file system
+Movement,1571655941.3365,1146,537,None,Move,file system
+Movement,1571655941.3521,1147,535,None,Move,file system
+Movement,1571655941.3677,1149,533,None,Move,file system
+Movement,1571655941.3834,1150,532,None,Move,file system
+Movement,1571655941.3991,1150,532,None,Move,file system
+Movement,1571655941.4146,1150,531,None,Move,file system
+Movement,1571655941.4304,1150,530,None,Move,file system
+Movement,1571655941.4364,1150,529,None,Move,file system
+Movement,1571655941.452,1151,528,None,Move,file system
+Movement,1571655941.4677,1151,526,None,Move,file system
+Movement,1571655941.4833,1151,524,None,Move,file system
+Movement,1571655941.4989,1151,523,None,Move,file system
+Movement,1571655941.5145,1151,522,None,Move,file system
+Movement,1571655941.6306,1151,521,None,Move,file system
+Click,1571655941.6682,1151,521,Left,Pressed,file system
+Movement,1571655941.6683,1151,521,None,Drag,file system
+Click,1571655941.6683998,1151,521,Left,Released,file system
+Movement,1571655941.8685,1151,521,None,Move,file system
+Movement,1571655942.316,1151,521,None,Move,file system
+Movement,1571655942.4162,1151,520,None,Move,file system
+Movement,1571655942.4536,1151,520,None,Move,file system
+Movement,1571655942.4692,1151,518,None,Move,file system
+Movement,1571655942.4848,1151,517,None,Move,file system
+Movement,1571655942.5005,1151,515,None,Move,file system
+Movement,1571655942.5161,1151,514,None,Move,file system
+Movement,1571655942.5317,1150,513,None,Move,file system
+Movement,1571655942.5382,1150,513,None,Move,file system
+Movement,1571655942.5696,1150,512,None,Move,file system
+Movement,1571655942.5853,1149,512,None,Move,file system
+Movement,1571655942.6165,1149,511,None,Move,file system
+Movement,1571655942.6385,1149,510,None,Move,file system
+Movement,1571655942.6541,1149,510,None,Move,file system
+Movement,1571655942.6697,1149,509,None,Move,file system
+Movement,1571655942.701,1149,509,None,Move,file system
+Movement,1571655942.7166,1149,508,None,Move,file system
+Movement,1571655942.7385,1149,506,None,Move,file system
+Movement,1571655942.739,1149,506,None,Move,file system
+Movement,1571655942.7546,1149,505,None,Move,file system
+Movement,1571655942.7703,1149,504,None,Move,file system
+Movement,1571655942.7859,1149,503,None,Move,file system
+Movement,1571655942.8016,1149,502,None,Move,file system
+Movement,1571655942.8704,1149,502,None,Move,file system
+Movement,1571655946.0063,1149,502,None,Move,file system
+Movement,1571655946.0217,1148,501,None,Move,file system
+Movement,1571655946.0373,1148,501,None,Move,file system
+Movement,1571655946.0529,1148,500,None,Move,file system
+Movement,1571655946.0686,1148,500,None,Move,file system
+Movement,1571655946.2533,1147,500,None,Move,file system
+Movement,1571655949.0855,1147,498,None,Move,file system
+Movement,1571655949.1076,1145,496,None,Move,file system
+Movement,1571655949.1233,1145,495,None,Move,file system
+Movement,1571655949.1389,1143,495,None,Move,file system
+Movement,1571655949.1546,1142,495,None,Move,file system
+Movement,1571655949.2016,1142,495,None,Move,file system
+Movement,1571655949.4587,1142,495,None,Move,file system
+Movement,1571655949.4745,1141,493,None,Move,file system
+Movement,1571655949.4901,1140,491,None,Move,file system
+Movement,1571655949.5056,1137,488,None,Move,file system
+Movement,1571655949.5121,1135,485,None,Move,file system
+Movement,1571655949.5278,1130,477,None,Move,file system
+Movement,1571655949.5434,1123,470,None,Move,file system
+Movement,1571655949.559,1120,467,None,Move,file system
+Movement,1571655949.5746,1116,463,None,Move,file system
+Movement,1571655949.5903,1110,458,None,Move,file system
+Movement,1571655949.6085,1107,456,None,Move,file system
+Movement,1571655949.612,1105,455,None,Move,file system
+Movement,1571655949.6277,1100,452,None,Move,file system
+Movement,1571655949.6433,1097,450,None,Move,file system
+Movement,1571655949.6589,1093,447,None,Move,file system
+Movement,1571655949.6746,1089,446,None,Move,file system
+Movement,1571655949.6902,1086,444,None,Move,file system
+Movement,1571655949.7058,1086,443,None,Move,file system
+Movement,1571655949.7124,1085,443,None,Move,file system
+Movement,1571655949.728,1084,441,None,Move,file system
+Movement,1571655949.7436,1083,440,None,Move,file system
+Movement,1571655949.8123,1082,440,None,Move,file system
+Movement,1571655950.0594,1082,439,None,Move,file system
+Movement,1571655950.144,1082,439,None,Move,file system
+Movement,1571655950.1753,1082,438,None,Move,file system
+Movement,1571655950.1909,1082,437,None,Move,file system
+Movement,1571655950.2065,1082,436,None,Move,file system
+Movement,1571655950.213,1082,435,None,Move,file system
+Movement,1571655950.2287,1081,434,None,Move,file system
+Movement,1571655950.2443,1081,431,None,Move,file system
+Movement,1571655950.2599,1081,430,None,Move,file system
+Movement,1571655950.2755,1081,429,None,Move,file system
+Movement,1571655950.2911,1081,428,None,Move,file system
+Movement,1571655950.3105,1081,427,None,Move,file system
+Movement,1571655950.313,1081,427,None,Move,file system
+Movement,1571655950.3286,1081,425,None,Move,file system
+Movement,1571655950.3443,1081,424,None,Move,file system
+Movement,1571655950.3599,1080,423,None,Move,file system
+Movement,1571655950.3755,1080,421,None,Move,file system
+Movement,1571655950.3911,1080,419,None,Move,file system
+Movement,1571655950.4067,1080,418,None,Move,file system
+Movement,1571655950.4133,1080,417,None,Move,file system
+Movement,1571655950.4289,1079,416,None,Move,file system
+Movement,1571655950.4445,1079,415,None,Move,file system
+Movement,1571655950.4601,1079,415,None,Move,file system
+Movement,1571655950.4758,1079,414,None,Move,file system
+Movement,1571655950.6448,1079,414,None,Move,file system
+Movement,1571655950.6604,1078,414,None,Move,file system
+Movement,1571655950.6759,1077,414,None,Move,file system
+Movement,1571655950.6915,1075,414,None,Move,file system
+Movement,1571655950.7071,1074,413,None,Move,file system
+Movement,1571655950.7131,1073,413,None,Move,file system
+Movement,1571655950.7288,1072,413,None,Move,file system
+Movement,1571655950.7444,1070,413,None,Move,file system
+Movement,1571655950.8131,1070,413,None,Move,file system
+Movement,1571655950.8445,1069,413,None,Move,file system
+Movement,1571655950.8602,1069,413,None,Move,file system
+Movement,1571655950.8758,1068,413,None,Move,file system
+Movement,1571655950.8912,1066,413,None,Move,file system
+Movement,1571655950.9133,1065,413,None,Move,file system
+Movement,1571655950.929,1064,413,None,Move,file system
+Movement,1571655950.9446,1063,413,None,Move,file system
+Movement,1571655950.9603,1062,413,None,Move,file system
+Movement,1571655950.9915,1062,413,None,Move,file system
+Movement,1571655951.0551,1061,413,None,Move,file system
+Movement,1571655951.0709,1060,413,None,Move,file system
+Movement,1571655951.0864,1059,414,None,Move,file system
+Movement,1571655951.102,1057,415,None,Move,file system
+Movement,1571655951.1135,1055,416,None,Move,file system
+Movement,1571655951.1291,1048,421,None,Move,file system
+Movement,1571655951.1448,1036,426,None,Move,file system
+Movement,1571655951.1604,1027,433,None,Move,file system
+Movement,1571655951.176,1019,437,None,Move,file system
+Movement,1571655951.1916,1013,443,None,Move,file system
+Movement,1571655951.2072,1010,448,None,Move,file system
+Movement,1571655951.2138,1009,450,None,Move,file system
+Movement,1571655951.2294,1007,454,None,Move,file system
+Movement,1571655951.2451,1005,458,None,Move,file system
+Movement,1571655951.2607,1002,462,None,Move,file system
+Movement,1571655951.2763,1001,464,None,Move,file system
+Movement,1571655951.2919,1001,465,None,Move,file system
+Movement,1571655951.3075,1000,466,None,Move,file system
+Movement,1571655951.3141,1000,466,None,Move,file system
+Movement,1571655951.3297,1000,467,None,Move,file system
+Movement,1571655951.3453,1000,468,None,Move,file system
+Movement,1571655951.3924,1000,468,None,Move,file system
+Movement,1571655951.5448,1000,468,None,Move,file system
+Movement,1571655951.8606,1000,468,None,Move,file system
+Movement,1571655951.876,1001,468,None,Move,file system
+Movement,1571655951.8916,1003,468,None,Move,file system
+Movement,1571655951.9072,1005,468,None,Move,file system
+Movement,1571655951.9229,1008,468,None,Move,file system
+Movement,1571655951.9294,1009,468,None,Move,file system
+Movement,1571655951.945,1011,468,None,Move,file system
+Movement,1571655951.9607,1011,468,None,Move,file system
+Movement,1571655954.1233,1012,468,None,Move,file system
+Movement,1571655954.1389,1010,465,None,Move,file system
+Movement,1571655954.1454,1009,464,None,Move,file system
+Movement,1571655954.161,1009,461,None,Move,file system
+Movement,1571655954.1766,1007,457,None,Move,file system
+Movement,1571655954.1923,1006,453,None,Move,file system
+Movement,1571655954.2079,1005,451,None,Move,file system
+Movement,1571655954.2235,1004,449,None,Move,file system
+Movement,1571655954.2391,1003,448,None,Move,file system
+Movement,1571655954.2457,1003,448,None,Move,file system
+Movement,1571655954.2613,1002,446,None,Move,file system
+Movement,1571655954.2769,999,442,None,Move,file system
+Movement,1571655954.2925,995,439,None,Move,file system
+Movement,1571655954.3082,991,435,None,Move,file system
+Movement,1571655954.3238,986,431,None,Move,file system
+Movement,1571655954.3456,981,426,None,Move,file system
+Movement,1571655954.3613,975,419,None,Move,file system
+Movement,1571655954.3769,973,416,None,Move,file system
+Movement,1571655954.3925,971,414,None,Move,file system
+Movement,1571655954.4081,967,409,None,Move,file system
+Movement,1571655954.4238,965,405,None,Move,file system
+Movement,1571655954.4394,964,402,None,Move,file system
+Movement,1571655954.4459,962,400,None,Move,file system
+Movement,1571655954.4615,960,397,None,Move,file system
+Movement,1571655954.4771,958,394,None,Move,file system
+Movement,1571655954.4928,957,392,None,Move,file system
+Movement,1571655954.5084,956,390,None,Move,file system
+Movement,1571655954.524,952,385,None,Move,file system
+Movement,1571655954.5396,949,380,None,Move,file system
+Movement,1571655954.5462,949,380,None,Move,file system
+Movement,1571655954.5618,947,378,None,Move,file system
+Movement,1571655954.5774,947,377,None,Move,file system
+Movement,1571655954.593,947,376,None,Move,file system
+Movement,1571655954.6087,947,375,None,Move,file system
+Movement,1571655954.6243,947,374,None,Move,file system
+Movement,1571655954.6401,947,373,None,Move,file system
+Movement,1571655954.6461,947,373,None,Move,file system
+Movement,1571655954.6617,947,372,None,Move,file system
+Movement,1571655954.6773,947,372,None,Move,file system
+Movement,1571655954.6929,948,370,None,Move,file system
+Movement,1571655954.7086,949,370,None,Move,file system
+Movement,1571655954.7242,949,369,None,Move,file system
+Movement,1571655954.7398,950,369,None,Move,file system
+Movement,1571655954.7464,951,368,None,Move,file system
+Movement,1571655954.762,952,368,None,Move,file system
+Movement,1571655954.7776,953,367,None,Move,file system
+Movement,1571655954.7932,954,366,None,Move,file system
+Movement,1571655954.8089,956,366,None,Move,file system
+Movement,1571655954.8245,957,366,None,Move,file system
+Movement,1571655954.8466,957,365,None,Move,file system
+Movement,1571655954.8623,958,365,None,Move,file system
+Movement,1571655954.8779,959,365,None,Move,file system
+Movement,1571655954.8935,959,365,None,Move,file system
+Click,1571655954.9247,960,365,Left,Pressed,file system
+Movement,1571655954.9248,960,365,None,Drag,file system
+Movement,1571655954.9466,960,365,None,Drag,file system
+Movement,1571655954.9779,961,366,None,Drag,file system
+Movement,1571655954.9935,961,366,None,Drag,file system
+Movement,1571655955.0248,962,367,None,Drag,file system
+Movement,1571655955.0469,963,368,None,Drag,file system
+Movement,1571655955.0625,964,368,None,Drag,file system
+Movement,1571655955.0938,964,369,None,Drag,file system
+Movement,1571655955.1094,965,369,None,Drag,file system
+Movement,1571655955.125,965,369,None,Drag,file system
+Movement,1571655955.1471,966,370,None,Drag,file system
+Movement,1571655955.1627,967,370,None,Drag,file system
+Movement,1571655955.1784,968,371,None,Drag,file system
+Movement,1571655955.194,968,372,None,Drag,file system
+Movement,1571655955.2253,968,372,None,Drag,file system
+Click,1571655955.2254,968,372,Left,Released,file system
+Movement,1571655955.39,968,373,None,Move,file system
+Movement,1571655955.4525,968,373,None,Move,file system
+Movement,1571655955.4585,969,373,None,Move,file system
+Movement,1571655955.4743,969,374,None,Move,file system
+Movement,1571655955.4898,969,374,None,Move,file system
+Movement,1571655955.5054,970,374,None,Move,file system
+Movement,1571655955.5585,970,375,None,Move,file system
+Movement,1571655955.5899,971,375,None,Move,file system
+Movement,1571655955.621,972,375,None,Move,file system
+Click,1571655955.7057002,972,376,Left,Pressed,file system
+Movement,1571655955.7058,972,376,None,Drag,file system
+Movement,1571655955.7745,973,376,None,Drag,file system
+Movement,1571655955.7901,974,376,None,Drag,file system
+Movement,1571655955.8055,980,375,None,Drag,file system
+Movement,1571655955.8212,987,375,None,Drag,file system
+Movement,1571655955.8368,989,375,None,Drag,file system
+Movement,1571655955.8525,993,374,None,Drag,file system
+Movement,1571655955.8585,994,374,None,Drag,file system
+Movement,1571655955.8741,995,374,None,Drag,file system
+Movement,1571655955.8899,995,374,None,Drag,file system
+Movement,1571655956.1054,995,374,None,Drag,file system
+Movement,1571655956.1208,993,374,None,Drag,file system
+Movement,1571655956.1396,991,375,None,Drag,file system
+Movement,1571655956.1566,987,376,None,Drag,file system
+Movement,1571655956.1586,985,376,None,Drag,file system
+Movement,1571655956.1743,981,377,None,Drag,file system
+Movement,1571655956.1898,978,378,None,Drag,file system
+Movement,1571655956.2211,977,378,None,Drag,file system
+Click,1571655956.2212,977,378,Left,Released,file system
+Movement,1571655956.4062,977,378,None,Move,file system
+Movement,1571655956.4217,978,378,None,Move,file system
+Movement,1571655956.4372,982,378,None,Move,file system
+Movement,1571655956.4528,985,378,None,Move,file system
+Movement,1571655956.4593,987,377,None,Move,file system
+Movement,1571655956.4749,990,377,None,Move,file system
+Movement,1571655956.4906,992,377,None,Move,file system
+Movement,1571655956.5062,993,377,None,Move,file system
+Movement,1571655956.5218,994,377,None,Move,file system
+Movement,1571655956.5376,995,377,None,Move,file system
+Movement,1571655956.6003,995,377,None,Move,file system
+Click,1571655956.8473,995,377,Left,Pressed,file system
+Movement,1571655956.8474,995,377,None,Drag,file system
+Movement,1571655956.8686,996,377,None,Drag,file system
+Movement,1571655956.8691,998,377,None,Drag,file system
+Movement,1571655956.8847,999,377,None,Drag,file system
+Movement,1571655956.9004,1000,376,None,Drag,file system
+Movement,1571655956.916,1002,376,None,Drag,file system
+Movement,1571655956.9316,1003,376,None,Drag,file system
+Movement,1571655956.9474,1003,376,None,Drag,file system
+Click,1571655956.9475,1003,376,Left,Released,file system
+Movement,1571655958.1359,1003,376,None,Move,file system
+Movement,1571655958.1731,1003,376,None,Move,file system
+Movement,1571655958.2046,1003,376,None,Move,file system
+Movement,1571655958.2202,1002,376,None,Move,file system
+Movement,1571655958.2357,1002,375,None,Move,file system
+Movement,1571655958.2514,1001,375,None,Move,file system
+Movement,1571655958.4499,1001,375,None,Move,file system
+Movement,1571655958.4654,1002,375,None,Move,file system
+Movement,1571655958.481,1004,375,None,Move,file system
+Movement,1571655958.4875,1005,375,None,Move,file system
+Movement,1571655958.5032,1007,375,None,Move,file system
+Movement,1571655958.5188,1009,375,None,Move,file system
+Movement,1571655958.5344,1011,375,None,Move,file system
+Movement,1571655958.55,1012,375,None,Move,file system
+Movement,1571655958.5656,1014,375,None,Move,file system
+Movement,1571655958.5813,1015,375,None,Move,file system
+Movement,1571655958.5878,1016,375,None,Move,file system
+Movement,1571655958.6034,1018,375,None,Move,file system
+Movement,1571655958.619,1021,375,None,Move,file system
+Movement,1571655958.6347,1024,375,None,Move,file system
+Movement,1571655958.6504,1032,375,None,Move,file system
+Movement,1571655958.6659,1041,376,None,Move,file system
+Movement,1571655958.6881,1047,377,None,Move,file system
+Movement,1571655958.7038,1052,377,None,Move,file system
+Movement,1571655958.7194,1056,377,None,Move,file system
+Movement,1571655958.735,1060,378,None,Move,file system
+Movement,1571655958.7506,1065,378,None,Move,file system
+Movement,1571655958.7663,1067,378,None,Move,file system
+Movement,1571655958.7819,1071,378,None,Move,file system
+Movement,1571655958.7885,1072,378,None,Move,file system
+Movement,1571655958.8041,1074,378,None,Move,file system
+Movement,1571655958.8197,1076,379,None,Move,file system
+Movement,1571655958.8354,1077,379,None,Move,file system
+Movement,1571655958.851,1078,380,None,Move,file system
+Movement,1571655958.8666,1079,382,None,Move,file system
+Movement,1571655958.8845,1081,384,None,Move,file system
+Movement,1571655958.8885,1082,386,None,Move,file system
+Movement,1571655958.9041,1082,389,None,Move,file system
+Movement,1571655958.9197,1083,393,None,Move,file system
+Movement,1571655958.9354,1083,396,None,Move,file system
+Movement,1571655958.951,1083,398,None,Move,file system
+Movement,1571655958.9666,1080,401,None,Move,file system
+Movement,1571655958.9822,1076,404,None,Move,file system
+Movement,1571655958.9888,1075,405,None,Move,file system
+Movement,1571655959.0044,1072,408,None,Move,file system
+Movement,1571655959.0201,1069,410,None,Move,file system
+Movement,1571655959.0357,1067,412,None,Move,file system
+Movement,1571655959.0513,1066,413,None,Move,file system
+Movement,1571655959.0669,1065,414,None,Move,file system
+Click,1571655959.1673,1064,414,Left,Pressed,file system
+Click,1571655959.2889,1064,414,Left,Released,file system
+Movement,1571655959.4207,1064,415,None,Move,file system
+Movement,1571655959.4362,1064,415,None,Move,file system
+Movement,1571655959.4518,1065,416,None,Move,file system
+Movement,1571655959.4675,1065,416,None,Move,file system
+Movement,1571655959.4946,1065,418,None,Move,file system
+Movement,1571655959.6106,1066,418,None,Move,file system
+Movement,1571655962.0005,1066,419,None,Move,file system
+Movement,1571655962.0065,1066,420,None,Move,file system
+Movement,1571655962.0221,1066,421,None,Move,file system
+Movement,1571655962.0378,1066,422,None,Move,file system
+Movement,1571655962.0534,1066,424,None,Move,file system
+Movement,1571655962.069,1066,426,None,Move,file system
+Movement,1571655962.0846,1066,427,None,Move,file system
+Movement,1571655962.1003,1066,428,None,Move,file system
+Movement,1571655962.1068,1066,429,None,Move,file system
+Movement,1571655962.1224,1066,430,None,Move,file system
+Movement,1571655962.1538,1066,430,None,Move,file system
+Movement,1571655963.7234,1066,430,None,Move,file system
+Movement,1571655964.1339,1066,430,None,Move,file system
+Movement,1571655969.0116,1066,431,None,Move,file system
+Movement,1571655969.027,1066,432,None,Move,file system
+Movement,1571655969.0426,1066,433,None,Move,file system
+Movement,1571655969.0582,1067,435,None,Move,file system
+Movement,1571655969.0739,1067,436,None,Move,file system
+Movement,1571655969.0895,1068,437,None,Move,file system
+Movement,1571655969.0955,1068,439,None,Move,file system
+Movement,1571655969.1111,1068,443,None,Move,file system
+Movement,1571655969.1267,1069,448,None,Move,file system
+Movement,1571655969.1423,1070,454,None,Move,file system
+Movement,1571655969.158,1071,460,None,Move,file system
+Movement,1571655969.1736,1071,466,None,Move,file system
+Movement,1571655969.1925,1074,471,None,Move,file system
+Movement,1571655969.1955,1074,474,None,Move,file system
+Movement,1571655969.2111,1076,477,None,Move,file system
+Movement,1571655969.2267,1078,479,None,Move,file system
+Movement,1571655969.2424,1081,482,None,Move,file system
+Movement,1571655969.258,1083,483,None,Move,file system
+Movement,1571655969.2736,1085,484,None,Move,file system
+Movement,1571655969.2892,1087,484,None,Move,file system
+Movement,1571655969.2957,1088,484,None,Move,file system
+Movement,1571655969.3114,1091,485,None,Move,file system
+Movement,1571655969.327,1093,485,None,Move,file system
+Movement,1571655969.4116,1093,485,None,Move,file system
+Movement,1571655969.4272,1092,480,None,Move,file system
+Movement,1571655969.4428,1093,471,None,Move,file system
+Movement,1571655969.4585,1094,468,None,Move,file system
+Movement,1571655969.4741,1103,458,None,Move,file system
+Movement,1571655969.4897,1116,450,None,Move,file system
+Movement,1571655969.4963,1123,446,None,Move,file system
+Movement,1571655969.5119,1134,441,None,Move,file system
+Movement,1571655969.5285,1152,435,None,Move,file system
+Movement,1571655969.5365,1161,431,None,Move,file system
+Movement,1571655969.5375,1166,431,None,Move,file system
+Movement,1571655969.5532,1181,427,None,Move,file system
+Movement,1571655969.5687,1186,427,None,Move,file system
+Movement,1571655969.5845,1198,425,None,Move,file system
+Movement,1571655969.5965,1203,424,None,Move,file system
+Movement,1571655969.6121,1206,424,None,Move,file system
+Movement,1571655969.6903,1207,423,None,Move,file system
+Movement,1571655969.6968,1208,423,None,Move,file system
+Movement,1571655969.7124,1208,421,None,Move,file system
+Movement,1571655969.7281,1209,420,None,Move,file system
+Movement,1571655969.7437,1210,417,None,Move,file system
+Movement,1571655969.7593,1211,415,None,Move,file system
+Movement,1571655969.7749,1211,413,None,Move,file system
+Movement,1571655969.7906,1211,412,None,Move,file system
+Movement,1571655969.8439,1211,412,None,Move,file system
+Movement,1571655969.8975,1211,411,None,Drag,file system
+Movement,1571655973.8735,1211,411,None,Move,file system
+Movement,1571655973.8891,1211,412,None,Move,file system
+Movement,1571655973.9047,1210,415,None,Move,file system
+Movement,1571655973.9204,1208,419,None,Move,file system
+Movement,1571655973.936,1207,424,None,Move,file system
+Movement,1571655973.9425,1207,429,None,Move,file system
+Movement,1571655973.9581,1206,436,None,Move,file system
+Movement,1571655973.9737,1204,443,None,Move,file system
+Movement,1571655973.9893,1203,450,None,Move,file system
+Movement,1571655974.005,1200,457,None,Move,file system
+Movement,1571655974.0206,1198,465,None,Move,file system
+Movement,1571655974.0362,1197,468,None,Move,file system
+Movement,1571655974.0428,1196,470,None,Move,file system
+Movement,1571655974.0584,1194,472,None,Move,file system
+Movement,1571655974.074,1191,474,None,Move,file system
+Movement,1571655974.0897,1186,476,None,Move,file system
+Movement,1571655974.1053,1179,478,None,Move,file system
+Movement,1571655974.1209,1163,482,None,Move,file system
+Movement,1571655974.1365,1154,484,None,Move,file system
+Movement,1571655974.143,1145,486,None,Move,file system
+Movement,1571655974.1587,1127,492,None,Move,file system
+Movement,1571655974.1743,1109,497,None,Move,file system
+Movement,1571655974.1899,1092,501,None,Move,file system
+Movement,1571655974.2056,1075,507,None,Move,file system
+Movement,1571655974.2212,1064,511,None,Move,file system
+Movement,1571655974.2368,1056,515,None,Move,file system
+Movement,1571655974.2433,1053,516,None,Move,file system
+Movement,1571655974.259,1050,518,None,Move,file system
+Movement,1571655974.2746,1048,520,None,Move,file system
+Movement,1571655974.2902,1047,520,None,Move,file system
+Movement,1571655974.3058,1047,521,None,Move,file system
+Movement,1571655974.3214,1043,527,None,Move,file system
+Movement,1571655974.3371,1040,531,None,Move,file system
+Movement,1571655974.3436,1039,532,None,Move,file system
+Movement,1571655974.3592,1038,534,None,Move,file system
+Movement,1571655974.3748,1037,535,None,Move,file system
+Movement,1571655974.3904,1037,536,None,Move,file system
+Movement,1571655974.4061,1037,536,None,Move,file system
+Movement,1571655974.4875,1037,537,None,Move,file system
+Click,1571655974.5875,1037,537,Left,Pressed,file system
+Click,1571655974.7344,1037,537,Left,Released,file system
+Movement,1571655974.7593,1037,537,None,Move,file system
+Movement,1571655976.6357,1037,537,None,Move,file system
+Movement,1571655977.1368,1037,537,None,Move,file system
+Movement,1571655977.1522,1037,536,None,Move,file system
+Movement,1571655977.1678,1037,535,None,Move,file system
+Movement,1571655977.19,1037,535,None,Move,file system
+Movement,1571655977.2213,1037,534,None,Move,file system
+Movement,1571655977.2903,1037,534,None,Move,file system
+Movement,1571655977.5189,1037,533,None,Move,file system
+Movement,1571655977.5346,1037,533,None,Move,file system
+Movement,1571655977.5502,1037,533,None,Move,file system
+Movement,1571655977.5748,1037,532,None,Move,file system
+Movement,1571655977.7532,1037,531,None,Move,file system
+Movement,1571655977.791,1037,531,None,Move,file system
+Movement,1571655977.8066,1038,530,None,Move,file system
+Movement,1571655977.8378,1038,530,None,Move,file system
+Movement,1571655977.9069,1038,529,None,Move,file system
+Movement,1571655977.9971,1038,529,None,Move,file system
+Movement,1571655978.0283,1039,529,None,Move,file system
+Movement,1571655978.0814,1039,528,None,Move,file system
+Movement,1571655978.1128,1039,527,None,Move,file system
+Movement,1571655978.2285,1039,527,None,Move,file system
+Movement,1571655980.3143,1039,527,None,Move,file system
+Movement,1571655980.3298,1039,526,None,Move,file system
+Movement,1571655980.3986,1039,526,None,Move,file system
+Movement,1571655983.9331,1039,525,None,Move,file system
+Movement,1571655983.9486,1039,525,None,Move,file system
+Movement,1571655983.9642,1040,525,None,Move,file system
+Movement,1571655986.16,1039,519,None,Move,file system
+Movement,1571655986.1755,1012,484,None,Move,file system
+Movement,1571655986.1911,955,419,None,Move,file system
+Movement,1571655986.2067,910,373,None,Move,file system
+Movement,1571655986.2223,863,330,None,Move,file system
+Movement,1571655986.2289,843,311,None,Move,file system
+Movement,1571655986.2466,779,262,None,Move,file system
+Movement,1571655986.2622,719,200,None,Move,file system
+Movement,1571655986.2778,668,146,None,Move,file system
+Movement,1571655986.2934,593,76,None,Move,file system
+Movement,1571655986.3091,556,39,None,Move,file system
+Movement,1571655986.3287,536,22,None,Move,file system
+Movement,1571655986.3444,520,12,None,Move,file system
+Movement,1571655986.36,507,5,None,Move,file system
+Movement,1571655986.3756,491,-2,None,Move,file system
+Movement,1571655986.3912,473,-2,None,Move,file system
+Movement,1571655986.4068,450,-2,None,Move,file system
+Movement,1571655986.4225,423,-3,None,Move,file system
+Movement,1571655986.429,410,-3,None,Move,file system
+Movement,1571655986.4446,391,-2,None,Move,file system
+Movement,1571655986.4602,364,-1,None,Move,file system
+Movement,1571655986.4758,346,-4,None,Move,file system
+Movement,1571655986.4915,325,-3,None,Move,file system
+Movement,1571655986.5071,314,-2,None,Move,file system
+Movement,1571655986.5227,310,0,None,Move,file system
+Movement,1571655986.5293,306,0,None,Move,file system
+Movement,1571655986.5449,301,0,None,Move,file system
+Movement,1571655986.5605,296,0,None,Move,file system
+Movement,1571655986.5762,291,1,None,Move,file system
+Movement,1571655986.5918,287,1,None,Move,file system
+Movement,1571655986.6074,285,1,None,Move,file system
+Movement,1571655986.6295,284,1,None,Move,file system
+Movement,1571655986.6452,283,1,None,Move,file system
+Movement,1571655986.6765,283,2,None,Move,file system
+Movement,1571655986.692,281,2,None,Move,file system
+Movement,1571655986.7078,280,2,None,Move,file system
+Movement,1571655986.7298,277,3,None,Move,file system
+Movement,1571655986.7454,275,4,None,Move,file system
+Movement,1571655986.7611,274,4,None,Move,file system
+Movement,1571655986.7767,271,5,None,Move,file system
+Movement,1571655986.7923,268,5,None,Move,file system
+Movement,1571655986.8079,267,7,None,Move,file system
+Movement,1571655986.8235,263,7,None,Move,file system
+Movement,1571655986.8301,262,8,None,Move,file system
+Movement,1571655986.8457,258,10,None,Move,file system
+Movement,1571655986.8613,255,11,None,Move,file system
+Movement,1571655986.8769,252,12,None,Move,file system
+Movement,1571655986.8926,249,14,None,Move,file system
+Movement,1571655986.9084,248,14,None,Move,file system
+Movement,1571655986.9238,247,14,None,Move,file system
+Movement,1571655986.9303,246,14,None,Move,file system
+Click,1571655986.993,246,14,Left,Pressed,file system
+Click,1571655987.1526,246,14,Left,Released,browsing
+Movement,1571655987.2931,246,14,None,Move,browsing
+Movement,1571655988.6123,246,15,None,Move,browsing
+Movement,1571655988.6278,246,19,None,Move,browsing
+Movement,1571655988.6343,246,22,None,Move,browsing
+Movement,1571655988.6499,246,24,None,Move,browsing
+Movement,1571655988.6656,246,29,None,Move,browsing
+Movement,1571655988.6812,247,37,None,Move,browsing
+Movement,1571655988.6968,251,48,None,Move,browsing
+Movement,1571655988.7124,254,53,None,Move,browsing
+Movement,1571655988.728,259,59,None,Move,browsing
+Movement,1571655988.7345,260,61,None,Move,browsing
+Movement,1571655988.7502,264,64,None,Move,browsing
+Movement,1571655988.7658,266,65,None,Move,browsing
+Movement,1571655988.7814,269,65,None,Move,browsing
+Movement,1571655988.7971,274,68,None,Move,browsing
+Movement,1571655988.8127,283,73,None,Move,browsing
+Movement,1571655988.8283,292,79,None,Move,browsing
+Movement,1571655988.8348,295,80,None,Move,browsing
+Movement,1571655988.8505,303,83,None,Move,browsing
+Movement,1571655988.8661,312,85,None,Move,browsing
+Movement,1571655988.8817,319,85,None,Move,browsing
+Movement,1571655988.8973,325,85,None,Move,browsing
+Movement,1571655988.9129,331,85,None,Move,browsing
+Movement,1571655988.9352,337,84,None,Move,browsing
+Movement,1571655988.9508,345,83,None,Move,browsing
+Movement,1571655988.9665,352,79,None,Move,browsing
+Movement,1571655988.982,357,78,None,Move,browsing
+Movement,1571655988.9977,361,76,None,Move,browsing
+Movement,1571655989.0133,362,75,None,Move,browsing
+Movement,1571655989.0289,363,75,None,Move,browsing
+Movement,1571655989.0355,364,73,None,Move,browsing
+Movement,1571655989.4518,364,73,None,Move,browsing
+Movement,1571655989.4673,363,74,None,Move,browsing
+Movement,1571655989.4829,363,75,None,Move,browsing
+Movement,1571655989.4986,363,75,None,Move,browsing
+Movement,1571655989.5141,360,78,None,Move,browsing
+Movement,1571655989.5364,358,78,None,Move,browsing
+Movement,1571655989.5522,357,79,None,Move,browsing
+Movement,1571655989.5677,353,79,None,Move,browsing
+Movement,1571655989.5833,349,79,None,Move,browsing
+Movement,1571655989.5989,336,73,None,Move,browsing
+Movement,1571655989.6145,328,70,None,Move,browsing
+Movement,1571655989.6301,318,65,None,Move,browsing
+Movement,1571655989.6366,306,61,None,Move,browsing
+Movement,1571655989.6679,272,45,None,Move,browsing
+Movement,1571655989.6835,233,24,None,Move,browsing
+Movement,1571655989.6991,222,19,None,Move,browsing
+Movement,1571655989.7369,154,-14,None,Move,browsing
+Movement,1571655989.7525,125,-10,None,Move,browsing
+Movement,1571655989.7994,94,-16,None,Move,browsing
+Movement,1571655989.8795,85,-17,None,Move,browsing
+Movement,1571655989.8996,85,-1,None,Move,browsing
+Movement,1571655989.9097,85,0,None,Move,browsing
+Click,1571655990.141,85,-1,Left,Pressed,browsing
+Movement,1571655990.1411,85,-1,None,Drag,browsing
+Movement,1571655990.1995,85,0,None,Drag,browsing
+Click,1571655990.1996,85,0,Left,Released,browsing
+Movement,1571655990.3078,85,0,None,Move,browsing
+Movement,1571655990.3234,86,0,None,Move,browsing
+Movement,1571655990.33,91,2,None,Move,browsing
+Movement,1571655990.3456,114,14,None,Move,browsing
+Movement,1571655990.3612,149,33,None,Move,browsing
+Movement,1571655990.3768,202,61,None,Move,browsing
+Movement,1571655990.3925,268,95,None,Move,browsing
+Movement,1571655990.4081,347,138,None,Move,browsing
+Movement,1571655990.4237,468,206,None,Move,browsing
+Movement,1571655990.4302,524,239,None,Move,browsing
+Movement,1571655990.4459,596,283,None,Move,browsing
+Movement,1571655990.4615,770,386,None,Move,browsing
+Movement,1571655990.4771,883,452,None,Move,browsing
+Movement,1571655990.4927,966,505,None,Move,browsing
+Movement,1571655990.5083,1044,552,None,Move,browsing
+Movement,1571655990.524,1089,579,None,Move,browsing
+Movement,1571655990.5305,1106,589,None,Move,browsing
+Movement,1571655990.5461,1128,605,None,Move,browsing
+Movement,1571655990.5617,1135,611,None,Move,browsing
+Movement,1571655990.5773,1139,615,None,Move,browsing
+Movement,1571655990.6242,1140,616,None,Move,browsing
+Movement,1571655990.6307,1140,617,None,Move,browsing
+Movement,1571655990.6463,1141,619,None,Move,browsing
+Movement,1571655990.6619,1143,625,None,Move,browsing
+Movement,1571655990.6776,1146,633,None,Move,browsing
+Movement,1571655990.6932,1151,641,None,Move,browsing
+Movement,1571655990.7088,1154,650,None,Move,browsing
+Movement,1571655990.7244,1157,655,None,Move,browsing
+Movement,1571655990.7309,1157,657,None,Move,browsing
+Movement,1571655990.7466,1157,661,None,Move,browsing
+Movement,1571655990.7622,1158,669,None,Move,browsing
+Movement,1571655990.7778,1159,675,None,Move,browsing
+Movement,1571655990.7934,1162,686,None,Move,browsing
+Movement,1571655990.8091,1165,695,None,Move,browsing
+Movement,1571655990.8247,1169,704,None,Move,browsing
+Movement,1571655990.8312,1170,706,None,Move,browsing
+Movement,1571655990.8469,1172,709,None,Move,browsing
+Movement,1571655990.8625,1173,710,None,Move,browsing
+Movement,1571655990.8781,1174,711,None,Move,browsing
+Movement,1571655990.8937,1175,712,None,Move,browsing
+Movement,1571655990.9093,1177,714,None,Move,browsing
+Movement,1571655990.925,1178,716,None,Move,browsing
+Movement,1571655990.9315,1179,716,None,Move,browsing
+Movement,1571655990.9472,1179,717,None,Move,browsing
+Movement,1571655990.9628,1180,717,None,Move,browsing
+Movement,1571655990.9784,1181,720,None,Move,browsing
+Movement,1571655990.994,1183,725,None,Move,browsing
+Movement,1571655991.0096,1185,731,None,Move,browsing
+Movement,1571655991.0253,1187,734,None,Move,browsing
+Movement,1571655991.0318,1188,736,None,Move,browsing
+Movement,1571655991.0474,1189,738,None,Move,browsing
+Movement,1571655991.063,1190,739,None,Move,browsing
+Movement,1571655991.0787,1192,741,None,Move,browsing
+Movement,1571655991.0943,1193,743,None,Move,browsing
+Movement,1571655991.1099,1194,745,None,Move,browsing
+Movement,1571655991.1255,1194,746,None,Move,browsing
+Movement,1571655991.132,1194,746,None,Move,browsing
+Movement,1571655991.1477,1195,747,None,Move,browsing
+Movement,1571655991.1633,1196,747,None,Move,browsing
+Movement,1571655991.1789,1196,748,None,Move,browsing
+Movement,1571655991.1946,1196,748,None,Move,browsing
+Movement,1571655991.2102,1197,748,None,Move,browsing
+Movement,1571655991.2324,1198,748,None,Move,browsing
+Movement,1571655991.2637,1198,748,None,Move,browsing
+Movement,1571655991.4484,1199,748,None,Move,file system
+Movement,1571655991.5642,1199,748,None,Move,file system
+Movement,1571655991.6332,1200,748,None,Move,file system
+Movement,1571655991.6645,1200,748,None,Move,file system
+Movement,1571655991.7113,1201,748,None,Move,file system
+Movement,1571655991.9497,1201,748,None,Move,file system
+Movement,1571655991.981,1201,748,None,Move,file system
+Movement,1571655991.9965,1202,748,None,Move,file system
+Movement,1571655992.0121,1203,748,None,Move,file system
+Movement,1571655992.0277,1203,747,None,Move,file system
+Movement,1571655992.0343,1203,747,None,Move,file system
+Movement,1571655992.0499,1203,745,None,Move,file system
+Movement,1571655992.0655,1204,744,None,Move,file system
+Movement,1571655992.0811,1204,743,None,Move,file system
+Movement,1571655992.0968,1204,742,None,Move,file system
+Movement,1571655992.1124,1204,741,None,Move,file system
+Movement,1571655992.1282,1204,741,None,Move,file system
+Movement,1571655992.1342,1204,740,None,Move,file system
+Movement,1571655992.1499,1204,740,None,Move,file system
+Movement,1571655992.1655,1204,739,None,Move,file system
+Movement,1571655992.1811,1204,738,None,Move,file system
+Movement,1571655992.1967,1204,736,None,Move,file system
+Movement,1571655992.2123,1204,735,None,Move,file system
+Movement,1571655992.2279,1204,734,None,Move,file system
+Movement,1571655992.2344,1204,734,None,Move,file system
+Movement,1571655992.2501,1204,733,None,Move,file system
+Movement,1571655992.2657,1204,731,None,Move,file system
+Movement,1571655992.2813,1204,730,None,Move,file system
+Movement,1571655992.2969,1204,728,None,Move,file system
+Movement,1571655992.3126,1204,725,None,Move,file system
+Movement,1571655992.3282,1204,722,None,Move,file system
+Movement,1571655992.3347,1204,721,None,Move,file system
+Movement,1571655992.3503,1204,716,None,Move,file system
+Movement,1571655992.366,1204,706,None,Move,file system
+Movement,1571655992.3815,1205,702,None,Move,file system
+Movement,1571655992.3972,1205,694,None,Move,file system
+Movement,1571655992.4128,1206,685,None,Move,file system
+Movement,1571655992.4284,1207,672,None,Move,file system
+Movement,1571655992.4349,1208,666,None,Move,file system
+Movement,1571655992.4506,1209,652,None,Move,file system
+Movement,1571655992.4662,1209,639,None,Move,file system
+Movement,1571655992.4818,1209,628,None,Move,file system
+Movement,1571655992.4974,1211,610,None,Move,file system
+Movement,1571655992.5131,1220,579,None,Move,file system
+Movement,1571655992.5287,1223,573,None,Move,file system
+Movement,1571655992.5352,1227,560,None,Move,file system
+Movement,1571655992.5508,1230,546,None,Move,file system
+Movement,1571655992.5665,1233,538,None,Move,file system
+Movement,1571655992.5821,1237,508,None,Move,file system
+Movement,1571655992.5977,1237,504,None,Move,file system
+Movement,1571655992.6133,1237,496,None,Move,file system
+Movement,1571655992.6289,1236,460,None,Move,file system
+Movement,1571655992.6355,1234,449,None,Move,file system
+Movement,1571655992.6511,1231,436,None,Move,file system
+Movement,1571655992.6667,1228,421,None,Move,file system
+Movement,1571655992.6823,1227,419,None,Move,file system
+Movement,1571655992.698,1224,410,None,Move,file system
+Movement,1571655992.7136,1222,403,None,Move,file system
+Movement,1571655992.7292,1219,398,None,Move,file system
+Movement,1571655992.7513,1213,389,None,Move,file system
+Movement,1571655992.767,1209,386,None,Move,file system
+Movement,1571655992.7826,1205,382,None,Move,file system
+Movement,1571655992.7982,1201,378,None,Move,file system
+Movement,1571655992.8138,1199,377,None,Move,file system
+Movement,1571655992.8518,1185,364,None,Move,file system
+Movement,1571655992.8673,1175,354,None,Move,file system
+Movement,1571655992.9143,1156,330,None,Move,file system
+Movement,1571655992.9365,1150,325,None,Move,file system
+Movement,1571655992.9521,1148,323,None,Move,file system
+Movement,1571655992.9677,1147,322,None,Move,file system
+Movement,1571655992.9991,1146,322,None,Move,file system
+Movement,1571655993.0148,1146,322,None,Move,file system
+Movement,1571655993.199,1146,322,None,Move,file system
+Movement,1571655993.2146,1146,324,None,Move,file system
+Movement,1571655993.2302,1146,327,None,Move,file system
+Movement,1571655993.2367,1146,329,None,Move,file system
+Movement,1571655993.2524,1146,331,None,Move,file system
+Movement,1571655993.268,1146,334,None,Move,file system
+Movement,1571655993.2836,1146,336,None,Move,file system
+Movement,1571655993.2992,1146,338,None,Move,file system
+Movement,1571655993.3149,1146,338,None,Move,file system
+Movement,1571655993.337,1146,339,None,Move,file system
+Click,1571655993.437,1147,339,Left,Pressed,file system
+Movement,1571655993.4371,1147,339,None,Drag,file system
+Click,1571655993.4371998,1147,339,Left,Released,file system
+Movement,1571655994.7533,1147,339,None,Move,file system
+Movement,1571655995.0164,1147,339,None,Move,file system
+Movement,1571655995.2322,1147,340,None,Move,file system
+Movement,1571655995.2382,1147,343,None,Move,file system
+Movement,1571655995.2539,1147,354,None,Move,file system
+Movement,1571655995.2695,1147,366,None,Move,file system
+Movement,1571655995.2851,1145,384,None,Move,file system
+Movement,1571655995.3007,1143,400,None,Move,file system
+Movement,1571655995.3163,1142,414,None,Move,file system
+Movement,1571655995.332,1141,425,None,Move,file system
+Movement,1571655995.3385,1141,429,None,Move,file system
+Movement,1571655995.3541,1140,432,None,Move,file system
+Movement,1571655995.3697,1140,433,None,Move,file system
+Movement,1571655995.4322,1140,434,None,Move,file system
+Movement,1571655995.4858,1140,435,None,Move,file system
+Movement,1571655995.5387,1140,435,None,Move,file system
+Movement,1571655995.5545,1140,435,None,Move,file system
+Movement,1571655995.5699,1141,434,None,Move,file system
+Movement,1571655995.5856,1141,431,None,Move,file system
+Movement,1571655995.6012,1143,427,None,Move,file system
+Movement,1571655995.6168,1143,425,None,Move,file system
+Movement,1571655995.6325,1143,425,None,Move,file system
+Movement,1571655995.639,1143,424,None,Move,file system
+Movement,1571655995.6546,1144,423,None,Move,file system
+Movement,1571655995.6703,1144,422,None,Move,file system
+Movement,1571655995.6859,1144,422,None,Move,file system
+Movement,1571655996.4715,1144,421,None,Move,file system
+Movement,1571655996.7409,1144,421,None,Move,file system
+Movement,1571655996.7565,1146,418,None,Move,file system
+Movement,1571655996.7721,1146,418,None,Move,file system
+Movement,1571655996.7878,1146,417,None,Move,file system
+Movement,1571655996.8034,1147,416,None,Move,file system
+Movement,1571655996.819,1147,414,None,Move,file system
+Movement,1571655996.8346,1147,414,None,Move,file system
+Movement,1571655996.8411,1148,414,None,Move,file system
